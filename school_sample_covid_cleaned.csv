@@ -1,0 +1,113 @@
+,school,district,city,state,county,address,zip,school_sample,cleaned
+3,New Urban High School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,1901 SE Oak Grove Blvd,97267,1,New Urban High School
+4,Rowe Middle School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,3606 SE Lake Rd,97222,1,Rowe Middle School
+12,Riverside Elementary School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,16303 SE River Rd,97267,1,Riverside Elementary School
+16,Oregon Trail Elementary School,North Clackamas Sd 12,Clackamas,OR,Clackamas County,13895 SE 152nd Dr,97015,1,Oregon Trail Elementary School
+17,Alder Creek Middle School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,13801 SE Webster Rd,97267,1,Alder Creek Middle School
+21,Milwaukie High School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,2301 SE Willard St.,97222,1,Milwaukie High School
+154,Herbert A. Ammons Middle School,Dade,Miami,FL,Miami-Dade County,17990 SW 142ND AVE,33177,1,Herbert A. Ammons Middle School
+221,Bob Graham Education Center,Dade,Miami Lakes,FL,Miami-Dade County,15901 NW 79TH AVE,33016,1,Bob Graham Education Center
+259,South Miami Senior High School,Dade,Miami,FL,Miami-Dade County,6856 SW 53RD ST,33155,1,South Miami Senior High School
+289,Richmond Heights Middle School,Dade,Miami,FL,Miami-Dade County,15015 SW 103RD AVE,33176,1,Richmond Heights Middle School
+371,Claude Pepper Elementary School,Dade,Miami,FL,Miami-Dade County,14550 SW 96TH ST,33186,1,Claude Pepper Elementary School
+421,Booker T. Washington Senior High,Dade,Miami,FL,Miami-Dade County,1200 NW 6TH AVE,33136,1,Booker T. Washington Senior High School
+474,Frederick Douglass High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2301 Gwynns Falls Pky,21217,1,Frederick Douglass High School
+489,Edmondson-Westside High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,501 N Athol Ave,21229,1,Edmondson-Westside High School
+520,Booker T. Washington Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1301 Mcculloh St,21217,1,Booker T. Washington Middle School
+537,Liberty Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3901 Maine Ave,21207,1,Liberty Elementary School
+540,Hamilton Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,6101 Old Harford Rd,21214,1,Hamilton Elementary/Middle School
+564,Sippican,Marion,Marion,MA,Plymouth County,16 Spring Street,02738,1,Sippican
+635,Chevy Chase Elementary,Montgomery County Public Schools,Chevy Chase,MD,Montgomery County,4015 Rosemary St,20815,1,Chevy Chase Elementary School
+672,Northwest High,Montgomery County Public Schools,Germantown,MD,Montgomery County,13501 Richter Farm Rd,20874,1,Northwest High School
+679,Robert Frost Middle School,Montgomery County Public Schools,Rockville,MD,Montgomery County,9201 Scott Dr,20850,1,Robert Frost Middle School
+693,Ridgeview Middle,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,16600 Raven Rock Dr,20878,1,Ridgeview Middle School
+719,Albert Einstein High,Montgomery County Public Schools,Kensington,MD,Montgomery County,11135 Newport Mill Rd,20895,1,Albert Einstein High School
+727,Judith A. Resnik Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,7301 Hadley Farms Drive,20879,1,Judith A. Resnik Elementary School
+780,Stella Schola,Lake Washington School District,Redmond,WA,King County,13505 NE 75th Street,98052,1,Stella Schola
+782,Ready Start Preschool,Lake Washington School District,Redmond,WA,King County,15130 NE 95th ST,98052,1,Ready Start Preschool
+787,Alcott Elementary,Lake Washington School District,Redmond,WA,King County,4213 - 228th AVE NE,98053,1,Alcott Elementary School
+803,Evergreen Middle School,Lake Washington School District,Redmond,WA,King County,6900 208th AVE NE,98053,1,Evergreen Middle School
+805,Emerson High School,Lake Washington School District,Kirkland,WA,King County,10903 NE 53rd ST,98033,1,Emerson High School
+815,Redmond High,Lake Washington School District,Redmond,WA,King County,17272 NE 104th,98052,1,Redmond High School
+825,Searingtown School,Herricks Union Free School District,Albertson,NY,Nassau County,106 BEVERLY DR,11507,1,Searingtown School
+827,Herricks Middle School,Herricks Union Free School District,Albertson,NY,Nassau County,7 HILLDALE DR,11507,1,Herricks Middle School
+828,Center Street School,Herricks Union Free School District,Williston Park,NY,Nassau County,240 CENTER ST,11596,1,Center Street School
+829,Herricks High School,Herricks Union Free School District,New Hyde Park,NY,Nassau County,100 SHELTER ROCK RD,11040,1,Herricks High School
+830,Sanford Jr High School,Sanford Public Schools,Sanford,ME,York County,708  Main Street,04073,1,Sanford Jr High School
+831,Carl J Lamb School,Sanford Public Schools,Springvale,ME,York County,233 Shaws Ridge Road,04083,1,Carl J Lamb School
+832,Willard School,Sanford Public Schools,Sanford,ME,York County,668 Main Street,04073,1,Willard School
+833,Sanford High School,Sanford Public Schools,Sanford,ME,York County,52 Sanford High School Blvd,04073,1,Sanford High School
+848,Jordan Elementary,Orange Unified,Orange,CA,Orange County,4319 E. Jordan Ave.,92869,1,Jordan Elementary School
+851,Canyon High,Orange Unified,Anaheim,CA,Orange County,220 S. Imperial Hwy.,92807,1,Canyon High School
+855,Yorba Middle,Orange Unified,Orange,CA,Orange County,935 N. Cambridge,92867,1,Yorba Middle School
+858,West Orange Elementary,Orange Unified,Orange,CA,Orange County,243 S. Bush,92868,1,West Orange Elementary School
+862,Portola Middle,Orange Unified,Orange,CA,Orange County,270 N. Palm Dr.,92868,1,Portola Middle School
+874,Richland Continuation High,Orange Unified,Orange,CA,Orange County,615 N. Lemon St.,92867,1,Richland Continuation High School
+877,Clark Middle,Frisco Isd,Frisco,TX,Collin County,4600 COLBY DR,75035,1,Clark Middle School
+887,Memorial H S,Frisco Isd,Frisco,TX,Collin County,12300 FRISCO ST,75033,1,Memorial High School
+890,Nelson Middle,Frisco Isd,Frisco,TX,Collin County,10100 INDEPENDENCE PKWY,75035,1,Nelson Middle School
+897,Christie El,Frisco Isd,Frisco,TX,Collin County,10300 HUNTINGTON RD,75035,1,Christie Elementary School
+916,Lebanon Trail H S,Frisco Isd,Frisco,TX,Collin County,5151 OHIO DR,75035,1,Lebanon Trail High School
+942,Scott El,Frisco Isd,Mckinney,TX,Collin County,10550 MILLBEND DR,75070,1,Scott Elementary School
+966,Archer Elementary,Guilford County Schools,Greensboro,NC,Guilford County,2610 Four Seasons Boulevard,27407,1,Archer Elementary School
+997,Stokesdale Elementary,Guilford County Schools,Stokesdale,NC,Guilford County,8025 US Highway 158,27357,1,Stokesdale Elementary School
+1009,Mendenhall Middle,Guilford County Schools,Greensboro,NC,Guilford County,205 Willoughby Boulevard,27408,1,Mendenhall Middle School
+1020,Northwest Guilford High,Guilford County Schools,Greensboro,NC,Guilford County,5240 Northwest School Road,27409,1,Northwest Guilford High School
+1026,Philip J Weaver Ed Center,Guilford County Schools,Greensboro,NC,Guilford County,300 South Spring Street,27401,1,Philip J Weaver Ed Center
+1048,Jamestown Middle,Guilford County Schools,Jamestown,NC,Guilford County,301 Haynes Road,27282,1,Jamestown Middle School
+1074,Liberty Hs,Bethlehem Area Sd,Bethlehem,PA,Northampton County,1115 Linden St,18018,1,Liberty High School
+1076,Thomas Jefferson El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,404 E North St,18018,1,Thomas Jefferson Elementary School
+1077,Fountain Hill El Sch,Bethlehem Area Sd,Bethlehem,PA,Lehigh County,1330 Church St,18015,1,Fountain Hill Elementary School
+1078,East Hills Ms,Bethlehem Area Sd,Bethlehem,PA,Northampton County,2005 Chester Rd,18017,1,East Hills Middle School
+1084,Broughal Ms,Bethlehem Area Sd,Bethlehem,PA,Northampton County,114 West Morton Street,18015,1,Broughal Middle School
+1086,Freedom Hs,Bethlehem Area Sd,Bethlehem,PA,Northampton County,3149 Chester Ave,18020,1,Freedom High School
+1092,Quest High School,Fremont Public School District,Fremont,MI,Newaygo County,350 CEDAR ST,49412,1,Quest High School
+1093,Fremont Middle School,Fremont Public School District,Fremont,MI,Newaygo County,500 WOODROW ST,49412,1,Fremont Middle School
+1094,Fremont High School,Fremont Public School District,Fremont,MI,Newaygo County,5421 S Warner Ave,49412,1,Fremont High School
+1095,Pathfinder Elementary School,Fremont Public School District,Fremont,MI,Newaygo County,109 WEST 44TH ST,49412,1,Pathfinder Elementary School
+1096,Daisy Brook Elementary School,Fremont Public School District,Fremont,MI,Newaygo County,502 NORTH DIVISION AVE,49412,1,Daisy Brook Elementary School
+1159,Academy Of Health Sciences At Pgcc,Prince George'S County Public Schools,Largo,MD,Prince George'S County,301 Largo Rd,20774,1,Academy Of Health Sciences At Pgcc
+1170,Thomas Johnson Middle,Prince George'S County Public Schools,Lanham,MD,Prince George'S County,5401 Barker Pl,20706,1,Thomas Johnson Middle School
+1176,Central High,Prince George'S County Public Schools,Capitol Heights,MD,Prince George'S County,200 Cabin Branch Rd,20743,1,Central High School
+1196,Hyattsville Middle,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,6001 42nd Ave,20781,1,Hyattsville Middle School
+1207,Baden Elementary,Prince George'S County Public Schools,Brandywine,MD,Prince George'S County,13601 Baden-Westwood Rd,20613,1,Baden Elementary School
+1278,Glenarden Woods Elementary,Prince George'S County Public Schools,Lanham,MD,Prince George'S County,7801 Glenarden Parkway,20706,1,Glenarden Woods Elementary School
+1300,Barry Elementary,Yuba City Unified,Yuba City,CA,Sutter County,1255 Barry Rd.,95991,1,Barry Elementary School
+1302,Albert Powell Continuation,Yuba City Unified,Yuba City,CA,Sutter County,1875 Clark Ave.,95991,1,Albert Powell Continuation
+1303,King Avenue Elementary,Yuba City Unified,Yuba City,CA,Sutter County,630 King Ave.,95991,1,King Avenue Elementary School
+1304,Gray Avenue Middle,Yuba City Unified,Yuba City,CA,Sutter County,808 Gray Ave.,95991,1,Gray Avenue Middle School
+1306,Yuba City High,Yuba City Unified,Yuba City,CA,Sutter County,850 B St.,95991,1,Yuba City High School
+1313,Pcm High School,Pcm Comm School District,Monroe,IA,Jasper County,400 East Highway 163,50170,1,Pcm High School
+1314,Monroe Elementary School,Pcm Comm School District,Monroe,IA,Jasper County,400 N Jasper,50170,1,Monroe Elementary School
+1315,Prairie City Elementary School,Pcm Comm School District,Prairie City,IA,Jasper County,309 East Plainsmen Road,50228,1,Prairie City Elementary School
+1316,Pcm Middle School,Pcm Comm School District,Prairie City,IA,Jasper County,407 Plainsmen Rd,50228,1,Pcm Middle School
+1318,Gifford C. Cole Middle,Eastside Union Elementary,Lancaster,CA,Los Angeles County,3126 E. Ave. I,93535,1,Gifford C. Cole Middle School
+1320,Eastside Academy/Transitional Learning Center,Eastside Union Elementary,Lancaster,CA,Los Angeles County,44958 30th St. E.,93535,1,Eastside Academy/Transitional Learning Center
+1322,Tierra Bonita Elementary,Eastside Union Elementary,Lancaster,CA,Los Angeles County,44820 N. 27th St. E.,93535,1,Tierra Bonita Elementary School
+1323,Galva Elem School,Galva Cusd 224,Galva,IL,Henry County,224 Morgan Rd,61434,1,Galva Elem School
+1324,Galva Jr-Sr High School,Galva Cusd 224,Galva,IL,Henry County,224 Morgan Rd,61434,1,Galva Jr-Sr High School
+1326,Bush Elementary School,Laurel County,London,KY,Laurel County,1832 E Laurel Rd,40741,1,Bush Elementary School
+1331,North Laurel High School,Laurel County,London,KY,Laurel County,1300 East Hal Rogers Parkway,40741,1,North Laurel High School
+1334,North Laurel Middle School,Laurel County,London,KY,Laurel County,101 Johnson Rd,40741,1,North Laurel Middle School
+1338,Johnson Elementary School,Laurel County,London,KY,Laurel County,1781 McWhorter Rd,40741,1,Johnson Elementary School
+1339,South Laurel High School,Laurel County,London,KY,Laurel County,201 South Laurel Rd,40744,1,South Laurel High School
+1341,South Laurel Middle School,Laurel County,London,KY,Laurel County,223 S Laurel Rd,40744,1,South Laurel Middle School
+1344,Goldenview Colony School - 04,Mccook Central School District 43-7,Salem,SD,Mccook County,25473 438th Ave,57058,1,Goldenview Colony School - 04
+1345,Mccook Central Middle School - 03,Mccook Central School District 43-7,Salem,SD,Mccook County,200 E Essex,57058,1,Mccook Central Middle School - 03
+1346,Mccook Central Elementary - 02,Mccook Central School District 43-7,Salem,SD,Mccook County,200 E Essex,57058,1,Mccook Central Elementary - 02
+1347,Mccook Central High School - 01,Mccook Central School District 43-7,Salem,SD,Mccook County,200 E Essex,57058,1,Mccook Central High School - 01
+1348,Okay Es,Okay,Okay,OK,Wagoner County,8611 N  49th Street East,74446,1,Okay Elementary School
+1349,Okay Hs,Okay,Okay,OK,Wagoner County,8611 N  49th Street East,74446,1,Okay High School
+1350,Westville Es,Westville,Westville,OK,Adair County,500 W Chincapin,74965,1,Westville Elementary School
+1351,Westville Jhs,Westville,Westville,OK,Adair County,500 W Chincapin,74965,1,Westville Junior High School
+1352,Westville Hs,Westville,Westville,OK,Adair County,500 W Chincapin,74965,1,Westville High School
+1353,Simons Middle School,Fleming County,Flemingsburg,KY,Fleming County,242 W Water St,41041,1,Simons Middle School
+1354,Hillsboro Elementary School,Fleming County,Hillsboro,KY,Fleming County,7348 Hillsboro Rd,41049,1,Hillsboro Elementary School
+1357,Ewing Elementary School,Fleming County,Ewing,KY,Fleming County,5651 Elizaville Rd.,41039,1,Ewing Elementary School
+1358,Fleming County High School,Fleming County,Flemingsburg,KY,Fleming County,1658 Elizaville Rd,41041,1,Fleming County High School
+1359,Caledonia Elem.,Valley R-Vi,Caledonia,MO,Washington County,1 VIKING DR,63631,1,Caledonia Elem.
+1361,Valley High,Valley R-Vi,Caledonia,MO,Washington County,1 VIKING DR,63631,1,Valley High School
+1366,Adelanto Elementary,Adelanto Elementary,Adelanto,CA,San Bernardino County,17931 Jonathan St.,92301,1,Adelanto Elementary School
+1367,Melva Davis Academy Of Excellence,Adelanto Elementary,Victorville,CA,San Bernardino County,15831 Diamond Rd.,92394,1,Melva Davis Academy Of Excellence
+1370,Mesa Linda Middle,Adelanto Elementary,Victorville,CA,San Bernardino County,13001 Mesa Linda Rd.,92392,1,Mesa Linda Middle School
+1373,Eagle Ranch Elementary,Adelanto Elementary,Adelanto,CA,San Bernardino County,12545 Eagle Ranch Pkwy.,92301,1,Eagle Ranch Elementary School

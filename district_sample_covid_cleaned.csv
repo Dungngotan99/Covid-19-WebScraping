@@ -1,0 +1,1377 @@
+,school,district,city,state,county,address,zip,school_sample,cleaned
+0,El Puente,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,11250 SE 27th Ave,97222,0,Elementary Puente
+1,Happy Valley Elementary School,North Clackamas Sd 12,Happy Valley,OR,Clackamas County,13865 SE King Rd,97086,0,Happy Valley Elementary School
+2,Mount Scott Elementary School,North Clackamas Sd 12,Happy Valley,OR,Clackamas County,11201 SE Stevens Rd,97086,0,Mount Scott Elementary School
+3,New Urban High School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,1901 SE Oak Grove Blvd,97267,1,New Urban High School
+4,Rowe Middle School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,3606 SE Lake Rd,97222,1,Rowe Middle School
+5,Happy Valley Middle School,North Clackamas Sd 12,Happy Valley,OR,Clackamas County,13865 SE King Rd,97086,0,Happy Valley Middle School
+6,Putnam High School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,4950 SE Roethe Rd,97267,0,Putnam High School
+7,Verne A Duncan Elementary School,North Clackamas Sd 12,Happy Valley,OR,Clackamas County,14898 SE Parklane Dr,97015,0,Verne A Duncan Elementary School
+8,Oak Grove Elementary,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,2150 SE Torbank Rd,97222,0,Oak Grove Elementary School
+9,Sojourner School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,11909 SE Linwood Ave,97222,0,Sojourner School
+10,Linwood Elementary School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,11909 SE Linwood Ave,97222,0,Linwood Elementary School
+11,View Acres Elementary School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,4828 SE View Acres Rd,97267,0,View Acres Elementary School
+12,Riverside Elementary School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,16303 SE River Rd,97267,1,Riverside Elementary School
+13,Sunnyside Elementary School,North Clackamas Sd 12,Clackamas,OR,Clackamas County,13401 SE 132nd Ave,97015,0,Sunnyside Elementary School
+14,Whitcomb Elementary School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,7400 SE Thompson Rd,97222,0,Whitcomb Elementary School
+15,Scouters Mountain Elementary,North Clackamas Sd 12,Happy Valley,OR,Clackamas County,10811 SE 172nd Ave,97086,0,Scouters Mountain Elementary School
+16,Oregon Trail Elementary School,North Clackamas Sd 12,Clackamas,OR,Clackamas County,13895 SE 152nd Dr,97015,1,Oregon Trail Elementary School
+17,Alder Creek Middle School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,13801 SE Webster Rd,97267,1,Alder Creek Middle School
+18,Spring Mountain Elementary School,North Clackamas Sd 12,Happy Valley,OR,Clackamas County,11645 SE Masa Ln,97086,0,Spring Mountain Elementary School
+19,Lewelling Elementary School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,5325 SE Logus Rd,97222,0,Lewelling Elementary School
+20,Ardenwald Elementary School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,8950 SE 36th St,97222,0,Ardenwald Elementary School
+21,Milwaukie High School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,2301 SE Willard St.,97222,1,Milwaukie High School
+22,Milwaukie Elementary School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,11250 SE 27th Ave,97222,0,Milwaukie Elementary School
+23,Bilquist Elementary School,North Clackamas Sd 12,Milwaukie,OR,Clackamas County,15708 SE Webster Rd,97267,0,Bilquist Elementary School
+24,Rock Creek Middle School,North Clackamas Sd 12,Happy Valley,OR,Clackamas County,14897 SE Parklane Dr,97015,0,Rock Creek Middle School
+25,Clackamas High School,North Clackamas Sd 12,Clackamas,OR,Clackamas County,14486 SE 122nd Ave,97015,0,Clackamas High School
+26,Phyllis R. Miller Elementary School,Dade,Miami,FL,Miami-Dade County,840 NE 87TH ST,33138,0,Phyllis R. Miller Elementary School
+27,Dr. Henry E. Perrine Academy Of The Arts,Dade,Palmetto Bay,FL,Miami-Dade County,8851 SW 168TH ST,33157,0,Dr. Henry E. Perrine Academy Of The Arts
+28,Edison Park K-8 Center,Dade,Miami,FL,Miami-Dade County,500 NW 67TH ST,33150,0,Edison Park K-8 Center
+29,Biscayne Gardens Elementary,Dade,Miami,FL,Miami-Dade County,560 NW 151ST ST,33169,0,Biscayne Gardens Elementary School
+30,W. J. Bryan Elementary,Dade,North Miami,FL,Miami-Dade County,1201 NE 125TH ST,33161,0,W. J. Bryan Elementary School
+31,Coral Gables Preparatory Academy,Dade,Coral Gables,FL,Miami-Dade County,105 MINORCA AVE,33134,0,Coral Gables Preparatory Academy
+32,Leisure City K-8 Center,Dade,Homestead,FL,Miami-Dade County,14950 SW 288TH ST,33033,0,Leisure City K-8 Center
+33,Caribbean K-8 Center,Dade,Miami,FL,Miami-Dade County,11990 SW 200TH ST,33177,0,Caribbean K-8 Center
+34,Young Men'S Preparatory Academy,Dade,Miami,FL,Miami-Dade County,3001 NW 2ND AVE,33127,0,Young Men'S Preparatory Academy
+35,E.W.F. Stirrup Elementary School,Dade,Miami,FL,Miami-Dade County,330 NW 97TH AVE,33172,0,E.W.F. Stirrup Elementary School
+36,Coconut Grove Elementary School,Dade,Coconut Grove,FL,Miami-Dade County,3351 MATILDA ST,33133,0,Coconut Grove Elementary School
+37,Oak Grove Elementary School,Dade,Miami,FL,Miami-Dade County,15640 NE 8TH AVE,33162,0,Oak Grove Elementary School
+38,Westland Hialeah Senior High School,Dade,Hialeah,FL,Miami-Dade County,4000 W 18TH AVE,33012,0,Westland Hialeah Senior High School
+39,Chapman Partnership Early Childhood Center N,Dade,Miami,FL,Miami-Dade County,1550 N MIAMI AVE,33136,0,Chapman Partnership Early Childhood Center N
+40,John F. Kennedy Middle School,Dade,North Miami Beach,FL,Miami-Dade County,1075 NE 167TH ST,33162,0,John F. Kennedy Middle School
+41,Andover Middle School,Dade,Miami,FL,Miami-Dade County,121 NE 207TH ST,33179,0,Andover Middle School
+42,Biscayne Elementary School,Dade,Miami Beach,FL,Miami-Dade County,800 77TH ST,33141,0,Biscayne Elementary School
+43,Henry M. Flagler Elementary School,Dade,Miami,FL,Miami-Dade County,5222 NW 1ST ST,33126,0,Henry M. Flagler Elementary School
+44,Flamingo Elementary School,Dade,Hialeah,FL,Miami-Dade County,701 E 33RD ST,33013,0,Flamingo Elementary School
+45,Gloria Floyd Elementary School,Dade,Miami,FL,Miami-Dade County,12650 SW 109TH AVE,33176,0,Gloria Floyd Elementary School
+46,Coral Gables Senior High School,Dade,Coral Gables,FL,Miami-Dade County,450 BIRD RD,33146,0,Coral Gables Senior High School
+47,Greynolds Park Elementary School,Dade,North Miami Beach,FL,Miami-Dade County,1536 NE 179TH ST,33162,0,Greynolds Park Elementary School
+48,Gulfstream Elementary School,Dade,Cutler Bay,FL,Miami-Dade County,20900 SW 97TH AVE,33189,0,Gulfstream Elementary School
+49,John I. Smith K-8 Center,Dade,Doral,FL,Miami-Dade County,10415 NW 52ND ST,33178,0,John I. Smith K-8 Center
+50,Thena Crowder Early Childhood Diagnostic Special Education C,Dade,Miami,FL,Miami-Dade County,757 NW 66TH ST,33150,0,Thena Crowder Early Childhood Diagnostic Special Education C
+51,Kendale Lakes Elementary School,Dade,Miami,FL,Miami-Dade County,8000 SW 142ND AVE,33183,0,Kendale Lakes Elementary School
+52,Shadowlawn Elementary School,Dade,Miami,FL,Miami-Dade County,149 NW 49TH ST,33127,0,Shadowlawn Elementary School
+53,Ruben Dario Middle School,Dade,Miami,FL,Miami-Dade County,350 NW 97TH AVE,33172,0,Ruben Dario Middle School
+54,Dr. Rolando Espinosa K-8 Center,Dade,Doral,FL,Miami-Dade County,11250 NW 86TH ST,33178,0,Dr. Rolando Espinosa K-8 Center
+55,Village Green Elementary School,Dade,Miami,FL,Miami-Dade County,12265 SW 34TH ST,33175,0,Village Green Elementary School
+56,Oliver Hoover Elementary School,Dade,Miami,FL,Miami-Dade County,9050 HAMMOCKS BLVD,33196,0,Oliver Hoover Elementary School
+57,Lorah Park Elementary School,Dade,Miami,FL,Miami-Dade County,5160 NW 31ST AVE,33142,0,Lorah Park Elementary School
+58,Miami-Dade Online Academy- Virtual Instruction Program,Dade,Miami,FL,Miami-Dade County,1501 NE 2ND AVE  STE 336,33132,0,Miami-Dade Online Academy- Virtual Instruction Program
+59,Charles David Wyche Jr Elementary School,Dade,Miami Gardens,FL,Miami-Dade County,5241 NW 195TH DR,33055,0,Charles David Wyche Jr Elementary School
+60,South Miami Middle School,Dade,South Miami,FL,Miami-Dade County,6750 SW 60TH ST,33143,0,South Miami Middle School
+61,Miami Lakes K-8 Center,Dade,Hialeah,FL,Miami-Dade County,14250 NW 67TH AVE,33014,0,Miami Lakes K-8 Center
+62,Miami Park Elementary School,Dade,Miami,FL,Miami-Dade County,2225 NW 103RD ST,33147,0,Miami Park Elementary School
+63,Citrus Health Sipp/Crisis,Dade,Hialeah,FL,Miami-Dade County,4175 W 20TH AVE,33012,0,Citrus Health Sipp/Crisis
+64,North Miami Senior High School,Dade,North Miami,FL,Miami-Dade County,13110 NE 8TH AVE,33161,0,North Miami Senior High School
+65,Myrtle Grove K-8 Center,Dade,Opa Locka,FL,Miami-Dade County,3125 NW 176TH ST,33056,0,Myrtle Grove K-8 Center
+66,Mandarin Lakes K-8 Academy,Dade,Homestead,FL,Miami-Dade County,12225 SW 280TH ST,33032,0,Mandarin Lakes K-8 Academy
+67,Norland Elementary School,Dade,Miami,FL,Miami-Dade County,19340 NW 8TH CT,33169,0,Norland Elementary School
+68,North County K-8 Center,Dade,Miami Gardens,FL,Miami-Dade County,3250 NW 207TH ST,33056,0,North County K-8 Center
+69,Norwood Elementary School,Dade,Miami,FL,Miami-Dade County,19810 NW 14TH CT,33169,0,Norwood Elementary School
+70,Agenoria S Paschal/Olinda Elementary School,Dade,Miami,FL,Miami-Dade County,5536 NW 21ST AVE,33142,0,Agenoria S Paschal/Olinda Elementary School
+71,Dr. Gilbert L. Porter Elementary School,Dade,Miami,FL,Miami-Dade County,15851 SW 112TH ST,33196,0,Dr. Gilbert L. Porter Elementary School
+72,Norman S. Edelcup/Sunny Isles Beach K-8,Dade,Sunny Isles Beach,FL,Miami-Dade County,201 182ND DR,33160,0,Norman S. Edelcup/Sunny Isles Beach K-8
+73,Laura C. Saunders Elementary School,Dade,Homestead,FL,Miami-Dade County,505 SW 8TH ST,33030,0,Laura C. Saunders Elementary School
+74,Palm Lakes Elementary School,Dade,Hialeah,FL,Miami-Dade County,7450 W 16TH AVE,33014,0,Palm Lakes Elementary School
+75,Rockway Middle School,Dade,Miami,FL,Miami-Dade County,9393 SW 29TH TER,33165,0,Rockway Middle School
+76,Dr. Frederica S. Wilson/Skyway Elementary School,Dade,Miami Gardens,FL,Miami-Dade County,4555 NW 206TH TER,33055,0,Dr. Frederica S. Wilson/Skyway Elementary School
+77,North Dade Middle School,Dade,Miami Gardens,FL,Miami-Dade County,1840 NW 157TH ST,33054,0,North Dade Middle School
+78,Miami Heights Elementary School,Dade,Miami,FL,Miami-Dade County,17661 SW 117TH AVE,33177,0,Miami Heights Elementary School
+79,Dr. Michael M. Krop Senior High,Dade,Miami,FL,Miami-Dade County,1410 NE 215TH ST,33179,0,Dr. Michael M. Krop Senior High School
+80,Rainbow Park Elementary School,Dade,Opa Locka,FL,Miami-Dade County,15355 NW 19TH AVE,33054,0,Rainbow Park Elementary School
+81,James H. Bright Elementary/J.W. Johnson Elementary,Dade,Hialeah,FL,Miami-Dade County,2530 W 10TH AVE,33010,0,James H. Bright Elementary/J.W. Johnson Elementary School
+82,Redondo Elementary School,Dade,Homestead,FL,Miami-Dade County,18480 SW 304TH ST,33030,0,Redondo Elementary School
+83,Avocado Elementary School,Dade,Homestead,FL,Miami-Dade County,16969 SW 294TH ST,33030,0,Avocado Elementary School
+84,Frank Crawford Martin K-8 Center,Dade,Miami,FL,Miami-Dade County,14250 BOGGS DR,33176,0,Frank Crawford Martin K-8 Center
+85,Shenandoah Elementary School,Dade,Miami,FL,Miami-Dade County,1023 SW 21ST AVE,33135,0,Shenandoah Elementary School
+86,Gertrude K. Edelman/Sabal Palm,Dade,North Miami Beach,FL,Miami-Dade County,17101 NE 7TH AVE,33162,0,Gertrude K. Edelman/Sabal Palm
+87,Ojus Elementary School,Dade,Miami,FL,Miami-Dade County,18600 W DIXIE HWY,33180,0,Ojus Elementary School
+88,Natural Bridge Elementary School,Dade,North Miami,FL,Miami-Dade County,1650 NE 141ST ST,33181,0,Natural Bridge Elementary School
+89,Miami Coral Park High Adult Education,Dade,Miami,FL,Miami-Dade County,8865 SW 16TH ST,33165,0,Miami Coral Park High Adult Education
+90,Joella Good Elementary School,Dade,Hialeah,FL,Miami-Dade County,6350 NW 188TH TER,33015,0,Joella Good Elementary School
+91,Chapman Partnership Early Childhood Center South,Dade,Homestead,FL,Miami-Dade County,28205 SW 124TH PL,33033,0,Chapman Partnership Early Childhood Center South
+92,Madison Middle School,Dade,Miami,FL,Miami-Dade County,3400 NW 87TH ST,33147,0,Madison Middle School
+93,Homestead Middle School,Dade,Homestead,FL,Miami-Dade County,650 NW 2ND AVE,33030,0,Homestead Middle School
+94,Terra Environmental Research Institute,Dade,Miami,FL,Miami-Dade County,11005 SW 84TH ST,33173,0,Terra Environmental Research Institute
+95,Hialeah Gardens Middle School,Dade,Hialeah Gardens,FL,Miami-Dade County,11690 NW 92ND AVE,33018,0,Hialeah Gardens Middle School
+96,Bunche Park Elementary School,Dade,Miami Gardens,FL,Miami-Dade County,16001 BUNCHE PARK DR,33054,0,Bunche Park Elementary School
+97,School For Advanced Studies Homestead,Dade,Homestead,FL,Miami-Dade County,500 COLLEGE TER,33030,0,School For Advanced Studies Homestead
+98,Redland Middle School,Dade,Homestead,FL,Miami-Dade County,16001 SW 248TH ST,33031,0,Redland Middle School
+99,Rockway Elementary School,Dade,Miami,FL,Miami-Dade County,2790 SW 93RD CT,33165,0,Rockway Elementary School
+100,Parkview Elementary School,Dade,Opa Locka,FL,Miami-Dade County,17631 NW 20TH AVE,33056,0,Parkview Elementary School
+101,Lillie C. Evans K-8 Center,Dade,Miami,FL,Miami-Dade County,1895 NW 75TH ST,33147,0,Lillie C. Evans K-8 Center
+102,Miami Springs Senior High Adult,Dade,Miami Springs,FL,Miami-Dade County,751 DOVE AVE,33166,0,Miami Springs Senior High Adult
+103,Coral Terrace Elementary School,Dade,Miami,FL,Miami-Dade County,6801 SW 24TH ST,33155,0,Coral Terrace Elementary School
+104,Ludlam Elementary School,Dade,South Miami,FL,Miami-Dade County,6639 SW 74TH ST,33143,0,Ludlam Elementary School
+105,Miami Senior High School,Dade,Miami,FL,Miami-Dade County,2450 SW 1ST ST,33135,0,Miami Senior High School
+106,Miami Youth Academy,Dade,Miami,FL,Miami-Dade County,10855 SW 84 ST,33173,0,Miami Youth Academy
+107,Dr. Henry W. Mack/West Little River K-8 Center,Dade,Miami,FL,Miami-Dade County,2450 NW 84TH ST,33147,0,Dr. Henry W. Mack/West Little River K-8 Center
+108,Palm Springs Elementary School,Dade,Hialeah,FL,Miami-Dade County,6304 E 1ST AVE,33013,0,Palm Springs Elementary School
+109,Eneida M. Hartner Elementary School,Dade,Miami,FL,Miami-Dade County,401 NW 29TH ST,33127,0,Eneida M. Hartner Elementary School
+110,Miami Killian Senior High School,Dade,Miami,FL,Miami-Dade County,10655 SW 97TH AVE,33176,0,Miami Killian Senior High School
+111,Palm Springs North Elementary School,Dade,Hialeah,FL,Miami-Dade County,17615 NW 82ND AVE,33015,0,Palm Springs North Elementary School
+112,Dr. Manuel C. Barreiro Elementary School,Dade,Miami,FL,Miami-Dade County,5125 SW 162ND AVE,33185,0,Dr. Manuel C. Barreiro Elementary School
+113,Instructional Center System Wide,Dade,Miami,FL,Miami-Dade County,11001 SW 76TH ST RM 82,33173,0,Instructional Center System Wide
+114,Brucie Ball Educational Center,Dade,Miami,FL,Miami-Dade County,11001 SW 76TH ST,33173,0,Brucie Ball Educational Center
+115,Comstock Elementary School,Dade,Miami,FL,Miami-Dade County,2420 NW 18TH AVE,33142,0,Comstock Elementary School
+116,William H. Turner Technical Arts High School,Dade,Miami,FL,Miami-Dade County,10151 NW 19TH AVE,33147,0,William H. Turner Technical Arts High School
+117,Miami Bridge North,Dade,Miami,FL,Miami-Dade County,2810 NW S RIV DR,33125,0,Miami Bridge North
+118,Cutler Bay Senior High School,Dade,Cutler Bay,FL,Miami-Dade County,8601 SW 212TH ST,33189,0,Cutler Bay Senior High School
+119,Miami Macarthur South,Dade,Naranja,FL,Miami-Dade County,13990 SW 264TH ST,33032,0,Miami Macarthur South
+120,North Miami Beach Senior High,Dade,North Miami Beach,FL,Miami-Dade County,1247 NE 167TH ST,33162,0,North Miami Beach Senior High School
+121,G. Holmes Braddock Senior High,Dade,Miami,FL,Miami-Dade County,3601 SW 147TH AVE,33185,0,G. Holmes Braddock Senior High School
+122,Bowman Ashe/Doolin K-8 Academy,Dade,Miami,FL,Miami-Dade County,6601 SW 152ND AVE,33193,0,Bowman Ashe/Doolin K-8 Academy
+123,Ethel F. Beckford/Richmond Primary Learning Center,Dade,Miami,FL,Miami-Dade County,16929 SW 104TH AVE,33157,0,Ethel F. Beckford/Richmond Primary Learning Center
+124,Center For International Education A Cambridge Associate Sch,Dade,Homestead,FL,Miami-Dade County,900 NE 23RD AVE,33033,0,Center For International Education A Cambridge Associate School
+125,North Glade Elementary School,Dade,Miami Gardens,FL,Miami-Dade County,5000 NW 177TH ST,33055,0,North Glade Elementary School
+126,Olympia Heights Elementary School,Dade,Miami,FL,Miami-Dade County,9797 SW 40TH ST,33165,0,Olympia Heights Elementary School
+127,Pinecrest Elementary School,Dade,Miami,FL,Miami-Dade County,10250 SW 57TH AVE,33156,0,Pinecrest Elementary School
+128,Henry E.S. Reeves Elementary School,Dade,Miami,FL,Miami-Dade County,2005 NW 111TH ST,33167,0,Henry E.S. Reeves Elementary School
+129,Sweetwater Elementary School,Dade,Miami,FL,Miami-Dade County,10655 SW 4TH ST,33174,0,Sweetwater Elementary School
+130,Lamar Louise Curry Middle School,Dade,Miami,FL,Miami-Dade County,15750 SW 47TH ST,33185,0,Lamar Louise Curry Middle School
+131,Linda Lentin K-8 Center,Dade,North Miami Beach,FL,Miami-Dade County,14312 NE 2ND CT,33161,0,Linda Lentin K-8 Center
+132,Cutler Bay Middle,Dade,Cutler Bay,FL,Miami-Dade County,19400 GULFSTREAM RD,33157,0,Cutler Bay Middle School
+133,Seminole Elementary School,Dade,Miami,FL,Miami-Dade County,121 SW 78TH PL,33144,0,Seminole Elementary School
+134,Gateway Environmental K-8 Learning Center,Dade,Homestead,FL,Miami-Dade County,955 SE 18TH AVE,33035,0,Gateway Environmental K-8 Learning Center
+135,Miami Northwestern Senior High,Dade,Miami,FL,Miami-Dade County,1100 NW 71ST ST,33150,0,Miami Northwestern Senior High School
+136,Hammocks Middle School,Dade,Miami,FL,Miami-Dade County,9889 HAMMOCKS BLVD,33196,0,Hammocks Middle School
+137,Miami Springs Senior High School,Dade,Miami Springs,FL,Miami-Dade County,751 DOVE AVE,33166,0,Miami Springs Senior High School
+138,Martin Luther King Elementary School,Dade,Miami,FL,Miami-Dade County,7124 NW 12TH AVE,33150,0,Martin Luther King Elementary School
+139,Miami Lakes Educational Center,Dade,Miami Lakes,FL,Miami-Dade County,5780 NW 158TH ST,33014,0,Miami Lakes Educational Center
+140,Coconut Palm K-8 Academy,Dade,Homestead,FL,Miami-Dade County,24400 SW 124TH AVE,33032,0,Coconut Palm K-8 Academy
+141,Ronald W. Reagan/Doral Senior High School,Dade,Doral,FL,Miami-Dade County,8600 NW 107TH AVE,33178,0,Ronald W. Reagan/Doral Senior High School
+142,Horace Mann Middle School,Dade,El Portal,FL,Miami-Dade County,8950 NW 2ND AVE,33150,0,Horace Mann Middle School
+143,Hialeah Gardens Senior High School,Dade,Hialeah Gardens,FL,Miami-Dade County,11700 HIALEAH GARDENS BLVD,33018,0,Hialeah Gardens Senior High School
+144,Young Womens Preparatory Academy,Dade,Miami,FL,Miami-Dade County,1150 SW 1ST ST,33130,0,Young Womens Preparatory Academy
+145,District Summer Center G,Dade,Miami,FL,Miami-Dade County,1500 BISCAYNE BLVD,33132,0,District Summer Center G
+146,Miami Beach Adult & Community Ed Center,Dade,Miami Beach,FL,Miami-Dade County,1424 DREXEL AVE,33139,0,Miami Beach Adult & Community Ed Center
+147,Esy Summer Center,Dade,Miami,FL,Miami-Dade County,1500 BISCAYNE BLVD RM 409C,33132,0,Esy Summer Center
+148,Greenglade Elementary School,Dade,Miami,FL,Miami-Dade County,3060 SW 127TH AVE,33175,0,Greenglade Elementary School
+149,Hialeah Senior High Adult Education Center,Dade,Hialeah,FL,Miami-Dade County,251 E 47TH ST,33013,0,Hialeah Senior High Adult Education Center
+150,Miami Lakes Educational Center And Technical College,Dade,Miami Lakes,FL,Miami-Dade County,5780 NW 158TH ST,33014,0,Miami Lakes Educational Center And Technical College
+151,Vineland K-8 Center,Dade,Miami,FL,Miami-Dade County,8455 SW 119TH ST,33156,0,Vineland K-8 Center
+152,Turner/Guilford/Knight,Dade,Miami,FL,Miami-Dade County,7000 NW 41ST ST,33166,0,Turner/Guilford/Knight
+153,Ethel Koger Beckham Elementary,Dade,Miami,FL,Miami-Dade County,4702 SW 143RD CT,33175,0,Ethel Koger Beckham Elementary School
+154,Herbert A. Ammons Middle School,Dade,Miami,FL,Miami-Dade County,17990 SW 142ND AVE,33177,1,Herbert A. Ammons Middle School
+155,W. R. Thomas Middle School,Dade,Miami,FL,Miami-Dade County,13001 SW 26TH ST,33175,0,W. R. Thomas Middle School
+156,Design & Architecture Senior High,Dade,Miami,FL,Miami-Dade County,4001 NE 2ND AVE,33137,0,Design & Architecture Senior High School
+157,District Summer Center F,Dade,Hialeah,FL,Miami-Dade County,6027 E 7TH AVE,33013,0,District Summer Center F
+158,Miami Shores Elementary School,Dade,Miami Shores,FL,Miami-Dade County,10351 NE 5TH AVE,33138,0,Miami Shores Elementary School
+159,Ponce De Leon Middle School,Dade,Coral Gables,FL,Miami-Dade County,5801 AUGUSTO ST,33146,0,Ponce De Leon Middle School
+160,Hibiscus Elementary School,Dade,Miami,FL,Miami-Dade County,18701 NW 1ST AVE,33169,0,Hibiscus Elementary School
+161,Colonial Drive Elementary School,Dade,Miami,FL,Miami-Dade County,10755 SW 160TH ST,33157,0,Colonial Drive Elementary School
+162,I Preparatory Academy,Dade,Miami,FL,Miami-Dade County,1500 BISCAYNE BLVD STE 129,33132,0,I Preparatory Academy
+163,Robert Russa Moton Elementary School,Dade,Perrine,FL,Miami-Dade County,18050 HOMESTEAD AVE,33157,0,Robert Russa Moton Elementary School
+164,Secondary Student Success Center 803,Dade,Miami,FL,Miami-Dade County,18180 SW 122ND AVE,33177,0,Secondary Student Success Center 803
+165,Nathan B. Young Elementary School,Dade,Opa Locka,FL,Miami-Dade County,14120 NW 24TH AVE,33054,0,Nathan B. Young Elementary School
+166,Secondary Student Success Center 801,Dade,Miami,FL,Miami-Dade County,2349 NW 175TH ST,33160,0,Secondary Student Success Center 801
+167,Flagami Elementary School,Dade,Miami,FL,Miami-Dade County,920 SW 76TH AVE,33144,0,Flagami Elementary School
+168,Arthur And Polly Mays Conservatory Of The Arts,Dade,Goulds,FL,Miami-Dade County,11700 SW 216TH ST,33170,0,Arthur And Polly Mays Conservatory Of The Arts
+169,Kelsey L. Pharr Elementary School,Dade,Miami,FL,Miami-Dade County,2000 NW 46TH ST,33142,0,Kelsey L. Pharr Elementary School
+170,District Summer Center C,Dade,Miami,FL,Miami-Dade County,1500 BISCAYNE BLVD,33132,0,District Summer Center C
+171,Coral Reef Senior High School,Dade,Miami,FL,Miami-Dade County,10101 SW 152ND ST,33157,0,Coral Reef Senior High School
+172,Citrus Grove Middle School,Dade,Miami,FL,Miami-Dade County,2153 NW 3RD ST,33125,0,Citrus Grove Middle School
+173,District Summer Center E,Dade,Miami,FL,Miami-Dade County,1500 BISCAYNE BLVD,33132,0,District Summer Center E
+174,Henry H. Filer Middle School,Dade,Hialeah,FL,Miami-Dade County,531 W 29TH ST,33012,0,Henry H. Filer Middle School
+175,Path Academy,Dade,Miami,FL,Miami-Dade County,6300 NW 27TH AVE,33147,0,Path Academy
+176,Riviera Middle School,Dade,Miami,FL,Miami-Dade County,10301 SW 48TH ST,33165,0,Riviera Middle School
+177,Campbell Drive K-8 Center,Dade,Homestead,FL,Miami-Dade County,15790 SW 307TH ST,33033,0,Campbell Drive K-8 Center
+178,Whispering Pines Elementary School,Dade,Miami,FL,Miami-Dade County,18929 SW 89TH RD,33157,0,Whispering Pines Elementary School
+179,Glades Middle School,Dade,Miami,FL,Miami-Dade County,9451 SW 64TH ST,33173,0,Glades Middle School
+180,Ada Merritt K-8 Center,Dade,Miami,FL,Miami-Dade County,660 SW 3RD ST,33130,0,Ada Merritt K-8 Center
+181,Barbara Hawkins Elementary School,Dade,Miami Gardens,FL,Miami-Dade County,19010 NW 37TH AVE,33056,0,Barbara Hawkins Elementary School
+182,Ernest R. Graham K-8 Academy,Dade,Hialeah,FL,Miami-Dade County,7330 W 32ND AVE,33018,0,Ernest R. Graham K-8 Academy
+183,Miami Norland Senior High School,Dade,Miami,FL,Miami-Dade County,1050 NW 195TH ST,33169,0,Miami Norland Senior High School
+184,Teenage Parent Program,Dade,Miami,FL,Miami-Dade County,6300 NW 27TH AVE RM 92,33147,0,Teenage Parent Program
+185,Thomas Jefferson Middle School,Dade,Miami,FL,Miami-Dade County,525 NW 147TH ST,33168,0,Thomas Jefferson Middle School
+186,Jane S. Roberts K-8 Center,Dade,Miami,FL,Miami-Dade County,14850 COTTONWOOD CIR,33185,0,Jane S. Roberts K-8 Center
+187,Highland Oaks Middle School,Dade,Miami,FL,Miami-Dade County,2375 NE 203RD ST,33180,0,Highland Oaks Middle School
+188,Miami-Dade Virtual High School Franchise,Dade,Miami,FL,Miami-Dade County,1501 NE 2ND AVE,33132,0,Miami-Dade Virtual High School Franchise
+189,Frederick R. Douglass Elementary,Dade,Miami,FL,Miami-Dade County,314 NW 12TH ST,33136,0,Frederick R. Douglass Elementary School
+190,Palm Springs Middle School,Dade,Hialeah,FL,Miami-Dade County,1025 W 56TH ST,33012,0,Palm Springs Middle School
+191,Palmetto Middle School,Dade,Miami,FL,Miami-Dade County,7351 SW 128TH ST,33156,0,Palmetto Middle School
+192,Robert Renick Education Center,Dade,Opa Locka,FL,Miami-Dade County,2201 NW 207TH ST,33056,0,Robert Renick Education Center
+193,Arvida Middle School,Dade,Miami,FL,Miami-Dade County,10900 SW 127TH AVE,33186,0,Arvida Middle School
+194,Kendale Elementary School,Dade,Miami,FL,Miami-Dade County,10693 SW 93RD ST,33176,0,Kendale Elementary School
+195,Charles R Drew K-8 Center,Dade,Miami,FL,Miami-Dade County,1775 NW 60TH ST,33142,0,Charles R Drew K-8 Center
+196,Paul W. Bell Middle School,Dade,Miami,FL,Miami-Dade County,11800 NW 2ND ST,33182,0,Paul W. Bell Middle School
+197,N Dade Center For Modern Language,Dade,Miami Gardens,FL,Miami-Dade County,1840 NW 157TH ST,33054,0,N Dade Center For Modern Language
+198,John A. Ferguson Senior High,Dade,Miami,FL,Miami-Dade County,15900 SW 56TH ST,33185,0,John A. Ferguson Senior High School
+199,Melrose Elementary School,Dade,Miami,FL,Miami-Dade County,3050 NW 35TH ST,33142,0,Melrose Elementary School
+200,Aventura Waterways K-8 Center,Dade,Miami,FL,Miami-Dade County,21101 NE 26TH AVE,33180,0,Aventura Waterways K-8 Center
+201,Carol City Middle School,Dade,Miami Gardens,FL,Miami-Dade County,3737 NW 188TH ST,33055,0,Carol City Middle School
+202,Dr. William A. Chapman Elementary School,Dade,Homestead,FL,Miami-Dade County,27190 SW 140TH AVE,33032,0,Dr. William A. Chapman Elementary School
+203,Air Base K-8 Center For International Education,Dade,Homestead,FL,Miami-Dade County,12829 SW 272ND ST,33032,0,Air Base K-8 Center For International Education
+204,Here'S Help,Dade,Opa Locka,FL,Miami-Dade County,15100 NW 27TH AVE,33054,0,Here'S Help
+205,Gratigny Elementary School,Dade,Miami,FL,Miami-Dade County,11905 N MIAMI AVE,33168,0,Gratigny Elementary School
+206,Earlington Heights Elementary School,Dade,Miami,FL,Miami-Dade County,4750 NW 22ND AVE,33142,0,Earlington Heights Elementary School
+207,Key Biscayne K-8 Center,Dade,Key Biscayne,FL,Miami-Dade County,150 W MCINTYRE ST,33149,0,Key Biscayne K-8 Center
+208,D.A. Dorsey Technical College,Dade,Miami,FL,Miami-Dade County,7100 NW 17TH AVE,33147,0,D.A. Dorsey Technical College
+209,Southwood Middle School,Dade,Palmetto Bay,FL,Miami-Dade County,16301 SW 80TH AVE,33157,0,Southwood Middle School
+210,Charles R Hadley Elementary School,Dade,Miami,FL,Miami-Dade County,8400 NW 7TH ST,33126,0,Charles R Hadley Elementary School
+211,Hialeah Elementary School,Dade,Hialeah,FL,Miami-Dade County,550 E 8TH ST,33010,0,Hialeah Elementary School
+212,Hialeah-Miami Lakes Senior Adult,Dade,Hialeah,FL,Miami-Dade County,7977 W 12TH AVE,33014,0,Hialeah-Miami Lakes Senior Adult
+213,Kensington Park Elementary School,Dade,Miami,FL,Miami-Dade County,711 NW 30TH AVE,33125,0,Kensington Park Elementary School
+214,Hialeah Middle School,Dade,Hialeah,FL,Miami-Dade County,6027 E 7TH AVE,33013,0,Hialeah Middle School
+215,South Pointe Elementary School,Dade,Miami Beach,FL,Miami-Dade County,1050 4TH ST,33139,0,South Pointe Elementary School
+216,Marjory Stoneman Douglas Elem,Dade,Miami,FL,Miami-Dade County,11901 SW 2ND ST,33184,0,Marjory Stoneman Douglas Elem
+217,Georgia Jones Ayers Middle School,Dade,Miami,FL,Miami-Dade County,1331 NW 46TH ST,33142,0,Georgia Jones Ayers Middle School
+218,Coral Park Elementary School,Dade,Miami,FL,Miami-Dade County,1225 SW 97TH AVE,33174,0,Coral Park Elementary School
+219,Fairlawn Elementary School,Dade,Miami,FL,Miami-Dade County,444 SW 60TH AVE,33144,0,Fairlawn Elementary School
+220,Scott Lake Elementary School,Dade,Miami,FL,Miami-Dade County,1160 NW 175TH ST,33169,0,Scott Lake Elementary School
+221,Bob Graham Education Center,Dade,Miami Lakes,FL,Miami-Dade County,15901 NW 79TH AVE,33016,1,Bob Graham Education Center
+222,Cutler Ridge Elementary School,Dade,Cutler Bay,FL,Miami-Dade County,20210 CORAL SEA RD,33189,0,Cutler Ridge Elementary School
+223,Dr. Robert B. Ingram/Opa-Locka Elementary School,Dade,Opa Locka,FL,Miami-Dade County,600 AHMAD ST,33054,0,Dr. Robert B. Ingram/Opa-Locka Elementary School
+224,Law Enforcement Officers Memorial High School,Dade,Miami,FL,Miami-Dade County,300 NW 2ND AVE,33128,0,Law Enforcement Officers Memorial High School
+225,Snapper Creek Elementary School,Dade,Miami,FL,Miami-Dade County,10151 SW 64TH ST,33173,0,Snapper Creek Elementary School
+226,Maya Angelou Elementary School,Dade,Miami,FL,Miami-Dade County,1850 NW 32ND ST,33142,0,Maya Angelou Elementary School
+227,Richmond Perrine Optimist,Dade,Miami,FL,Miami-Dade County,18055 HOMESTEAD AVE,33157,0,Richmond Perrine Optimist
+228,International Studies Preparatory Academy,Dade,Coral Gables,FL,Miami-Dade County,1570 MADRUGA AVE,33146,0,International Studies Preparatory Academy
+229,Coral Way K-8 Center,Dade,Miami,FL,Miami-Dade County,1950 SW 13TH AVE,33145,0,Coral Way K-8 Center
+230,Riverside Elementary Community School,Dade,Miami,FL,Miami-Dade County,1190 SW 2ND ST,33130,0,Riverside Elementary Community School
+231,Miami Senior Adult Education Center,Dade,Miami,FL,Miami-Dade County,2450 SW 1ST ST,33135,0,Miami Senior Adult Education Center
+232,Everglades K-8 Center,Dade,Miami,FL,Miami-Dade County,8375 SW 16TH ST,33155,0,Everglades K-8 Center
+233,George T. Baker Aviation Technical College,Dade,Miami,FL,Miami-Dade County,3275 NW 42ND AVE,33142,0,George T. Baker Aviation Technical College
+234,Prek Intervention,Dade,Miami,FL,Miami-Dade County,5555 SW 93RD AVE,33165,0,Prek Intervention
+235,North Hialeah Elementary School,Dade,Hialeah,FL,Miami-Dade County,4251 E 5TH AVE,33013,0,North Hialeah Elementary School
+236,North Beach Elementary School,Dade,Miami Beach,FL,Miami-Dade County,4100 PRAIRIE AVE,33140,0,North Beach Elementary School
+237,New World School Of The Arts,Dade,Miami,FL,Miami-Dade County,25 NE 2ND ST,33132,0,New World School Of The Arts
+238,Citrus Grove Elementary School,Dade,Miami,FL,Miami-Dade County,2121 NW 5TH ST,33125,0,Citrus Grove Elementary School
+239,Norland Middle School,Dade,Miami,FL,Miami-Dade County,1235 NW 192ND TER,33169,0,Norland Middle School
+240,Joe Hall Elementary School,Dade,Miami,FL,Miami-Dade County,1901 SW 134TH AVE,33175,0,Joe Hall Elementary School
+241,Fulford Elementary School,Dade,North Miami Beach,FL,Miami-Dade County,16140 NE 18TH AVE,33162,0,Fulford Elementary School
+242,Dr. Toni Bilbao Preparatory Academy,Dade,Doral,FL,Miami-Dade County,8905 NW 114TH AVE,33178,0,Dr. Toni Bilbao Preparatory Academy
+243,Dade Juvenile Residential Facility,Dade,Florida City,FL,Miami-Dade County,18500 SW 424TH ST,33034,0,Dade Juvenile Residential Facility
+244,Twin Lakes Elementary School,Dade,Hialeah,FL,Miami-Dade County,6735 W 5TH PL,33012,0,Twin Lakes Elementary School
+245,School For Advanced Studies,Dade,Doral,FL,Miami-Dade County,3800 NW 115TH AVE,33178,0,School For Advanced Studies
+246,Bent Tree Elementary School,Dade,Miami,FL,Miami-Dade County,4861 SW 140TH AVE,33175,0,Bent Tree Elementary School
+247,Nautilus Middle School,Dade,Miami Beach,FL,Miami-Dade County,4301 N MICHIGAN AVE,33140,0,Nautilus Middle School
+248,Southwest Miami Adult & Community Education Center,Dade,Miami,FL,Miami-Dade County,8855 SW 50TH TER,33165,0,Southwest Miami Adult & Community Education Center
+249,Pace Center For Girls,Dade,Miami,FL,Miami-Dade County,1400 NW 36TH ST STE 200,33142,0,Pace Center For Girls
+250,Mast@Fiu,Dade,North Miami,FL,Miami-Dade County,3000 NE 151 ST,33181,0,Mast@Fiu
+251,South Miami K-8 Center,Dade,South Miami,FL,Miami-Dade County,6800 SW 60TH ST,33143,0,South Miami K-8 Center
+252,Biotech@Richmond Heights 9-12 High School,Dade,Miami,FL,Miami-Dade County,15020 SW 102ND AVE,33185,0,Biotech@Richmond Heights 9-12 High School
+253,Jose Marti Mast 6-12 Academy,Dade,Hialeah,FL,Miami-Dade County,5701 W 24TH AVE,33016,0,Jose Marti Mast 6-12 Academy
+254,Catapult Academy,Dade,Homestead,FL,Miami-Dade County,13426 SW 134TH ST,33033,0,Catapult Academy
+255,Amikids Miami-Dade South,Dade,Miami,FL,Miami-Dade County,1820 ARTHUR LAMB JR RD,33149,0,Amikids Miami-Dade South
+256,Miami Arts Studio 6-12 At Zelda Glazer,Dade,Miami,FL,Miami-Dade County,15015 SW 24TH ST,33185,0,Miami Arts Studio 6-12 At Zelda Glazer
+257,Redland Elementary School,Dade,Homestead,FL,Miami-Dade County,24501 SW 162ND AVE,33031,0,Redland Elementary School
+258,Christina M. Eve Elementary School,Dade,Miami,FL,Miami-Dade County,16251 SW 99TH ST,33196,0,Christina M. Eve Elementary School
+259,South Miami Senior High School,Dade,Miami,FL,Miami-Dade County,6856 SW 53RD ST,33155,1,South Miami Senior High School
+260,Secondary Student Success Center 802,Dade,Miami,FL,Miami-Dade County,750 NW 20TH ST,33127,0,Secondary Student Success Center 802
+261,Miami Southridge Senior High,Dade,Miami,FL,Miami-Dade County,19355 SW 114TH AVE,33157,0,Miami Southridge Senior High School
+262,Leewood K-8 Center,Dade,Miami,FL,Miami-Dade County,10343 SW 124TH ST,33176,0,Leewood K-8 Center
+263,The English Center,Dade,Miami,FL,Miami-Dade County,3501 SW 28TH ST,33133,0,The English Center
+264,Poinciana Park Elementary School,Dade,Miami,FL,Miami-Dade County,6745 NW 23RD AVE,33147,0,Poinciana Park Elementary School
+265,George W. Carver Elementary School,Dade,Coral Gables,FL,Miami-Dade County,238 GRAND AVE,33133,0,George W. Carver Elementary School
+266,Boystown,Dade,Cutler Bay,FL,Miami-Dade County,9525 STERLING DR,33157,0,Boystown
+267,George Washington Carver Middle School,Dade,Coral Gables,FL,Miami-Dade County,4901 LINCOLN DR,33133,0,George Washington Carver Middle School
+268,Lawton Chiles Middle School,Dade,Hialeah,FL,Miami-Dade County,8190 NW 197TH ST,33015,0,Lawton Chiles Middle School
+269,Sunset Park Elementary School,Dade,Miami,FL,Miami-Dade County,10235 SW 84TH ST,33173,0,Sunset Park Elementary School
+270,Miami Springs Middle School,Dade,Miami Springs,FL,Miami-Dade County,150 S ROYAL POINCIANA BLVD,33166,0,Miami Springs Middle School
+271,Miami Edison Senior High School,Dade,Miami,FL,Miami-Dade County,6161 NW 5TH CT,33127,0,Miami Edison Senior High School
+272,Itech@Thomas A Edison Educational Center,Dade,Miami,FL,Miami-Dade County,6101 NW 2ND AVE,33127,0,Itech@Thomas A Edison Educational Center
+273,Miami Sunset Adult Education Center,Dade,Miami,FL,Miami-Dade County,13125 SW 72ND ST,33183,0,Miami Sunset Adult Education Center
+274,Miami Carol City Senior High,Dade,Miami Gardens,FL,Miami-Dade County,3301 MIAMI GARDENS DR,33056,0,Miami Carol City Senior High School
+275,Virginia A Boone-Highland Oaks School,Dade,Miami,FL,Miami-Dade County,20500 NE 24TH AVE,33180,0,Virginia A Boone-Highland Oaks School
+276,Jose De Diego Middle School,Dade,Miami,FL,Miami-Dade County,3100 NW 5TH AVE,33127,0,Jose De Diego Middle School
+277,Palmetto Elementary School,Dade,Miami,FL,Miami-Dade County,12401 SW 74TH AVE,33156,0,Palmetto Elementary School
+278,South Hialeah Elementary School,Dade,Hialeah,FL,Miami-Dade County,265 E 5TH ST,33010,0,South Hialeah Elementary School
+279,Norma Butler Bossard Elementary School,Dade,Miami,FL,Miami-Dade County,15950 SW 144TH ST,33196,0,Norma Butler Bossard Elementary School
+280,Mast Academy,Dade,Key Biscayne,FL,Miami-Dade County,3979 RICKENBACKER CSWY,33149,0,Mast Academy
+281,Dr. Carlos J. Finlay Elementary,Dade,Miami,FL,Miami-Dade County,851 SW 117TH AVE,33184,0,Dr. Carlos J. Finlay Elementary School
+282,District Summer Center L,Dade,Miami,FL,Miami-Dade County,1500 BISCAYNE BLVD,33132,0,District Summer Center L
+283,Wesley Matthews Elementary School,Dade,Miami,FL,Miami-Dade County,12345 SW 18TH TER,33175,0,Wesley Matthews Elementary School
+284,Arcola Lake Elementary School,Dade,Miami,FL,Miami-Dade County,1037 NW 81ST ST,33150,0,Arcola Lake Elementary School
+285,Holmes Elementary School,Dade,Miami,FL,Miami-Dade County,1175 NW 67TH ST,33150,0,Holmes Elementary School
+286,Country Club Middle School,Dade,Miami Lakes,FL,Miami-Dade County,18305 NW 75TH PL,33015,0,Country Club Middle School
+287,District Summer Center D,Dade,Miami,FL,Miami-Dade County,1500 BISCAYNE BLVD,33132,0,District Summer Center D
+288,Barbara Goleman Senior High,Dade,Miami Lakes,FL,Miami-Dade County,14100 NW 89TH AVE,33018,0,Barbara Goleman Senior High School
+289,Richmond Heights Middle School,Dade,Miami,FL,Miami-Dade County,15015 SW 103RD AVE,33176,1,Richmond Heights Middle School
+290,Alonzo And Tracy Mourning Senior High Biscayne Bay Campus,Dade,Miami,FL,Miami-Dade County,2601 NE 151ST ST,33160,0,Alonzo And Tracy Mourning Senior High Biscayne Bay Campus
+291,John G. Dupuis Elementary School,Dade,Hialeah,FL,Miami-Dade County,1150 W 59TH PL,33012,0,John G. Dupuis Elementary School
+292,Brentwood Elementary School,Dade,Miami Gardens,FL,Miami-Dade County,3101 NW 191ST ST,33056,0,Brentwood Elementary School
+293,Eugenia B. Thomas K-8 Center,Dade,Doral,FL,Miami-Dade County,5950 NW 114TH AVE,33178,0,Eugenia B. Thomas K-8 Center
+294,Florida City Elementary School,Dade,Florida City,FL,Miami-Dade County,364 NW 6TH AVE,33034,0,Florida City Elementary School
+295,Southside Elementary School,Dade,Miami,FL,Miami-Dade County,45 SW 13TH ST,33130,0,Southside Elementary School
+296,Miami Jackson Senior Adult Ed Center,Dade,Miami,FL,Miami-Dade County,1751 NW 36TH ST,33142,0,Miami Jackson Senior Adult Ed Center
+297,Phyllis Wheatley Elementary School,Dade,Miami,FL,Miami-Dade County,1801 NW 1ST PL,33136,0,Phyllis Wheatley Elementary School
+298,North Twin Lakes Elementary School,Dade,Hialeah,FL,Miami-Dade County,625 W 74TH PL,33014,0,North Twin Lakes Elementary School
+299,Auburndale Elementary School,Dade,Miami,FL,Miami-Dade County,3255 SW 6TH ST,33135,0,Auburndale Elementary School
+300,Ruth Owens Kruse Education Center,Dade,Miami,FL,Miami-Dade County,11001 SW 76TH ST,33173,0,Ruth Owens Kruse Education Center
+301,Pine Villa Elementary School,Dade,Miami,FL,Miami-Dade County,21799 SW 117TH CT,33170,0,Pine Villa Elementary School
+302,Winston Park K-8 Center,Dade,Miami,FL,Miami-Dade County,13200 SW 79TH ST,33183,0,Winston Park K-8 Center
+303,Meadowlane Elementary School,Dade,Hialeah,FL,Miami-Dade County,4280 W 8TH AVE,33012,0,Meadowlane Elementary School
+304,Miami Coral Park Senior High,Dade,Miami,FL,Miami-Dade County,8865 SW 16TH ST,33165,0,Miami Coral Park Senior High School
+305,West Lakes Preparatory Academy,Dade,Hialeah,FL,Miami-Dade County,8435 W 36TH AVE,33018,0,West Lakes Preparatory Academy
+306,Hialeah-Miami Lakes Senior High,Dade,Hialeah,FL,Miami-Dade County,7977 W 12TH AVE,33014,0,Hialeah-Miami Lakes Senior High School
+307,Lenora Braynon Smith Elementary,Dade,Miami,FL,Miami-Dade County,4700 NW 12TH AVE,33127,0,Lenora Braynon Smith Elementary School
+308,Southwest Miami Senior High,Dade,Miami,FL,Miami-Dade County,8855 SW 50TH TER,33165,0,Southwest Miami Senior High School
+309,Miami Bridge South,Dade,Homestead,FL,Miami-Dade County,326 NW 3RD AVE,33030,0,Miami Bridge South
+310,Howard Drive Elementary School,Dade,Miami,FL,Miami-Dade County,7750 SW 136TH ST,33156,0,Howard Drive Elementary School
+311,Robert Morgan Educational Center,Dade,Miami,FL,Miami-Dade County,18180 SW 122ND AVE,33177,0,Robert Morgan Educational Center
+312,Amelia Earhart Elementary School,Dade,Hialeah,FL,Miami-Dade County,5987 E 7TH AVE,33013,0,Amelia Earhart Elementary School
+313,Santa Clara Elementary School,Dade,Miami,FL,Miami-Dade County,1051 NW 29TH TER,33127,0,Santa Clara Elementary School
+314,Jann Mann Educational Center,Dade,Opa Locka,FL,Miami-Dade County,16101 NW 44TH CT,33054,0,Jann Mann Educational Center
+315,Golden Glades Elementary School,Dade,Opa Locka,FL,Miami-Dade County,16520 NW 28TH AVE,33054,0,Golden Glades Elementary School
+316,Miami Lakes Middle School,Dade,Hialeah,FL,Miami-Dade County,6425 MIAMI LAKEWAY N,33014,0,Miami Lakes Middle School
+317,Brownsville Middle School,Dade,Miami,FL,Miami-Dade County,4899 NW 24TH AVE,33142,0,Brownsville Middle School
+318,Silver Bluff Elementary School,Dade,Miami,FL,Miami-Dade County,2609 SW 25TH AVE,33133,0,Silver Bluff Elementary School
+319,School For Advanced Studies-Wolfson,Dade,Miami,FL,Miami-Dade County,25 NE 2ND ST # 5,33132,0,School For Advanced Studies-Wolfson
+320,Hubert O. Sibley K-8 Academy,Dade,Miami,FL,Miami-Dade County,255 NW 115TH ST,33168,0,Hubert O. Sibley K-8 Academy
+321,Bel-Aire Elementary School,Dade,Cutler Bay,FL,Miami-Dade County,10205 SW 194TH ST,33157,0,Bel-Aire Elementary School
+322,School For Advanced Studies - South,Dade,Miami,FL,Miami-Dade County,11011 SW 104TH ST # T-301,33176,0,School For Advanced Studies - South
+323,Felix Varela Senior High School,Dade,Miami,FL,Miami-Dade County,15255 SW 96TH ST,33196,0,Felix Varela Senior High School
+324,Royal Palm Elementary School,Dade,Miami,FL,Miami-Dade County,4200 SW 112TH CT,33165,0,Royal Palm Elementary School
+325,South Dade Senior High School,Dade,Homestead,FL,Miami-Dade County,28401 SW 167TH AVE,33030,0,South Dade Senior High School
+326,Frances S. Tucker Elementary School,Dade,Miami,FL,Miami-Dade County,3500 S DOUGLAS RD,33133,0,Frances S. Tucker Elementary School
+327,Zora Neale Hurston Elementary School,Dade,Miami,FL,Miami-Dade County,13137 SW 26TH ST,33175,0,Zora Neale Hurston Elementary School
+328,Carrie P. Meek/Westview K-8 Center,Dade,Miami,FL,Miami-Dade County,2101 NW 127TH ST,33167,0,Carrie P. Meek/Westview K-8 Center
+329,Dante B. Fascell Elementary School,Dade,Miami,FL,Miami-Dade County,15625 SW 80TH ST,33193,0,Dante B. Fascell Elementary School
+330,Spanish Lake Elementary School,Dade,Hialeah,FL,Miami-Dade County,7940 NW 194TH ST,33015,0,Spanish Lake Elementary School
+331,Sylvania Heights Elementary School,Dade,Miami,FL,Miami-Dade County,5901 SW 16TH ST,33155,0,Sylvania Heights Elementary School
+332,Kinloch Park Middle School,Dade,Miami,FL,Miami-Dade County,4340 NW 3RD ST,33126,0,Kinloch Park Middle School
+333,South Miami Heights Elementary,Dade,Miami,FL,Miami-Dade County,12231 SW 190TH TER,33177,0,South Miami Heights Elementary School
+334,District Instructional Center (Dic),Dade,Miami,FL,Miami-Dade County,1500 BISCAYNE BLVD,33132,0,District Instructional Center (Dic)
+335,Amikids Miami-Dade North,Dade,Miami,FL,Miami-Dade County,2701 NE 151ST ST,33160,0,Amikids Miami-Dade North
+336,Liberty City Elementary School,Dade,Miami,FL,Miami-Dade County,1855 NW 71ST ST,33147,0,Liberty City Elementary School
+337,West Miami Middle School,Dade,Miami,FL,Miami-Dade County,7525 SW 24TH ST,33155,0,West Miami Middle School
+338,Kenwood K-8 Center,Dade,Miami,FL,Miami-Dade County,9300 SW 79TH AVE,33156,0,Kenwood K-8 Center
+339,Pine Lake Elementary School,Dade,Miami,FL,Miami-Dade County,16700 SW 109TH AVE,33157,0,Pine Lake Elementary School
+340,Broadmoor Elementary School,Dade,Miami,FL,Miami-Dade County,3401 NW 83RD ST,33147,0,Broadmoor Elementary School
+341,Dorothy M. Wallace Cope Center,Dade,Miami,FL,Miami-Dade County,10225 SW 147TH TER,33176,0,Dorothy M. Wallace Cope Center
+342,Cypress K-8 Center,Dade,Miami,FL,Miami-Dade County,5400 SW 112TH CT,33165,0,Cypress K-8 Center
+343,School For Advanced Studies North,Dade,Miami,FL,Miami-Dade County,11380 NW 27TH AVE # 1111,33167,0,School For Advanced Studies North
+344,William H. Turner Technical Adult,Dade,Miami,FL,Miami-Dade County,10151 NW 19TH AVE,33147,0,William H. Turner Technical Adult
+345,Benjamin Franklin K-8 Center,Dade,North Miami,FL,Miami-Dade County,13100 NW 12TH AVE,33168,0,Benjamin Franklin K-8 Center
+346,Orchard Villa Elementary School,Dade,Miami,FL,Miami-Dade County,5720 NW 13TH AVE,33142,0,Orchard Villa Elementary School
+347,Mae M. Walters Elementary School,Dade,Hialeah,FL,Miami-Dade County,650 W 33RD ST,33012,0,Mae M. Walters Elementary School
+348,David Fairchild Elementary School,Dade,Miami,FL,Miami-Dade County,5757 SW 45TH ST,33155,0,David Fairchild Elementary School
+349,Miami Sunset Senior High School,Dade,Miami,FL,Miami-Dade County,13125 SW 72ND ST,33183,0,Miami Sunset Senior High School
+350,American Senior High School,Dade,Hialeah,FL,Miami-Dade County,18350 NW 67TH AVE,33015,0,American Senior High School
+351,Title I Migrant Education Program,Dade,Homestead,FL,Miami-Dade County,28205 SW 124 COURT BLDG F  ROOM F019,33033,0,Title I Migrant Education Program
+352,Miami Palmetto Senior High School,Dade,Miami,FL,Miami-Dade County,7460 SW 118TH ST,33156,0,Miami Palmetto Senior High School
+353,Ruth K. Broad Bay Harbor K-8 Center,Dade,Bay Harbor Islands,FL,Miami-Dade County,1155 93RD ST,33154,0,Ruth K. Broad Bay Harbor K-8 Center
+354,Hialeah Gardens Elementary School,Dade,Hialeah Gardens,FL,Miami-Dade County,9702 NW 130TH ST,33018,0,Hialeah Gardens Elementary School
+355,Lake Stevens Middle School,Dade,Miami Gardens,FL,Miami-Dade County,18484 NW 48TH PL,33055,0,Lake Stevens Middle School
+356,District Summer Center H,Dade,Miami,FL,Miami-Dade County,1500 BISCAYNE BLVD,33132,0,District Summer Center H
+357,Miami Gardens Elementary School,Dade,Miami Gardens,FL,Miami-Dade County,4444 NW 195TH ST,33055,0,Miami Gardens Elementary School
+358,Banyan Elementary School,Dade,Miami,FL,Miami-Dade County,3060 SW 85TH AVE,33155,0,Banyan Elementary School
+359,Madie Ives K-8 Preparatory Academy,Dade,North Miami Beach,FL,Miami-Dade County,20770 NE 14TH AVE,33179,0,Madie Ives K-8 Preparatory Academy
+360,David Lawrence Jr. K-8 Center,Dade,North Miami,FL,Miami-Dade County,15000 BAY VISTA BLVD,33181,0,David Lawrence Jr. K-8 Center
+361,Miami Central Senior High School,Dade,Miami,FL,Miami-Dade County,1781 NW 95TH ST,33147,0,Miami Central Senior High School
+362,Goulds Elementary School,Dade,Homestead,FL,Miami-Dade County,23555 SW 112TH AVE,33032,0,Goulds Elementary School
+363,Pk Early Intervention Program,Dade,Miami,FL,Miami-Dade County,1501 NE 2 AVE RM 234,33132,0,Pk Early Intervention Program
+364,West Homestead K-8 Center,Dade,Homestead,FL,Miami-Dade County,1550 SW 6TH ST,33030,0,West Homestead K-8 Center
+365,Miami Jackson Senior High School,Dade,Miami,FL,Miami-Dade County,1751 NW 36TH ST,33142,0,Miami Jackson Senior High School
+366,Academy For Community Education (Ace),Dade,El Portal,FL,Miami-Dade County,8950 NW 2ND AVE,33150,0,Academy For Community Education (Ace)
+367,Fienberg/Fisher K-8 Center,Dade,Miami Beach,FL,Miami-Dade County,1420 WASHINGTON AVE,33139,0,Fienberg/Fisher K-8 Center
+368,Miami Palmetto Senior High Adult,Dade,Miami,FL,Miami-Dade County,7460 SW 118TH ST,33156,0,Miami Palmetto Senior High Adult
+369,Morningside K-8 Academy,Dade,Miami,FL,Miami-Dade County,6620 NE 5TH AVE,33138,0,Morningside K-8 Academy
+370,Springview Elementary School,Dade,Miami Springs,FL,Miami-Dade County,1122 BLUEBIRD AVE,33166,0,Springview Elementary School
+371,Claude Pepper Elementary School,Dade,Miami,FL,Miami-Dade County,14550 SW 96TH ST,33186,1,Claude Pepper Elementary School
+372,Sunset Elementary School,Dade,Miami,FL,Miami-Dade County,5120 SW 72ND ST,33143,0,Sunset Elementary School
+373,His House,Dade,Miami Gardens,FL,Miami-Dade County,20000 NW 47 AVE,33055,0,His House
+374,Homestead Senior High School,Dade,Homestead,FL,Miami-Dade County,2351 SE 12TH AVE,33034,0,Homestead Senior High School
+375,Toussaint L'Ouverture Elementary,Dade,Miami,FL,Miami-Dade County,120 NE 59TH ST,33137,0,Toussaint L'Ouverture Elementary School
+376,Dr. Edward L. Whigham Elementary School,Dade,Cutler Bay,FL,Miami-Dade County,21545 SW 87TH AVE,33189,0,Dr. Edward L. Whigham Elementary School
+377,Alternative Outreach Program,Dade,Miami,FL,Miami-Dade County,6300 NW 27TH AVE,33147,0,Alternative Outreach Program
+378,Coral Gables Senior High Adult Education,Dade,Coral Gables,FL,Miami-Dade County,450 BIRD RD,33146,0,Coral Gables Senior High Adult Education
+379,Marcus A. Milam K-8 Center,Dade,Hialeah,FL,Miami-Dade County,6020 W 16TH AVE,33012,0,Marcus A. Milam K-8 Center
+380,Lake Stevens Elementary School,Dade,Miami Gardens,FL,Miami-Dade County,5101 NW 183RD ST,33055,0,Lake Stevens Elementary School
+381,Henry S. West Laboratory School,Dade,Coral Gables,FL,Miami-Dade County,5300 CARILLO ST,33146,0,Henry S. West Laboratory School
+382,South Dade Middle School,Dade,Homestead,FL,Miami-Dade County,29100 SW 194TH AVE,33030,0,South Dade Middle School
+383,Devon Aire K-8 Center,Dade,Miami,FL,Miami-Dade County,10501 SW 122ND AVE,33186,0,Devon Aire K-8 Center
+384,Treasure Island Elementary School,Dade,North Bay Village,FL,Miami-Dade County,7540 E TREASURE DR,33141,0,Treasure Island Elementary School
+385,Howard D. Mcmillan Middle School,Dade,Miami,FL,Miami-Dade County,13100 SW 59TH ST,33183,0,Howard D. Mcmillan Middle School
+386,Miami Springs Elementary School,Dade,Miami Springs,FL,Miami-Dade County,51 PARK ST,33166,0,Miami Springs Elementary School
+387,Robert Morgan Educational Center And Technical College,Dade,Miami,FL,Miami-Dade County,18180 SW 122ND AVE,33177,0,Robert Morgan Educational Center And Technical College
+388,Ben Sheppard Elementary School,Dade,Hialeah,FL,Miami-Dade County,5700 W 24TH AVE,33016,0,Ben Sheppard Elementary School
+389,Juvenile Justice Center Alt Ed,Dade,Miami,FL,Miami-Dade County,3300 NW 27TH AVE,33142,0,Juvenile Justice Center alternative Ed
+390,Irving & Beatrice Peskoe K-8 Center,Dade,Miami Springs,FL,Miami-Dade County,301 WESTWARD DR,33166,0,Irving & Beatrice Peskoe K-8 Center
+391,Parkway Elementary School,Dade,Miami,FL,Miami-Dade County,1320 NW 188TH ST,33169,0,Parkway Elementary School
+392,Carol City Elementary School,Dade,Miami Gardens,FL,Miami-Dade County,4375 NW 173RD DR,33055,0,Carol City Elementary School
+393,Paul Laurence Dunbar K-8 Center,Dade,Miami,FL,Miami-Dade County,505 NW 20TH ST,33127,0,Paul Laurence Dunbar K-8 Center
+394,North Miami Middle School,Dade,North Miami,FL,Miami-Dade County,700 NE 137TH ST,33161,0,North Miami Middle School
+395,Blue Lakes Elementary School,Dade,Miami,FL,Miami-Dade County,9250 SW 52ND TER,33165,0,Blue Lakes Elementary School
+396,Cope Center North,Dade,Miami,FL,Miami-Dade County,9950 NW 19TH AVE,33147,0,Cope Center North
+397,Secondary Student Success Center-804,Dade,Miami,FL,Miami-Dade County,7100 NW 17TH AVE,33147,0,Secondary Student Success Center-804
+398,Jesse J. Mccrary Jr. Elementary School,Dade,Miami,FL,Miami-Dade County,514 NW 77TH ST,33150,0,Jesse J. Mccrary Jr. Elementary School
+399,Kinloch Park Elementary School,Dade,Miami,FL,Miami-Dade County,4275 NW 1ST ST,33126,0,Kinloch Park Elementary School
+400,Jackson Sipp/Child Crisis,Dade,Miami,FL,Miami-Dade County,1695 NW 9TH AVE,33136,0,Jackson Sipp/Child Crisis
+401,American Senior High Adult Education,Dade,Hialeah,FL,Miami-Dade County,18350 NW 67TH AVE,33015,0,American Senior High Adult Education
+402,Calusa Elementary School,Dade,Miami,FL,Miami-Dade County,9580 W CALUSA CLUB DR,33186,0,Calusa Elementary School
+403,Lakeview Elementary School,Dade,Miami,FL,Miami-Dade County,1290 NW 115TH ST,33167,0,Lakeview Elementary School
+404,Crestview Elementary School,Dade,Opa Locka,FL,Miami-Dade County,2201 NW 187TH ST,33056,0,Crestview Elementary School
+405,North Miami Elementary School,Dade,North Miami,FL,Miami-Dade County,655 NE 145TH ST,33161,0,North Miami Elementary School
+406,Neva King Cooper Educational Center,Dade,Homestead,FL,Miami-Dade County,151 NW 5TH ST,33030,0,Neva King Cooper Educational Center
+407,Van E. Blanton Elementary School,Dade,Miami,FL,Miami-Dade County,10327 NW 11TH AVE,33150,0,Van E. Blanton Elementary School
+408,Archcreek Elementary School,Dade,North Miami,FL,Miami-Dade County,702 NE 137TH ST,33161,0,Archcreek Elementary School
+409,West Hialeah Gardens Elementary School,Dade,Hialeah Gardens,FL,Miami-Dade County,11990 NW 92ND AVE,33018,0,West Hialeah Gardens Elementary School
+410,South Dade Technical College,Dade,Homestead,FL,Miami-Dade County,109 NE 8TH ST,33030,0,South Dade Technical College
+411,Royal Green Elementary School,Dade,Miami,FL,Miami-Dade County,13047 SW 47TH ST,33175,0,Royal Green Elementary School
+412,Coral Reef Elementary School,Dade,Palmetto Bay,FL,Miami-Dade County,7955 SW 152ND ST,33157,0,Coral Reef Elementary School
+413,Jorge Mas Canosa Middle School,Dade,Miami,FL,Miami-Dade County,15735 SW 144TH ST,33196,0,Jorge Mas Canosa Middle School
+414,Emerson Elementary School,Dade,Miami,FL,Miami-Dade County,8001 SW 36TH ST,33155,0,Emerson Elementary School
+415,Tropical Elementary School,Dade,Miami,FL,Miami-Dade County,4545 SW 104TH AVE,33165,0,Tropical Elementary School
+416,North Miami Senior Adult Education,Dade,North Miami,FL,Miami-Dade County,13110 NE 8TH AVE,33161,0,North Miami Senior Adult Education
+417,Jack David Gordon Elementary School,Dade,Miami,FL,Miami-Dade County,14600 COUNTRY WALK DR,33186,0,Jack David Gordon Elementary School
+418,Hialeah Senior High School,Dade,Hialeah,FL,Miami-Dade County,251 E 47TH ST,33013,0,Hialeah Senior High School
+419,William H. Lehman Elementary School,Dade,Miami,FL,Miami-Dade County,10990 SW 113TH PL,33176,0,William H. Lehman Elementary School
+420,Shenandoah Middle School,Dade,Miami,FL,Miami-Dade County,1950 SW 19TH ST,33145,0,Shenandoah Middle School
+421,Booker T. Washington Senior High,Dade,Miami,FL,Miami-Dade County,1200 NW 6TH AVE,33136,1,Booker T. Washington Senior High School
+422,Lindsey Hopkins Technical College,Dade,Miami,FL,Miami-Dade County,750 NW 20TH ST,33127,0,Lindsey Hopkins Technical College
+423,Miami Beach Senior High School,Dade,Miami Beach,FL,Miami-Dade County,2231 PRAIRIE AVE,33139,0,Miami Beach Senior High School
+424,Steuart Hill Academic Academy,Baltimore City Public Schools,Baltimore,MD,Baltimore City,30 S Gilmor St,21223,0,Steuart Hill Academic Academy
+425,Pimlico Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3910 Barrington Road,21207,0,Pimlico Elementary School
+426,Vanguard Collegiate Middle School,Baltimore City Public Schools,Baltimore,MD,Baltimore City,5000 Truesdale Ave,21206,0,Vanguard Collegiate Middle School
+427,Cross Country Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,6100 Cross Country Blvd,21215,0,Cross Country Elementary School
+428,Garrett Heights Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2800 Ailsa Ave,21214,0,Garrett Heights Elementary School
+429,Dickey Hill Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,5025 Dickey Hill Rd,21207,0,Dickey Hill Elementary/Middle School
+430,Montebello Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2040 E 32nd St,21218,0,Montebello Elementary School
+431,North Bend Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,181 North Bend Rd,21229,0,North Bend Elementary School
+432,Carver Vocational-Technical High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2201 Presstman St,21216,0,Carver Vocational-Technical High School
+433,National Academy Foundation,Baltimore City Public Schools,Baltimore,MD,Baltimore City,540 N. Caroline Street,21205,0,National Academy Foundation
+434,Sarah M. Roach Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3434 Old Frederick Rd,21229,0,Sarah M. Roach Elementary School
+435,Elmer A. Henderson: A Johns Hopkins Partnership Sc,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2100 Ashland Avenue,21205,0,Elmer A. Henderson: A Johns Hopkins Partnership Sc
+436,Edgecombe Circle Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2835 Virginia Ave,21215,0,Edgecombe Circle Elementary School
+437,The Mount Washington School,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1801 Sulgrave Ave,21209,0,The Mount Washington School
+438,Eutaw-Marshburn Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1624 Eutaw Pl,21217,0,Eutaw-Marshburn Elementary School
+439,Bluford Drew Jemison Stem Academy West,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2000 Edgewood Street,21216,0,Bluford Drew Jemison Stem Academy West
+440,Glenmount Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,6211 Walther Ave,21206,0,Glenmount Elementary/Middle School
+441,Paul Laurence Dunbar High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1400 Orleans Street,21231,0,Paul Laurence Dunbar High School
+442,Hazelwood Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,4517 Hazelwood Ave,21206,0,Hazelwood Elementary/Middle School
+443,Fallstaff Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3801 Fallstaff Rd,21215,0,Fallstaff Elementary School
+444,Graceland Park/O'Donnel Heights Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,6300 O'Donnell St,21224,0,Graceland Park/O'Donnel Heights Elementary School
+445,Gardenville Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,5300 Belair Rd,21206,0,Gardenville Elementary School
+446,Violetville Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1207 Pine Heights Ave,21229,0,Violetville Elementary/Middle School
+447,Mount Royal Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,121 Mc Mechen St,21217,0,Mount Royal Elementary/Middle School
+448,Moravia Park,Baltimore City Public Schools,Baltimore,MD,Baltimore City,6201 Frankford Ave,21206,0,Moravia Park
+449,Sharp-Leadenhall Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,150 W West St,21230,0,Sharp-Leadenhall Elementary School
+450,Grove Park Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,5545 Kennison Ave,21215,0,Grove Park Elementary School
+451,Frederick Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2501 Frederick Ave,21223,0,Frederick Elementary School
+452,Achievement Academy @ Harbor City High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2201 Pinewood Avenue,21214,0,Achievement Academy @ Harbor City High School
+453,The Reach! Partnership School,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2801 St. Lo Drive,21213,0,The Reach! Partnership School
+454,Renaissance Academy,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1301 Mcculloh St,21217,0,Renaissance Academy
+455,Thomas Johnson Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,100 E Heath St,21230,0,Thomas Johnson Elementary School
+456,Baltimore City College,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3220 The Alameda,21218,0,Baltimore City College
+457,William Paca Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,200 N Lakewood Ave,21224,0,William Paca Elementary School
+458,Charles Carroll Barrister Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1327 Washington Blvd,21230,0,Charles Carroll Barrister Elementary School
+459,Armistead Gardens Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,5001 E Eager St,21205,0,Armistead Gardens Elementary School
+460,Northwood Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,5201 Loch Raven Blvd,21239,0,Northwood Elementary School
+461,Robert W. Coleman Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2400 Windsor Ave,21216,0,Robert W. Coleman Elementary School
+462,Walter P. Carter Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,820 E 43rd St,21212,0,Walter P. Carter Elementary School
+463,Yorkwood Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,5931 Yorkwood Rd,21239,0,Yorkwood Elementary School
+464,Roland Park Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,5207 Roland Ave,21210,0,Roland Park Elementary/Middle School
+465,Rognel Heights Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,4300 Sidehill Rd,21229,0,Rognel Heights Elementary/Middle School
+466,Waverly Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3400 Ellerslie Ave,21218,0,Waverly Elementary School
+467,Woodhome Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,7300 Moyer Ave,21234,0,Woodhome Elementary/Middle School
+468,Leith Walk Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1235 Sherwood Ave,21239,0,Leith Walk Elementary School
+469,Baltimore Design School,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1500 Barclay Street,21202,0,Baltimore Design School
+470,Lakeland Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2921 Stranden Rd,21230,0,Lakeland Elementary/Middle School
+471,Curtis Bay Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,4301 W Bay Ave,21225,0,Curtis Bay Elementary School
+472,Stadium School,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1300 Gorsuch Ave,21218,0,Stadium School
+473,Tench Tilghman Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,600 N Patterson Park Ave,21205,0,Tench Tilghman Elementary School
+474,Frederick Douglass High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2301 Gwynns Falls Pky,21217,1,Frederick Douglass High School
+475,Lockerman Bundy Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,301 N Pulaski St,21223,0,Lockerman Bundy Elementary School
+476,Johnston Square Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1101 Valley St,21202,0,Johnston Square Elementary School
+477,Highlandtown Elementary #237,Baltimore City Public Schools,Baltimore,MD,Baltimore City,231 S. Eaton Street,21224,0,Highlandtown Elementary #237
+478,Guilford Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,4520 York Rd,21212,0,Guilford Elementary/Middle School
+479,New Song Academy,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1530 Presstman Street,21217,0,New Song Academy
+480,New Era Academy,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2700 Seamon Ave,21225,0,New Era Academy
+481,Patterson High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,100 Kane St,21224,0,Patterson High School
+482,Abbottston Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1300 Gorsuch Ave,21218,0,Abbottston Elementary School
+483,Mergenthaler Vocational-Technical High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3500 Hillen Rd,21218,0,Mergenthaler Vocational-Technical High School
+484,Callaway Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3701 Fernhill Ave,21215,0,Callaway Elementary School
+485,Calverton,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1100 Whitmore Ave,21216,0,Calverton
+486,Alexander Hamilton Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,800 Poplar Grove St,21216,0,Alexander Hamilton Elementary School
+487,Digital Harbor High School,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1100 Covington St,21230,0,Digital Harbor High School
+488,Hilton Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3301 Carlisle Ave,21216,0,Hilton Elementary School
+489,Edmondson-Westside High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,501 N Athol Ave,21229,1,Edmondson-Westside High School
+490,Arundel Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2400 Round Rd,21225,0,Arundel Elementary/Middle School
+491,Collington Square Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1409 N Collington Ave,21213,0,Collington Square Elementary School
+492,Dr. Nathan A. Pitts-Ashburton Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3935 Hilton Rd,21215,0,Dr. Nathan A. Pitts-Ashburton Elementary/Middle School
+493,Westport Academy,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2401 Nevada St,21230,0,Westport Academy
+494,Hampden,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3608 Chestnut Ave,21211,0,Hampden
+495,Arlington Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3705 W Rogers Ave,21215,0,Arlington Elementary/Middle School
+496,Cecil Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2000 Cecil Ave,21218,0,Cecil Elementary School
+497,John Ruhrah Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,701 Rappolla Street,21224,0,John Ruhrah Elementary School
+498,William Pinderhughes Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,701 Gold Street,21217,0,William Pinderhughes Elementary School
+499,Baltimore I.T. Academy,Baltimore City Public Schools,Baltimore,MD,Baltimore City,900 Woodbourne Ave,21212,0,Baltimore I.T. Academy
+500,James Mchenry Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,31 S Schroeder St,21223,0,James Mchenry Elementary School
+501,Samuel F. B. Morse Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,424 S Pulaski St,21223,0,Samuel F. B. Morse Elementary School
+502,George W. F. Mcmechen,Baltimore City Public Schools,Baltimore,MD,Baltimore City,4411 Garrison Blvd,21215,0,George W. F. Mcmechen
+503,Calvin M. Rodwell Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3501 Hillsdale Rd,21207,0,Calvin M. Rodwell Elementary School
+504,Maree Garnett Farring Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,300 Pontiac Ave,21225,0,Maree Garnett Farring Elementary School
+505,Western High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,4600 Falls Rd,21209,0,Western High School
+506,The Historic Samuel Coleridge-Taylor Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,507 W Preston St,21201,0,The Historic Samuel Coleridge-Taylor Elementary School
+507,Lois T. Murray Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1600 Arlington Ave,21239,0,Lois T. Murray Elementary School
+508,Morrell Park Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2601 Tolley St,21230,0,Morrell Park Elementary/Middle School
+509,K.A.S.A. (Knowledge And Success Academy),Baltimore City Public Schools,Baltimore,MD,Baltimore City,2000 Edgewood Street,21216,0,K.A.S.A. (Knowledge And Success Academy)
+510,Lakewood Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2625 Federal Street,21213,0,Lakewood Elementary School
+511,Excel Academy @ Francis M. Wood High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1001 W Saratoga St,21223,0,Excel Academy @ Francis M. Wood High School
+512,Bard High School Early College,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2801 N Dukeland Street,21216,0,Bard High School Early College
+513,Dorothy I. Height Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2011 Linden Ave,21217,0,Dorothy I. Height Elementary School
+514,Northwestern High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,6900 Park Heights Avenue,21215,0,Northwestern High School
+515,Forest Park High,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3701 Eldorado Ave,21207,0,Forest Park High School
+516,Harford Heights Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1919 N Broadway,21213,0,Harford Heights Elementary School
+517,Reginald F. Lewis High School,Baltimore City Public Schools,Baltimore,MD,Baltimore City,6401 Pioneer Drive,21214,0,Reginald F. Lewis High School
+518,Benjamin Franklin High School At Masonville Cove,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1201 Cambria St,21225,0,Benjamin Franklin High School At Masonville Cove
+519,Dr. Bernard Harris Sr. Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1400 N Caroline St,21213,0,Dr. Bernard Harris Sr. Elementary School
+520,Booker T. Washington Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1301 Mcculloh St,21217,1,Booker T. Washington Middle School
+521,Joseph C. Briscoe Academy,Baltimore City Public Schools,Baltimore,MD,Baltimore City,900 Druid Hill Avenue,21201,0,Joseph C. Briscoe Academy
+522,Dr. Martin Luther King Jr. Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3750 Greenspring Ave,21211,0,Dr. Martin Luther King Jr. Elementary School
+523,Medfield Heights Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,4300 Buchanan Ave,21211,0,Medfield Heights Elementary School
+524,Coldstream Park Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1400 Exeter Hall Ave,21218,0,Coldstream Park Elementary School
+525,Francis Scott Key Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1425 E Fort Ave,21230,0,Francis Scott Key Elementary/Middle School
+526,George Washington Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,800 Scott St,21230,0,George Washington Elementary School
+527,Holabird Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1500 Imla St,21224,0,Holabird Elementary School
+528,Windsor Hills Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,4001 Alto Rd,21216,0,Windsor Hills Elementary School
+529,Sinclair Lane Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3880 Sinclair Ln,21213,0,Sinclair Lane Elementary School
+530,Lyndhurst Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,621 Wildwood Pky,21229,0,Lyndhurst Elementary School
+531,N.A.C.A. Freedom And Democracy Academy Ii,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2500 E. Northern Parkway,21214,0,N.A.C.A. Freedom And Democracy Academy Ii
+532,Gwynns Falls Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2700 Gwynns Falls Pky,21216,0,Gwynns Falls Elementary School
+533,Augusta Fells Savage Institute Of Visual Arts,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1500 Harlem Ave,21217,0,Augusta Fells Savage Institute Of Visual Arts
+534,William S. Baer School,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2001 N. Warwick Ave,21216,0,William S. Baer School
+535,Dallas F. Nicholas Sr. Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,201 E 21st St,21218,0,Dallas F. Nicholas Sr. Elementary School
+536,Claremont School,Baltimore City Public Schools,Baltimore,MD,Baltimore City,5301 Erdman Ave,21205,0,Claremont School
+537,Liberty Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3901 Maine Ave,21207,1,Liberty Elementary School
+538,Furley Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,4633 Furley Ave,21206,0,Furley Elementary School
+539,Edgewood Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1900 Edgewood St,21216,0,Edgewood Elementary School
+540,Hamilton Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,6101 Old Harford Rd,21214,1,Hamilton Elementary/Middle School
+541,Baltimore Polytechnic Institute,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1400 W Cold Spring Ln,21209,0,Baltimore Polytechnic Institute
+542,Friendship Academy Of Engineering And Technology,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2500 E. Northern Parkway,21214,0,Friendship Academy Of Engineering And Technology
+543,Belmont Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1406 N Ellamont St,21216,0,Belmont Elementary School
+544,Margaret Brent Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,100 E 26th St,21218,0,Margaret Brent Elementary School
+545,Federal Hill Preparatory School,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1040 William St,21230,0,Federal Hill Preparatory School
+546,Dr. Carter Godwin Woodson,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2501 Seabury Rd,21225,0,Dr. Carter Godwin Woodson
+547,Franklin Square Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1400 W Lexington St,21223,0,Franklin Square Elementary School
+548,Matthew A. Henson Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1600 N Payson St,21217,0,Matthew A. Henson Elementary School
+549,Commodore John Rogers Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,100 N Chester St,21231,0,Commodore John Rogers Elementary School
+550,Fort Worthington Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2801 E. Oliver St,21213,0,Fort Worthington Elementary School
+551,Highlandtown Elementary #215,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3223 E Pratt St,21224,0,Highlandtown Elementary #215
+552,Gilmor Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1311 N Gilmor St,21217,0,Gilmor Elementary School
+553,Thomas Jefferson Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,605 Dryden Dr,21229,0,Thomas Jefferson Elementary School
+554,Baltimore School For The Arts,Baltimore City Public Schools,Baltimore,MD,Baltimore City,712 Cathedral Street,21201,0,Baltimore School For The Arts
+555,Mary E. Rodman Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,3510 W Mulberry St,21229,0,Mary E. Rodman Elementary School
+556,Harlem Park Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1401 W Lafayette Ave,21217,0,Harlem Park Elementary School
+557,Mary Ann Winterling Elementary At Bentalou,Baltimore City Public Schools,Baltimore,MD,Baltimore City,220 N Bentalou St,21223,0,Mary Ann Winterling Elementary At Bentalou
+558,Academy For College And Career Exploration,Baltimore City Public Schools,Baltimore,MD,Baltimore City,1300 W 36th St,21211,0,Academy For College And Career Exploration
+559,Bay-Brook Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,4301 10th St,21225,0,Bay-Brook Elementary School
+560,Beechfield Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,301 S Beechfield Ave,21229,0,Beechfield Elementary School
+561,James Mosher Elementary,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2400 W Mosher St,21216,0,James Mosher Elementary School
+562,Barclay Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,2900 Barclay St,21218,0,Barclay Elementary/Middle School
+563,Cherry Hill Elementary/Middle,Baltimore City Public Schools,Baltimore,MD,Baltimore City,834 Roundview Road,21225,0,Cherry Hill Elementary/Middle School
+564,Sippican,Marion,Marion,MA,Plymouth County,16 Spring Street,02738,1,Sippican
+565,Tilden Middle School,Montgomery County Public Schools,Rockville,MD,Montgomery County,11211 Old Georgetown Rd,20852,0,Tilden Middle School
+566,Arcola Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,1820 Franwall Ave,20902,0,Arcola Elementary School
+567,Clopper Mill Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,18501 Cinnamon Dr,20874,0,Clopper Mill Elementary School
+568,Gaithersburg High,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,101 Education Blvd,20877,0,Gaithersburg High School
+569,Garrett Park Elementary,Montgomery County Public Schools,Kensington,MD,Montgomery County,4810 Oxford Street,20895,0,Garrett Park Elementary School
+570,Richard Montgomery High,Montgomery County Public Schools,Rockville,MD,Montgomery County,250 Richard Montgomery Dr,20852,0,Richard Montgomery High School
+571,Gaithersburg Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,35 N Summit Ave,20877,0,Gaithersburg Elementary School
+572,Seven Locks Elementary,Montgomery County Public Schools,Bethesda,MD,Montgomery County,9500 Seven Locks Road,20817,0,Seven Locks Elementary School
+573,Rosemary Hills Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,2111 Porter Rd,20910,0,Rosemary Hills Elementary School
+574,Sherwood High,Montgomery County Public Schools,Sandy Spring,MD,Montgomery County,300 Olney-Sandy Spring Rd,20860,0,Sherwood High School
+575,Northwood High School,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,919 University Blvd W,20901,0,Northwood High School
+576,Forest Knolls Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,10830 Eastwood Ave,20901,0,Forest Knolls Elementary School
+577,Rachel Carson Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,100 Tschiffely Square Rd,20878,0,Rachel Carson Elementary School
+578,Brookhaven Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,4610 Renn St,20853,0,Brookhaven Elementary School
+579,Waters Landing Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,13100 Waters Landing Dr,20874,0,Waters Landing Elementary School
+580,Stedwick Elementary,Montgomery County Public Schools,Montgomery Village,MD,Montgomery County,10631 Stedwick Rd,20886,0,Stedwick Elementary School
+581,Lake Seneca Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,13600 Wanegarden Dr,20874,0,Lake Seneca Elementary School
+582,Westland Middle,Montgomery County Public Schools,Bethesda,MD,Montgomery County,5511 Massachusetts Ave,20816,0,Westland Middle School
+583,Julius West Middle,Montgomery County Public Schools,Rockville,MD,Montgomery County,651 Great Falls Rd,20850,0,Julius West Middle School
+584,Walt Whitman High,Montgomery County Public Schools,Bethesda,MD,Montgomery County,7100 Whittier Blvd,20817,0,Walt Whitman High School
+585,North Bethesda Middle,Montgomery County Public Schools,Bethesda,MD,Montgomery County,8935 Bradmoor Dr,20817,0,North Bethesda Middle School
+586,Cresthaven Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,1234 Cresthaven Dr,20903,0,Cresthaven Elementary School
+587,Greenwood Elementary,Montgomery County Public Schools,Brookeville,MD,Montgomery County,3336 Gold Mine Rd,20833,0,Greenwood Elementary School
+588,Oak View Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,400 E Wayne Ave,20901,0,Oak View Elementary School
+589,Flora M. Singer Elementary School,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,2600 Hayden Drive,20902,0,Flora M. Singer Elementary School
+590,Thomas S. Wootton High,Montgomery County Public Schools,Rockville,MD,Montgomery County,2100 Wootton Pkwy,20850,0,Thomas S. Wootton High School
+591,Sligo Creek Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,500 Schuyler Rd,20910,0,Sligo Creek Elementary School
+592,Stone Mill Elementary,Montgomery County Public Schools,North Potomac,MD,Montgomery County,14323 Stonebridge View Dr,20878,0,Stone Mill Elementary School
+593,Roscoe R Nix Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,1100 Corliss St,20903,0,Roscoe R Nix Elementary School
+594,Twinbrook Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,5911 Ridgeway Ave,20851,0,Twinbrook Elementary School
+595,Damascus High,Montgomery County Public Schools,Damascus,MD,Montgomery County,25921 Ridge Rd,20872,0,Damascus High School
+596,North Chevy Chase Elementary,Montgomery County Public Schools,Chevy Chase,MD,Montgomery County,3700 Jones Bridge Rd,20815,0,North Chevy Chase Elementary School
+597,Weller Road Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,3301 Weller Rd,20906,0,Weller Road Elementary School
+598,Woodlin Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,2101 Luzerne Ave,20910,0,Woodlin Elementary School
+599,Summit Hall Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,101 W Deer Park Rd,20877,0,Summit Hall Elementary School
+600,Roberto W. Clemente Middle,Montgomery County Public Schools,Germantown,MD,Montgomery County,18808 Waring Station Rd,20874,0,Roberto W. Clemente Middle School
+601,Stephen Knolls School,Montgomery County Public Schools,Kensington,MD,Montgomery County,10731 St. Margaret's Way,20895,0,Stephen Knolls School
+602,Diamond Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,4 Marquis Dr,20878,0,Diamond Elementary School
+603,S. Christa Mcauliffe Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,12500 Wisteria Dr,20874,0,S. Christa Mcauliffe Elementary School
+604,Germantown Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,19110 Liberty Mill Rd,20874,0,Germantown Elementary School
+605,Francis Scott Key Middle,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,910 Schindler Drive,20903,0,Francis Scott Key Middle School
+606,Dufief Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,15001 Dufief Dr,20878,0,Dufief Elementary School
+607,Paint Branch High,Montgomery County Public Schools,Burtonsville,MD,Montgomery County,14121 Old Columbia Pike,20866,0,Paint Branch High School
+608,Watkins Mill Elementary,Montgomery County Public Schools,Montgomery Village,MD,Montgomery County,19001 Watkins Mill Rd,20886,0,Watkins Mill Elementary School
+609,Shady Grove Middle,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,8100 Midcounty Hgwy,20877,0,Shady Grove Middle School
+610,Dr. Sally K. Ride Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,21301 Seneca Crossing Dr,20876,0,Dr. Sally K. Ride Elementary School
+611,Seneca Valley High,Montgomery County Public Schools,Germantown,MD,Montgomery County,19401 Crystal Rock Dr,20874,0,Seneca Valley High School
+612,Argyle Middle,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,2400 Bel Pre Rd,20906,0,Argyle Middle School
+613,New Hampshire Estates Elem,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,8720 Carroll Ave,20903,0,New Hampshire Estates Elem
+614,Rock Terrace School,Montgomery County Public Schools,Rockville,MD,Montgomery County,390 Martins Ln,20850,0,Rock Terrace School
+615,Dr. Charles R. Drew Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,1200 Swingingdale Dr,20905,0,Dr. Charles R. Drew Elementary School
+616,Spark M. Matsunaga Elementary School,Montgomery County Public Schools,Germantown,MD,Montgomery County,13902 Bromfield Rd,20874,0,Spark M. Matsunaga Elementary School
+617,Candlewood Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,7210 Osprey Drive,20855,0,Candlewood Elementary School
+618,Col. Zadok Magruder High,Montgomery County Public Schools,Rockville,MD,Montgomery County,5939 Muncaster Mill Rd,20855,0,Col. Zadok Magruder High School
+619,Poolesville Elementary,Montgomery County Public Schools,Poolesville,MD,Montgomery County,19565 Fisher Ave,20837,0,Poolesville Elementary School
+620,Flower Hill Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,18425 Flower Hill Way,20879,0,Flower Hill Elementary School
+621,Brooke Grove Elementary,Montgomery County Public Schools,Olney,MD,Montgomery County,2700 Spartan Rd,20832,0,Brooke Grove Elementary School
+622,Benjamin Banneker Middle,Montgomery County Public Schools,Burtonsville,MD,Montgomery County,14800 Perrywood Dr,20866,0,Benjamin Banneker Middle School
+623,Glen Haven Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,10900 Inwood Ave,20902,0,Glen Haven Elementary School
+624,Oakland Terrace Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,2720 Plyers Mill Rd,20902,0,Oakland Terrace Elementary School
+625,Silver Spring International Middle,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,313 Wayne Ave,20910,0,Silver Spring International Middle School
+626,Lakelands Park Middle,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,1200 Main St,20878,0,Lakelands Park Middle School
+627,Great Seneca Creek Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,13010 Dairymaid Dr,20874,0,Great Seneca Creek Elementary School
+628,Bel Pre Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,13801 Rippling Brook Drive,20906,0,Bel Pre Elementary School
+629,Bethesda Elementary,Montgomery County Public Schools,Bethesda,MD,Montgomery County,7600 Arlington Rd,20814,0,Bethesda Elementary School
+630,Earle B. Wood Middle,Montgomery County Public Schools,Rockville,MD,Montgomery County,14615 Bauer Dr,20853,0,Earle B. Wood Middle School
+631,Wilson Wims Elementary School,Montgomery County Public Schools,Clarksburg,MD,Montgomery County,12520 Blue Sky Drive,20871,0,Wilson Wims Elementary School
+632,Martin Luther King Jr. Middle,Montgomery County Public Schools,Germantown,MD,Montgomery County,13737 Wisteria Dr,20874,0,Martin Luther King Jr. Middle School
+633,Highland Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,3100 Medway St,20902,0,Highland Elementary School
+634,Rosa M. Parks Middle,Montgomery County Public Schools,Olney,MD,Montgomery County,19200 Olney Mill Rd,20832,0,Rosa M. Parks Middle School
+635,Chevy Chase Elementary,Montgomery County Public Schools,Chevy Chase,MD,Montgomery County,4015 Rosemary St,20815,1,Chevy Chase Elementary School
+636,Mill Creek Towne Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,17700 Park Mill Dr,20855,0,Mill Creek Towne Elementary School
+637,Wheaton Woods Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,4510 Faroe Pl,20853,0,Wheaton Woods Elementary School
+638,Potomac Elementary,Montgomery County Public Schools,Potomac,MD,Montgomery County,10311 River Rd,20854,0,Potomac Elementary School
+639,Thurgood Marshall Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,12260 Mcdonald Chapel Dr,20878,0,Thurgood Marshall Elementary School
+640,Beverly Farms Elementary,Montgomery County Public Schools,Potomac,MD,Montgomery County,8501 Post Oak Road,20854,0,Beverly Farms Elementary School
+641,Wayside Elementary,Montgomery County Public Schools,Potomac,MD,Montgomery County,10011 Glen Rd,20854,0,Wayside Elementary School
+642,Jackson Road Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,900 Jackson Rd,20904,0,Jackson Road Elementary School
+643,Clarksburg Elementary,Montgomery County Public Schools,Clarksburg,MD,Montgomery County,13530 Redgrave Pl,20871,0,Clarksburg Elementary School
+644,Cedar Grove Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,24001 Ridge Rd,20876,0,Cedar Grove Elementary School
+645,Pine Crest Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,201 Woodmoor Dr,20901,0,Pine Crest Elementary School
+646,Westbrook Elementary,Montgomery County Public Schools,Bethesda,MD,Montgomery County,5110 Allan Ter,20816,0,Westbrook Elementary School
+647,Damascus Elementary,Montgomery County Public Schools,Damascus,MD,Montgomery County,10201 Bethesda Church Rd,20872,0,Damascus Elementary School
+648,Montgomery Village Middle School,Montgomery County Public Schools,Montgomery Village,MD,Montgomery County,19300 Watkins Mill Rd,20886,0,Montgomery Village Middle School
+649,East Silver Spring Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,631 Silver Spring Ave,20910,0,East Silver Spring Elementary School
+650,Col. E. Brooke Lee Middle,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,11800 Monticello Ave,20902,0,Col. E. Brooke Lee Middle School
+651,Lois P. Rockwell Elementary,Montgomery County Public Schools,Damascus,MD,Montgomery County,24555 Cutsail Dr,20872,0,Lois P. Rockwell Elementary School
+652,Washington Grove Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,8712 Oakmont St,20877,0,Washington Grove Elementary School
+653,Little Bennett Elementary,Montgomery County Public Schools,Clarksburg,MD,Montgomery County,23930 Burdette Forest Rd,20871,0,Little Bennett Elementary School
+654,James Hubert Blake High,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,300 Norwood Rd,20905,0,James Hubert Blake High School
+655,Whetstone Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,19201 Thomas Farm Rd,20879,0,Whetstone Elementary School
+656,Fairland Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,14315 Fairdale Rd,20905,0,Fairland Elementary School
+657,Brown Station Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,850 Quince Orchard Blvd,20878,0,Brown Station Elementary School
+658,Thomas W. Pyle Middle School,Montgomery County Public Schools,Bethesda,MD,Montgomery County,6311 Wilson Lane,20817,0,Thomas W. Pyle Middle School
+659,Sligo Middle,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,1401 Dennis Ave,20902,0,Sligo Middle School
+660,Clearspring Elementary,Montgomery County Public Schools,Damascus,MD,Montgomery County,9930 Moyer Rd,20872,0,Clearspring Elementary School
+661,Goshen Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,8701 Warfield Rd,20882,0,Goshen Elementary School
+662,Luxmanor Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,6201 Tilden Ln,20852,0,Luxmanor Elementary School
+663,Flower Valley Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,4615 Sunflower Dr,20853,0,Flower Valley Elementary School
+664,Ronald A. Mcnair Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,13881 Hopkins Rd,20874,0,Ronald A. Mcnair Elementary School
+665,Captain James E. Daly Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,20301 Brandermill Dr,20876,0,Captain James E. Daly Elementary School
+666,Woodfield Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,24200 Woodfield Rd,20882,0,Woodfield Elementary School
+667,Strawberry Knoll Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,18820 Strawberry Knoll Rd,20879,0,Strawberry Knoll Elementary School
+668,William B. Gibbs Jr.,Montgomery County Public Schools,Germantown,MD,Montgomery County,12615 Royal Crown Drive,20876,0,William B. Gibbs Jr.
+669,Winston Churchill High,Montgomery County Public Schools,Potomac,MD,Montgomery County,11300 Gainsborough Rd,20854,0,Winston Churchill High School
+670,Ritchie Park Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,1514 Dunster Rd,20854,0,Ritchie Park Elementary School
+671,Kemp Mill Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,411 Sisson St,20902,0,Kemp Mill Elementary School
+672,Northwest High,Montgomery County Public Schools,Germantown,MD,Montgomery County,13501 Richter Farm Rd,20874,1,Northwest High School
+673,Newport Mill Middle,Montgomery County Public Schools,Kensington,MD,Montgomery County,11311 Newport Mill Rd,20895,0,Newport Mill Middle School
+674,Travilah Elementary,Montgomery County Public Schools,North Potomac,MD,Montgomery County,13801 Dufief Mill Rd,20878,0,Travilah Elementary School
+675,Ashburton Elementary,Montgomery County Public Schools,Bethesda,MD,Montgomery County,6314 Lone Oak Dr,20817,0,Ashburton Elementary School
+676,Longview School,Montgomery County Public Schools,Germantown,MD,Montgomery County,13900 Bromfield Rd,20874,0,Longview School
+677,Thomas Edison High School Of Technology,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,12501 Dalewood Dr,20906,0,Thomas Edison High School Of Technology
+678,Hallie Wells Middle School,Montgomery County Public Schools,Clarksburg,MD,Montgomery County,11701 Little Seneca Parkway,20871,0,Hallie Wells Middle School
+679,Robert Frost Middle School,Montgomery County Public Schools,Rockville,MD,Montgomery County,9201 Scott Dr,20850,1,Robert Frost Middle School
+680,Lakewood Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,2534 Lindley Terrace,20850,0,Lakewood Elementary School
+681,A. Mario Loiederman Middle,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,12701 Goodhill Rd,20906,0,A. Mario Loiederman Middle School
+682,Lucy V. Barnsley Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,15101 Bauer Dr,20852,0,Lucy V. Barnsley Elementary School
+683,Burnt Mills Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,11211 Childs St,20901,0,Burnt Mills Elementary School
+684,Herbert Hoover Middle,Montgomery County Public Schools,Potomac,MD,Montgomery County,8810 Post Oak Rd,20854,0,Herbert Hoover Middle School
+685,Sargent Shriver Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,12518 Greenly Dr,20906,0,Sargent Shriver Elementary School
+686,Maryvale Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,1000 First St,20850,0,Maryvale Elementary School
+687,Monocacy Elementary,Montgomery County Public Schools,Dickerson,MD,Montgomery County,18801 Barnesville Road,20842,0,Monocacy Elementary School
+688,Farmland Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,7000 Old Gate Road,20852,0,Farmland Elementary School
+689,Bradley Hills Elementary,Montgomery County Public Schools,Bethesda,MD,Montgomery County,8701 Hartsdale Ave,20817,0,Bradley Hills Elementary School
+690,Rock Creek Valley Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,5121 Russett Rd,20853,0,Rock Creek Valley Elementary School
+691,Rock View Elementary,Montgomery County Public Schools,Kensington,MD,Montgomery County,3901 Denfeld Ave,20895,0,Rock View Elementary School
+692,Harmony Hills Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,13407 Lydia St,20906,0,Harmony Hills Elementary School
+693,Ridgeview Middle,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,16600 Raven Rock Dr,20878,1,Ridgeview Middle School
+694,Belmont Elementary,Montgomery County Public Schools,Olney,MD,Montgomery County,19528 Olney Mill Rd,20832,0,Belmont Elementary School
+695,John T. Baker Middle School,Montgomery County Public Schools,Damascus,MD,Montgomery County,25400 Oak Dr,20872,0,John T. Baker Middle School
+696,Poolesville High,Montgomery County Public Schools,Poolesville,MD,Montgomery County,17501 Willard Rd,20837,0,Poolesville High School
+697,Highland View Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,9010 Providence Ave,20901,0,Highland View Elementary School
+698,Kensington Parkwood Elementary,Montgomery County Public Schools,Kensington,MD,Montgomery County,4710 Saul Rd,20895,0,Kensington Parkwood Elementary School
+699,Cold Spring Elementary,Montgomery County Public Schools,Potomac,MD,Montgomery County,9201 Falls Chapel Way,20854,0,Cold Spring Elementary School
+700,Carderock Springs Elementary,Montgomery County Public Schools,Bethesda,MD,Montgomery County,7401 Persimmon Tree Lane,20817,0,Carderock Springs Elementary School
+701,Meadow Hall Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,951 Twinbrook Pkwy,20851,0,Meadow Hall Elementary School
+702,Strathmore Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,3200 Beaverwood Ln,20906,0,Strathmore Elementary School
+703,College Gardens Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,1700 Yale Place,20850,0,College Gardens Elementary School
+704,Wood Acres Elementary,Montgomery County Public Schools,Bethesda,MD,Montgomery County,5800 Cromwell Drive,20816,0,Wood Acres Elementary School
+705,Rolling Terrace Elementary,Montgomery County Public Schools,Takoma Park,MD,Montgomery County,705 Bayfield St,20912,0,Rolling Terrace Elementary School
+706,Takoma Park Elementary,Montgomery County Public Schools,Takoma Park,MD,Montgomery County,7511 Holly Ave,20912,0,Takoma Park Elementary School
+707,Laytonsville Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,21401 Laytonsville Rd,20882,0,Laytonsville Elementary School
+708,White Oak Middle,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,12201 New Hampshire Ave,20904,0,White Oak Middle School
+709,Beall Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,451 Beall Ave,20850,0,Beall Elementary School
+710,Joann Leleck At Broad Acres Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,710 Beacon Rd,20903,0,Joann Leleck At Broad Acres Elementary School
+711,Georgian Forest Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,3100 Regina Dr,20906,0,Georgian Forest Elementary School
+712,Glenallan Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,12520 Heurich Rd,20902,0,Glenallan Elementary School
+713,Greencastle Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,13611 Robey Rd,20904,0,Greencastle Elementary School
+714,Regional Institute For Children & Adolescents,Montgomery County Public Schools,Rockville,MD,Montgomery County,15000 Broschart Rd,20850,0,Regional Institute For Children & Adolescents
+715,Jones Lane Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,15110 Jones Ln,20878,0,Jones Lane Elementary School
+716,Bannockburn Elementary,Montgomery County Public Schools,Bethesda,MD,Montgomery County,6520 Dalroy Ln,20817,0,Bannockburn Elementary School
+717,Mcps Transitions School,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,11721 Kemp Mill Rd,20902,0,Mcps Transitions School
+718,Forest Oak Middle,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,651 Saybrooke Oaks Blvd,20877,0,Forest Oak Middle School
+719,Albert Einstein High,Montgomery County Public Schools,Kensington,MD,Montgomery County,11135 Newport Mill Rd,20895,1,Albert Einstein High School
+720,Westover Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,401 Hawkesbury Ln,20904,0,Westover Elementary School
+721,Viers Mill Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,11711 Joseph Mill Rd,20906,0,Viers Mill Elementary School
+722,Cashell Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,17101 Cashell Rd,20853,0,Cashell Elementary School
+723,Wyngate Elementary,Montgomery County Public Schools,Bethesda,MD,Montgomery County,9300 Wadsworth Dr,20817,0,Wyngate Elementary School
+724,Springbrook High,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,201 Valleybrook Dr,20904,0,Springbrook High School
+725,William Tyler Page Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,13400 Tamarack Rd,20904,0,William Tyler Page Elementary School
+726,Sequoyah Elementary,Montgomery County Public Schools,Derwood,MD,Montgomery County,17301 Bowie Mill Rd,20855,0,Sequoyah Elementary School
+727,Judith A. Resnik Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,7301 Hadley Farms Drive,20879,1,Judith A. Resnik Elementary School
+728,Montgomery Blair High,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,51 University Blvd E,20901,0,Montgomery Blair High School
+729,Eastern Middle School,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,300 University Blvd East,20901,0,Eastern Middle School
+730,Wheaton High,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,12401 Dalewood Dr,20906,0,Wheaton High School
+731,Stonegate Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,14811 Notley Rd,20905,0,Stonegate Elementary School
+732,Burtonsville Elementary,Montgomery County Public Schools,Burtonsville,MD,Montgomery County,15516 Old Columbia Pike,20866,0,Burtonsville Elementary School
+733,Olney Elementary,Montgomery County Public Schools,Olney,MD,Montgomery County,3401 Queen Mary Dr,20832,0,Olney Elementary School
+734,Watkins Mill High,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,10301 Apple Ridge Rd,20879,0,Watkins Mill High School
+735,John F. Kennedy High,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,1901 Randolph Rd,20902,0,John F. Kennedy High School
+736,Carl Sandburg Center,Montgomery County Public Schools,Rockville,MD,Montgomery County,451 Meadow Hall Dr,20851,0,Carl Sandburg Center
+737,Montgomery Knolls Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,807 Daleview Dr,20901,0,Montgomery Knolls Elementary School
+738,Fields Road Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,1 School Dr,20878,0,Fields Road Elementary School
+739,Cannon Road Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,901 Cannon Road,20904,0,Cannon Road Elementary School
+740,Somerset Elementary,Montgomery County Public Schools,Chevy Chase,MD,Montgomery County,5811 Warwick Pl,20815,0,Somerset Elementary School
+741,Sherwood Elementary,Montgomery County Public Schools,Sandy Spring,MD,Montgomery County,1401 Olney-Sandy Spring Rd,20860,0,Sherwood Elementary School
+742,Walter Johnson High,Montgomery County Public Schools,Bethesda,MD,Montgomery County,6400 Rock Spring Dr,20814,0,Walter Johnson High School
+743,Quince Orchard High,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,15800 Quince Orchard Rd,20878,0,Quince Orchard High School
+744,John H. Poole Middle,Montgomery County Public Schools,Poolesville,MD,Montgomery County,17014 Tom Fox Ave,20837,0,John H. Poole Middle School
+745,Pep - Itinerant,Montgomery County Public Schools,Germantown,MD,Montgomery County,12900 Middlebrook Rd Rm 3305,20874,0,Pep - Itinerant
+746,Alternative Programs,Montgomery County Public Schools,Rockville,MD,Montgomery County,14501 Avery Road,20853,0,Alternative Programs
+747,Burning Tree Elementary,Montgomery County Public Schools,Bethesda,MD,Montgomery County,7900 Beech Tree Rd,20817,0,Burning Tree Elementary School
+748,Kingsview Middle,Montgomery County Public Schools,Germantown,MD,Montgomery County,18909 Kingsview Rd,20874,0,Kingsview Middle School
+749,Cabin John Middle School,Montgomery County Public Schools,Potomac,MD,Montgomery County,10701 Gainsborough Road,20854,0,Cabin John Middle School
+750,South Lake Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,18201 Contour Rd,20877,0,South Lake Elementary School
+751,Silver Creek Middle,Montgomery County Public Schools,Kensington,MD,Montgomery County,3701 Saul Rd,20895,0,Silver Creek Middle School
+752,Parkland Middle,Montgomery County Public Schools,Rockville,MD,Montgomery County,4610 West Frankfort Dr,20853,0,Parkland Middle School
+753,Fallsmead Elementary,Montgomery County Public Schools,Rockville,MD,Montgomery County,1800 Greenplace Ter,20850,0,Fallsmead Elementary School
+754,Rocky Hill Middle,Montgomery County Public Schools,Clarksburg,MD,Montgomery County,22401 Brick Haven Way,20871,0,Rocky Hill Middle School
+755,Takoma Park Middle School,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,7611 Piney Branch Rd,20910,0,Takoma Park Middle School
+756,Gaithersburg Middle,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,2 Teachers' Way,20877,0,Gaithersburg Middle School
+757,Bells Mill Elementary,Montgomery County Public Schools,Potomac,MD,Montgomery County,8225 Bells Mill Rd,20854,0,Bells Mill Elementary School
+758,Rosemont Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,16400 Alden Ave,20877,0,Rosemont Elementary School
+759,Fox Chapel Elementary,Montgomery County Public Schools,Germantown,MD,Montgomery County,19315 Archdale Rd,20876,0,Fox Chapel Elementary School
+760,Bethesda-Chevy Chase High,Montgomery County Public Schools,Bethesda,MD,Montgomery County,4301 East-West Hwy,20814,0,Bethesda-Chevy Chase High School
+761,Galway Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,12612 Galway Dr,20904,0,Galway Elementary School
+762,Darnestown Elementary,Montgomery County Public Schools,Gaithersburg,MD,Montgomery County,15030 Turkey Foot Rd,20878,0,Darnestown Elementary School
+763,Rockville High,Montgomery County Public Schools,Rockville,MD,Montgomery County,2100 Baltimore Rd,20851,0,Rockville High School
+764,Cloverly Elementary,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,800 Briggs Chaney Rd,20905,0,Cloverly Elementary School
+765,Clarksburg High,Montgomery County Public Schools,Clarksburg,MD,Montgomery County,22500 Wims Rd,20871,0,Clarksburg High School
+766,Rock Creek Forest Elementary,Montgomery County Public Schools,Chevy Chase,MD,Montgomery County,8330 Grubb Road,20815,0,Rock Creek Forest Elementary School
+767,Briggs Chaney Middle,Montgomery County Public Schools,Silver Spring,MD,Montgomery County,1901 Rainbow Dr,20905,0,Briggs Chaney Middle School
+768,Piney Branch Elementary,Montgomery County Public Schools,Takoma Park,MD,Montgomery County,7510 Maple Ave,20912,0,Piney Branch Elementary School
+769,Neelsville Middle,Montgomery County Public Schools,Germantown,MD,Montgomery County,11700 Neelsville Church Rd,20876,0,Neelsville Middle School
+770,William H. Farquhar Middle,Montgomery County Public Schools,Olney,MD,Montgomery County,17017 Batchellors Forest Rd,20832,0,William H. Farquhar Middle School
+771,Redland Middle,Montgomery County Public Schools,Rockville,MD,Montgomery County,6505 Muncaster Mill Rd,20855,0,Redland Middle School
+772,Discovery School,Lake Washington School District,Kirkland,WA,King County,12801 84th NE,98034,0,Discovery School
+773,Renaissance School,Lake Washington School District,Sammamish,WA,King County,400 228th Ave NE,98074,0,Renaissance School
+774,Environmental & Adventure School,Lake Washington School District,Kirkland,WA,King County,8040 NE 132nd,98034,0,Environmental & Adventure School
+775,International Community School,Lake Washington School District,Kirkland,WA,King County,11133 NE 65th ST,98033,0,International Community School
+776,Twain Elementary,Lake Washington School District,Kirkland,WA,King County,9525 130th Ave NE,98033,0,Twain Elementary School
+777,Rose Hill Middle School,Lake Washington School District,Redmond,WA,King County,13505 NE 75th,98052,0,Rose Hill Middle School
+778,Washington Network For Innovative Careers,Lake Washington School District,Redmond,WA,King County,WaNIC,98052,0,Washington Network For Innovative Careers
+779,Juanita Elementary,Lake Washington School District,Kirkland,WA,King County,9635 NE 132nd,98034,0,Juanita Elementary School
+780,Stella Schola,Lake Washington School District,Redmond,WA,King County,13505 NE 75th Street,98052,1,Stella Schola
+781,Redmond Middle School,Lake Washington School District,Redmond,WA,King County,10055 166th AVE NE,98052,0,Redmond Middle School
+782,Ready Start Preschool,Lake Washington School District,Redmond,WA,King County,15130 NE 95th ST,98052,1,Ready Start Preschool
+783,Redmond Elementary,Lake Washington School District,Redmond,WA,King County,16800 NE 80th,98052,0,Redmond Elementary School
+784,Franklin Elementary,Lake Washington School District,Kirkland,WA,King County,12434 NE 60th,98033,0,Franklin Elementary School
+785,Frost Elementary,Lake Washington School District,Kirkland,WA,King County,11801 NE 140th,98034,0,Frost Elementary School
+786,Kirk Elementary,Lake Washington School District,Kirkland,WA,King County,1312 6th Street,98033,0,Kirk Elementary School
+787,Alcott Elementary,Lake Washington School District,Redmond,WA,King County,4213 - 228th AVE NE,98053,1,Alcott Elementary School
+788,Eastlake High School,Lake Washington School District,Sammamish,WA,King County,400 228th NE,98074,0,Eastlake High School
+789,Mann Elementary,Lake Washington School District,Redmond,WA,King County,17001 NE 104th,98052,0,Mann Elementary School
+790,Emerson K-12,Lake Washington School District,Kirkland,WA,King County,10903 NE 53rd Street,98033,0,Emerson K-12
+791,Northstar Middle School,Lake Washington School District,Kirkland,WA,King County,10903 NE 53rd St,98033,0,Northstar Middle School
+792,Rose Hill Elementary,Lake Washington School District,Kirkland,WA,King County,8044 128th AVE NE,98033,0,Rose Hill Elementary School
+793,Kamiakin Middle School,Lake Washington School District,Kirkland,WA,King County,14111 132ND AVE NE,98034,0,Kamiakin Middle School
+794,Rockwell Elementary,Lake Washington School District,Redmond,WA,King County,11125 - 162nd AVE NE,98052,0,Rockwell Elementary School
+795,Community School,Lake Washington School District,Kirkland,WA,King County,11133 NE 65th,98033,0,Community School
+796,Futures School,Lake Washington School District,Kirkland,WA,King County,10601 NE 132nd,98034,0,Futures School
+797,Thoreau Elementary,Lake Washington School District,Kirkland,WA,King County,8224 NE 138th,98034,0,Thoreau Elementary School
+798,Tesla Stem High School,Lake Washington School District,Redmond,WA,King County,4301 228th Ave NE,98053,0,Tesla Stem High School
+799,Muir Elementary,Lake Washington School District,Kirkland,WA,King County,14012 132nd AVE NE,98034,0,Muir Elementary School
+800,Finn Hill Middle School,Lake Washington School District,Kirkland,WA,King County,8040 NE 132nd ST,98034,0,Finn Hill Middle School
+801,Keller Elementary,Lake Washington School District,Kirkland,WA,King County,13820 - 108th NE,98034,0,Keller Elementary School
+802,Blackwell Elementary,Lake Washington School District,Sammamish,WA,King County,3225 - 205th PL NE,98074,0,Blackwell Elementary School
+803,Evergreen Middle School,Lake Washington School District,Redmond,WA,King County,6900 208th AVE NE,98053,1,Evergreen Middle School
+804,Kirkland Middle School,Lake Washington School District,Kirkland,WA,King County,430 18th AVE,98033,0,Kirkland Middle School
+805,Emerson High School,Lake Washington School District,Kirkland,WA,King County,10903 NE 53rd ST,98033,1,Emerson High School
+806,Audubon Elementary,Lake Washington School District,Redmond,WA,King County,3045 180th NE,98052,0,Audubon Elementary School
+807,Lakeview Elementary,Lake Washington School District,Kirkland,WA,King County,10400 NE 68TH,98033,0,Lakeview Elementary School
+808,Inglewood Middle School,Lake Washington School District,Sammamish,WA,King County,24120 NE 8th ST,98074,0,Inglewood Middle School
+809,Rush Elementary,Lake Washington School District,Redmond,WA,King County,6101 152nd Ave NE,98052,0,Rush Elementary School
+810,Lake Washington High,Lake Washington School District,Kirkland,WA,King County,12033 NE 80TH,98033,0,Lake Washington High School
+811,Bell Elementary,Lake Washington School District,Kirkland,WA,King County,11212 NE 112TH,98033,0,Bell Elementary School
+812,Juanita High,Lake Washington School District,Kirkland,WA,King County,10601 NE 132ND,98034,0,Juanita High School
+813,Wilder Elementary,Lake Washington School District,Woodinville,WA,King County,22130 NE 133rd,98077,0,Wilder Elementary School
+814,Dickinson Elementary,Lake Washington School District,Redmond,WA,King County,7040 - 208th NE,98053,0,Dickinson Elementary School
+815,Redmond High,Lake Washington School District,Redmond,WA,King County,17272 NE 104th,98052,1,Redmond High School
+816,Contractual Schools,Lake Washington School District,Redmond,WA,King County,16250 NE 74th ST,98052,0,Contractual Schools
+817,Mead Elementary,Lake Washington School District,Sammamish,WA,King County,1725 216th AVE NE,98074,0,Mead Elementary School
+818,Smith Elementary,Lake Washington School District,Sammamish,WA,King County,23305 NE 14th St,98074,0,Smith Elementary School
+819,Mcauliffe Elementary,Lake Washington School District,Sammamish,WA,King County,23823 NE 22nd,98074,0,Mcauliffe Elementary School
+820,Explorer Community School,Lake Washington School District,Redmond,WA,King County,7040 208th NE,98053,0,Explorer Community School
+821,Sandburg Elementary,Lake Washington School District,Kirkland,WA,King County,12801 - 84th Ave NE,98034,0,Sandburg Elementary School
+822,Carson Elementary,Lake Washington School District,Sammamish,WA,King County,1035 - 244th Ave NE,98074,0,Carson Elementary School
+823,Einstein Elementary,Lake Washington School District,Redmond,WA,King County,18025 NE 116th,98052,0,Einstein Elementary School
+824,Rosa Parks Elementary,Lake Washington School District,Redmond,WA,King County,22845 NE Cedar Park Crescent,98053,0,Rosa Parks Elementary School
+825,Searingtown School,Herricks Union Free School District,Albertson,NY,Nassau County,106 BEVERLY DR,11507,1,Searingtown School
+826,Denton Avenue School,Herricks Union Free School District,New Hyde Park,NY,Nassau County,1050 DENTON AVE,11040,0,Denton Avenue School
+827,Herricks Middle School,Herricks Union Free School District,Albertson,NY,Nassau County,7 HILLDALE DR,11507,1,Herricks Middle School
+828,Center Street School,Herricks Union Free School District,Williston Park,NY,Nassau County,240 CENTER ST,11596,1,Center Street School
+829,Herricks High School,Herricks Union Free School District,New Hyde Park,NY,Nassau County,100 SHELTER ROCK RD,11040,1,Herricks High School
+830,Sanford Jr High School,Sanford Public Schools,Sanford,ME,York County,708  Main Street,04073,1,Sanford Jr High School
+831,Carl J Lamb School,Sanford Public Schools,Springvale,ME,York County,233 Shaws Ridge Road,04083,1,Carl J Lamb School
+832,Willard School,Sanford Public Schools,Sanford,ME,York County,668 Main Street,04073,1,Willard School
+833,Sanford High School,Sanford Public Schools,Sanford,ME,York County,52 Sanford High School Blvd,04073,1,Sanford High School
+834,Sanford Regional Technical Center,Sanford Public Schools,Sanford,ME,York County,52 Sanford High School Blvd,04073,0,Sanford Regional Technical Center
+835,Lafayette School,Sanford Public Schools,Sanford,ME,York County,69 Brook Street,04073,0,Lafayette School
+836,Margaret Chase Smith Sch -Sanford,Sanford Public Schools,Sanford,ME,York County,248 Twombly Road,04073,0,Margaret Chase Smith School -Sanford
+837,Prospect Elementary,Orange Unified,Orange,CA,Orange County,379 N. Virage St.,92869,0,Prospect Elementary School
+838,California Elementary,Orange Unified,Orange,CA,Orange County,1080 N. California St.,92867,0,California Elementary School
+839,Cerro Villa Middle,Orange Unified,Villa Park,CA,Orange County,17852 E. Serrano Ave.,92861,0,Cerro Villa Middle School
+840,Ousd Community Day,Orange Unified,Orange,CA,Orange County,250 S. Yorba St.,92869,0,Ousd Community Day
+841,Esplanade Elementary,Orange Unified,Orange,CA,Orange County,381 N. Esplanade St.,92869,0,Esplanade Elementary School
+842,La Veta Elementary,Orange Unified,Orange,CA,Orange County,2800 E. La Veta Ave.,92869,0,La Veta Elementary School
+843,Linda Vista Elementary,Orange Unified,Orange,CA,Orange County,1200 N. Cannon St.,92869,0,Linda Vista Elementary School
+844,Mcpherson Magnet,Orange Unified,Orange,CA,Orange County,333 S. Prospect St.,92869,0,Mcpherson Magnet
+845,Crescent Elementary,Orange Unified,Anaheim,CA,Orange County,5001 Gerda Dr.,92807,0,Crescent Elementary School
+846,Villa Park Elementary,Orange Unified,Villa Park,CA,Orange County,10551 Center Dr.,92861,0,Villa Park Elementary School
+847,Ousd Home Sch,Orange Unified,Orange,CA,Orange County,250 S. Yorba St.,92869,0,Ousd Home School
+848,Jordan Elementary,Orange Unified,Orange,CA,Orange County,4319 E. Jordan Ave.,92869,1,Jordan Elementary School
+849,Anaheim Hills Elementary,Orange Unified,Anaheim,CA,Orange County,6450 E. Serrano,92807,0,Anaheim Hills Elementary School
+850,Chapman Hills Elementary,Orange Unified,Orange,CA,Orange County,170 N. Aspen St.,92869,0,Chapman Hills Elementary School
+851,Canyon High,Orange Unified,Anaheim,CA,Orange County,220 S. Imperial Hwy.,92807,1,Canyon High School
+852,Olive Elementary,Orange Unified,Orange,CA,Orange County,3038 N. Magnolia,92865,0,Olive Elementary School
+853,Villa Park High,Orange Unified,Villa Park,CA,Orange County,18042 Taft Ave.,92861,0,Villa Park High School
+854,Lampson Elementary,Orange Unified,Garden Grove,CA,Orange County,13321 Lampson Ave.,92840,0,Lampson Elementary School
+855,Yorba Middle,Orange Unified,Orange,CA,Orange County,935 N. Cambridge,92867,1,Yorba Middle School
+856,El Modena High,Orange Unified,Orange,CA,Orange County,3920 Spring St.,92869,0,Elementary Modena High School
+857,Canyon Rim Elementary,Orange Unified,Anaheim,CA,Orange County,1090 The Highlands Dr.,92808,0,Canyon Rim Elementary School
+858,West Orange Elementary,Orange Unified,Orange,CA,Orange County,243 S. Bush,92868,1,West Orange Elementary School
+859,Nohl Canyon Elementary,Orange Unified,Anaheim,CA,Orange County,4100 E. Nohl Ranch Rd.,92807,0,Nohl Canyon Elementary School
+860,Orange High,Orange Unified,Orange,CA,Orange County,525 N. Shaffer St.,92867,0,Orange High School
+861,Taft Elementary,Orange Unified,Orange,CA,Orange County,1829 N. Cambridge,92865,0,Taft Elementary School
+862,Portola Middle,Orange Unified,Orange,CA,Orange County,270 N. Palm Dr.,92868,1,Portola Middle School
+863,Palmyra Elementary,Orange Unified,Orange,CA,Orange County,1325 E. Palmyra Ave.,92866,0,Palmyra Elementary School
+864,Running Springs Elementary,Orange Unified,Anaheim,CA,Orange County,8670 E. Running Springs Dr.,92808,0,Running Springs Elementary School
+865,Canyon Hills,Orange Unified,Anaheim,CA,Orange County,260 S. Imperial Hwy.,92807,0,Canyon Hills
+866,Cambridge Elementary,Orange Unified,Orange,CA,Orange County,425 N. Cambridge,92866,0,Cambridge Elementary School
+867,Fairhaven Elementary,Orange Unified,Santa Ana,CA,Orange County,1415 E. Fairhaven Ave.,92705,0,Fairhaven Elementary School
+868,Panorama Elementary,Orange Unified,Santa Ana,CA,Orange County,10512 Crawford Canyon Rd.,92705,0,Panorama Elementary School
+869,Orange Unified Pre-K Sdc,Orange Unified,Anaheim,CA,Orange County,5125 E. Gerda Dr.,92807,0,Orange Unified Pre-K Sdc
+870,Serrano Elementary,Orange Unified,Villa Park,CA,Orange County,17741 Serrano Ave.,92861,0,Serrano Elementary School
+871,Handy Elementary,Orange Unified,Orange,CA,Orange County,860 N. Handy St.,92867,0,Handy Elementary School
+872,Sycamore Elementary,Orange Unified,Orange,CA,Orange County,340 N. Main St.,92868,0,Sycamore Elementary School
+873,Imperial Elementary,Orange Unified,Anaheim,CA,Orange County,400 S. Imperial Hwy.,92807,0,Imperial Elementary School
+874,Richland Continuation High,Orange Unified,Orange,CA,Orange County,615 N. Lemon St.,92867,1,Richland Continuation High School
+875,Fletcher Elementary,Orange Unified,Orange,CA,Orange County,515 W. Fletcher St.,92865,0,Fletcher Elementary School
+876,Newman El,Frisco Isd,Frisco,TX,Denton County,12333 BRIAR RIDGE RD,75033,0,Newman Elementary School
+877,Clark Middle,Frisco Isd,Frisco,TX,Collin County,4600 COLBY DR,75035,1,Clark Middle School
+878,Stafford Middle,Frisco Isd,Frisco,TX,Denton County,2288 LITTLE RIVER DR,75034,0,Stafford Middle School
+879,Student Opportunity Center,Frisco Isd,Frisco,TX,Collin County,6928 MAPLE ST,75034,0,Student Opportunity Center
+880,Collin Co J J A E P,Frisco Isd,Frisco,TX,Collin County,5515 OHIO DR,75035,0,Collin Co J J A E P
+881,Frisco H S,Frisco Isd,Frisco,TX,Collin County,6401 PARKWOOD BLVD,75034,0,Frisco High School
+882,Lone Star H S,Frisco Isd,Frisco,TX,Denton County,2606 PANTHER CREEK PKWY,75034,0,Lone Star High School
+883,Corbell El,Frisco Isd,Frisco,TX,Denton County,11095 MONARCH DR,75034,0,Corbell Elementary School
+884,Shawnee Trail El,Frisco Isd,Frisco,TX,Collin County,10701 PRESTON VINEYARD DR,75035,0,Shawnee Trail Elementary School
+885,Sonntag El,Frisco Isd,Mckinney,TX,Collin County,2001 REAGAN DR,75070,0,Sonntag Elementary School
+886,Heritage H S,Frisco Isd,Frisco,TX,Collin County,14040 ELDORADO PKWY,75035,0,Heritage High School
+887,Memorial H S,Frisco Isd,Frisco,TX,Collin County,12300 FRISCO ST,75033,1,Memorial High School
+888,Isbell El,Frisco Isd,Frisco,TX,Collin County,6000 MALTBY DR,75035,0,Isbell Elementary School
+889,Wakeland H S,Frisco Isd,Frisco,TX,Denton County,10700 LEGACY DR,75034,0,Wakeland High School
+890,Nelson Middle,Frisco Isd,Frisco,TX,Collin County,10100 INDEPENDENCE PKWY,75035,1,Nelson Middle School
+891,Hunt Middle,Frisco Isd,Frisco,TX,Collin County,4900 LEGENDARY DR,75034,0,Hunt Middle School
+892,Maus Middle,Frisco Isd,Frisco,TX,Collin County,12175 COIT RD,75035,0,Maus Middle School
+893,Trent Middle,Frisco Isd,Frisco,TX,Denton County,13131 COLETO CREEK DR,75033,0,Trent Middle School
+894,Vandeventer Middle,Frisco Isd,Frisco,TX,Collin County,6075 INDEPENDENCE PKWY,75035,0,Vandeventer Middle School
+895,Spears El,Frisco Isd,Frisco,TX,Collin County,8500 WADE BLVD,75034,0,Spears Elementary School
+896,Taylor El,Frisco Isd,Plano,TX,Collin County,9865 GILLESPIE DR,75025,0,Taylor Elementary School
+897,Christie El,Frisco Isd,Frisco,TX,Collin County,10300 HUNTINGTON RD,75035,1,Christie Elementary School
+898,Comstock El,Frisco Isd,Mckinney,TX,Collin County,7152 SILVERADO TRAIL,75070,0,Comstock Elementary School
+899,Roach Middle,Frisco Isd,Frisco,TX,Collin County,12499 INDEPENDENCE PKWY,75035,0,Roach Middle School
+900,Nichols El,Frisco Isd,Frisco,TX,Denton County,7411 NICHOLS TRAIL,75034,0,Nichols Elementary School
+901,Pioneer Heritage Middle,Frisco Isd,Frisco,TX,Denton County,1649 HIGH SHOALS DR,75034,0,Pioneer Heritage Middle School
+902,Scoggins Middle,Frisco Isd,Mckinney,TX,Collin County,7070 STACY RD,75070,0,Scoggins Middle School
+903,Early Childhood School,Frisco Isd,Frisco,TX,Collin County,10330 RED CEDAR DR,75035,0,Early Childhood School
+904,Norris El,Frisco Isd,Frisco,TX,Collin County,10101 SHEPTON LN,75035,0,Norris Elementary School
+905,Elliott El,Frisco Isd,Mckinney,TX,Collin County,3721 HUDSON CROSSING,75070,0,Elliott Elementary School
+906,Wester Middle,Frisco Isd,Frisco,TX,Collin County,12293 SHEPHERDS HILL LN,75035,0,Wester Middle School
+907,Purefoy El,Frisco Isd,Frisco,TX,Denton County,11880 TEEL PKWY,75034,0,Purefoy Elementary School
+908,Pearson Middle,Frisco Isd,Frisco,TX,Denton County,2323 STONEBROOK PKWY,75034,0,Pearson Middle School
+909,Fisher El,Frisco Isd,Frisco,TX,Denton County,2500 OLD ORCHARD DR,75034,0,Fisher Elementary School
+910,Tadlock El,Frisco Isd,Frisco,TX,Collin County,12515 GODFREY DR,75035,0,Tadlock Elementary School
+911,Riddle El,Frisco Isd,Plano,TX,Collin County,8201 ROBINSON RD,75024,0,Riddle Elementary School
+912,Anderson El,Frisco Isd,Plano,TX,Collin County,2800 OAKLAND HILLS DR,75025,0,Anderson Elementary School
+913,Liberty H S,Frisco Isd,Frisco,TX,Collin County,15250 ROLATER RD,75035,0,Liberty High School
+914,Vaughn El,Frisco Isd,Frisco,TX,Denton County,3535 GUINN GATE DR,75034,0,Vaughn Elementary School
+915,Pink El,Frisco Isd,Frisco,TX,Denton County,3650 OVERHILL DR,75034,0,Pink Elementary School
+916,Lebanon Trail H S,Frisco Isd,Frisco,TX,Collin County,5151 OHIO DR,75035,1,Lebanon Trail High School
+917,Robertson El,Frisco Isd,Little Elm,TX,Denton County,2501 WOODLAKE PKWY,75068,0,Robertson Elementary School
+918,Griffin Middle,Frisco Isd,Frisco,TX,Denton County,3703 EDORADO PKWY,75034,0,Griffin Middle School
+919,Borchardt El,Frisco Isd,Plano,TX,Collin County,4300 WASKOM DR,75024,0,Borchardt Elementary School
+920,Ogle El,Frisco Isd,Mckinney,TX,Collin County,4200 BIG FORK TRL,75070,0,Ogle Elementary School
+921,Fowler Middle,Frisco Isd,Plano,TX,Collin County,3801 MCDERMOTT RD,75025,0,Fowler Middle School
+922,Sem El,Frisco Isd,Frisco,TX,Collin County,12721 HONEY GROVE DR,75035,0,Sem Elementary School
+923,Mooneyham El,Frisco Isd,Mckinney,TX,Collin County,2301 EDEN DR,75070,0,Mooneyham Elementary School
+924,Smith El,Frisco Isd,Frisco,TX,Collin County,9800 SEAN DR,75035,0,Smith Elementary School
+925,Miller El,Frisco Isd,Little Elm,TX,Denton County,300 CYPRESS HILL DR,75068,0,Miller Elementary School
+926,Curtsinger El,Frisco Isd,Frisco,TX,Collin County,12450 JEREME TRL,75035,0,Curtsinger Elementary School
+927,Allen El,Frisco Isd,Frisco,TX,Denton County,5800 LEGACY DR,75034,0,Allen Elementary School
+928,Centennial H S,Frisco Isd,Frisco,TX,Collin County,6901 COIT RD,75035,0,Centennial High School
+929,Ashley El,Frisco Isd,Frisco,TX,Collin County,15601 CHRISTOPHER LN,75035,0,Ashley Elementary School
+930,Bledsoe El,Frisco Isd,Frisco,TX,Denton County,1900 TIMBER RDG DR,75034,0,Bledsoe Elementary School
+931,Phillips El,Frisco Isd,Frisco,TX,Denton County,2285 LITTLE RIVER DR,75033,0,Phillips Elementary School
+932,Bright El,Frisco Isd,Frisco,TX,Collin County,7600 WOODSTREAM DR,75034,0,Bright Elementary School
+933,Carroll El,Frisco Isd,Frisco,TX,Denton County,4380 THRONE HALL DR,75034,0,Carroll Elementary School
+934,Staley Middle,Frisco Isd,Frisco,TX,Collin County,6927 STADIUM LN,75034,0,Staley Middle School
+935,Reedy H S,Frisco Isd,Frisco,TX,Denton County,3003 STONEBROOK PKWY,75034,0,Reedy High School
+936,Independence H S,Frisco Isd,Frisco,TX,Collin County,10555 INDEPENDENCE PKWY,75035,0,Independence High School
+937,Mcspedden El,Frisco Isd,Frisco,TX,Collin County,14140 COUNTRYBROOK DR,75035,0,Mcspedden Elementary School
+938,Boals El,Frisco Isd,Frisco,TX,Denton County,2035 JAGUAR DR,75034,0,Boals Elementary School
+939,Sparks El,Frisco Isd,Frisco,TX,Denton County,8200 OTIS DR,75034,0,Sparks Elementary School
+940,Cobb Middle,Frisco Isd,Frisco,TX,Denton County,9400 TEEL PKWY,75034,0,Cobb Middle School
+941,Gunstream El,Frisco Isd,Frisco,TX,Collin County,7600 ROCKYRIDGE DR,75035,0,Gunstream Elementary School
+942,Scott El,Frisco Isd,Mckinney,TX,Collin County,10550 MILLBEND DR,75070,1,Scott Elementary School
+943,Rogers Elementary,Frisco Isd,Frisco,TX,Collin County,10500 ROGERS RD,75034,0,Rogers Elementary School
+944,Vandalia Elementary,Guilford County Schools,Greensboro,NC,Guilford County,407 East Vandalia Road,27406,0,Vandalia Elementary School
+945,Millis Road Elementary,Guilford County Schools,Jamestown,NC,Guilford County,4310 Millis Road,27282,0,Millis Road Elementary School
+946,Sedalia Elementary,Guilford County Schools,Sedalia,NC,Guilford County,6120 Burlington Road,27342,0,Sedalia Elementary School
+947,Murphey Traditional Academy,Guilford County Schools,Greensboro,NC,Guilford County,2306 Ontario Street,27403,0,Murphey Traditional Academy
+948,Wiley Accel/Enrichment,Guilford County Schools,Greensboro,NC,Guilford County,600 West Terrell Street,27406,0,Wiley Accel/Enrichment
+949,John Van Lindley Elementary,Guilford County Schools,Greensboro,NC,Guilford County,2700 Camden Road,27403,0,John Van Lindley Elementary School
+950,Page High,Guilford County Schools,Greensboro,NC,Guilford County,201 Alma Pinnix Drive,27405,0,Page High School
+951,Sumner Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1915 Harris Drive,27406,0,Sumner Elementary School
+952,Gc Middle College High,Guilford County Schools,Greensboro,NC,Guilford County,815 West Market Street,27401,0,Gc Middle College High School
+953,Western Guilford High,Guilford County Schools,Greensboro,NC,Guilford County,409 Friendway Road,27410,0,Western Guilford High School
+954,Northern Guilford Middle,Guilford County Schools,Greensboro,NC,Guilford County,616 Simpson-Calhoun Road,27455,0,Northern Guilford Middle School
+955,James B Dudley High,Guilford County Schools,Greensboro,NC,Guilford County,1200 Lincoln Street,27401,0,James B Dudley High School
+956,Oak Hill Elementary,Guilford County Schools,High Point,NC,Guilford County,320 Wrightenberry Street,27260,0,Oak Hill Elementary School
+957,Fairview Elementary,Guilford County Schools,High Point,NC,Guilford County,608 Fairview Street,27260,0,Fairview Elementary School
+958,Edwin A Alderman Elementary,Guilford County Schools,Greensboro,NC,Guilford County,4211 Chateau Drive,27407,0,Edwin A Alderman Elementary School
+959,George C Simkins Jr Elementary,Guilford County Schools,Greensboro,NC,Guilford County,3511 East Lee St,27406,0,George C Simkins Jr Elementary School
+960,Gtcc Middle College High,Guilford County Schools,Jamestown,NC,Guilford County,601 East Main Street,27282,0,Gtcc Middle College High School
+961,Sternberger Elementary,Guilford County Schools,Greensboro,NC,Guilford County,518 North Holden Road,27410,0,Sternberger Elementary School
+962,Gibsonville Elementary,Guilford County Schools,Gibsonville,NC,Guilford County,401 East Joyner Street,27249,0,Gibsonville Elementary School
+963,Rankin Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1501 Spry Street,27405,0,Rankin Elementary School
+964,Brooks Global Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1215 Westover Terrace,27408,0,Brooks Global Elementary School
+965,Jefferson Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1400 New Garden Road,27410,0,Jefferson Elementary School
+966,Archer Elementary,Guilford County Schools,Greensboro,NC,Guilford County,2610 Four Seasons Boulevard,27407,1,Archer Elementary School
+967,Southeast Guilford High,Guilford County Schools,Greensboro,NC,Guilford County,4530 Southeast School Road,27406,0,Southeast Guilford High School
+968,Oak View Elementary,Guilford County Schools,High Point,NC,Guilford County,614 Oakview Road,27265,0,Oak View Elementary School
+969,Kiser Middle,Guilford County Schools,Greensboro,NC,Guilford County,716 Benjamin Parkway,27408,0,Kiser Middle School
+970,Southwest Elementary,Guilford County Schools,High Point,NC,Guilford County,4372 Southwest School Road,27265,0,Southwest Elementary School
+971,Ben L. Smith High School,Guilford County Schools,Greensboro,NC,Guilford County,2407 South Holden Road,27407,0,Ben L. Smith High School
+972,Penn-Griffin Schools,Guilford County Schools,High Point,NC,Guilford County,825 Washington Street,27260,0,Penn-Griffin Schools
+973,Shadybrook Elementary,Guilford County Schools,High Point,NC,Guilford County,503 Shadybrook Rd,27265,0,Shadybrook Elementary School
+974,High School Ahead Academy,Guilford County Schools,Greensboro,NC,Guilford County,1401Summit Avenue,27405,0,High School Ahead Academy
+975,Northwood Elementary,Guilford County Schools,High Point,NC,Guilford County,818 West Lexington Avenue,27262,0,Northwood Elementary School
+976,Allen Middle,Guilford County Schools,Greensboro,NC,Guilford County,1108 Glendale Drive,27406,0,Allen Middle School
+977,Herbin Metz Education Center,Guilford County Schools,Greensboro,NC,Guilford County,400 O' Ferrell Street,27405,0,Herbin Metz Education Center
+978,Early College At Guilford,Guilford County Schools,Greensboro,NC,Guilford County,5608 West Friendly Avenue,27410,0,Early College At Guilford
+979,Grimsley High,Guilford County Schools,Greensboro,NC,Guilford County,801 Westover Terrace,27408,0,Grimsley High School
+980,High Point Central High,Guilford County Schools,High Point,NC,Guilford County,801 Ferndale Boulevard,27262,0,High Point Central High School
+981,Julius I Foust Elementary,Guilford County Schools,Greensboro,NC,Guilford County,2610 Floyd Street,27406,0,Julius I Foust Elementary School
+982,David D Jones Elementary,Guilford County Schools,Greensboro,NC,Guilford County,502 South Street,27406,0,David D Jones Elementary School
+983,Northern Guilford High,Guilford County Schools,Greensboro,NC,Guilford County,7101 Spencer Dixon Road,27455,0,Northern Guilford High School
+984,Ceasar Cone Elementary,Guilford County Schools,Greensboro,NC,Guilford County,2501 North Church Street,27405,0,Ceasar Cone Elementary School
+985,Summerfield Elementary,Guilford County Schools,Summerfield,NC,Guilford County,7501 Summerfield Road,27358,0,Summerfield Elementary School
+986,Southern Guilford Middle,Guilford County Schools,Greensboro,NC,Guilford County,5747 Drake Rd,27406,0,Southern Guilford Middle School
+987,Union Hill Elementary,Guilford County Schools,High Point,NC,Guilford County,3523 Triangle Lake Road,27260,0,Union Hill Elementary School
+988,Middle College High At Bennett,Guilford County Schools,Greensboro,NC,Guilford County,610 Gorrell Street,27406,0,Middle College High At Bennett
+989,Lucy Ragsdale High,Guilford County Schools,Jamestown,NC,Guilford County,1000 Lucy Ragsdale Drive,27282,0,Lucy Ragsdale High School
+990,Montlieu Academy Of Technology,Guilford County Schools,High Point,NC,Guilford County,1105 Montlieu Avenue,27262,0,Montlieu Academy Of Technology
+991,Jesse Wharton Elem,Guilford County Schools,Greensboro,NC,Guilford County,5813 Lake Brandt Road,27455,0,Jesse Wharton Elem
+992,Washington Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1110 East Washington Street,27401,0,Washington Elementary School
+993,Lincoln Academy,Guilford County Schools,Greensboro,NC,Guilford County,1016 Lincoln Street,27401,0,Lincoln Academy
+994,Kearns Academy,Guilford County Schools,High Point,NC,Guilford County,1710 McGuinn Dr.,27265,0,Kearns Academy
+995,Northeast Guilford High,Guilford County Schools,Mcleansville,NC,Guilford County,6700 McLeansville Road,27301,0,Northeast Guilford High School
+996,Kernodle Middle,Guilford County Schools,Greensboro,NC,Guilford County,3600 Drawbridge Parkway,27410,0,Kernodle Middle School
+997,Stokesdale Elementary,Guilford County Schools,Stokesdale,NC,Guilford County,8025 US Highway 158,27357,1,Stokesdale Elementary School
+998,Jackson Middle,Guilford County Schools,Greensboro,NC,Guilford County,2200 Ontario Street,27403,0,Jackson Middle School
+999,Southwest Guilford Middle,Guilford County Schools,High Point,NC,Guilford County,4368 Southwest School Road,27265,0,Southwest Guilford Middle School
+1000,Allen Jay Elementary,Guilford County Schools,High Point,NC,Guilford County,1311 East Springfield Road,27263,0,Allen Jay Elementary School
+1001,Erwin Montessori,Guilford County Schools,Greensboro,NC,Guilford County,3012 East Bessemer Aveune,27405,0,Erwin Montessori
+1002,Western Guilford Middle,Guilford County Schools,Greensboro,NC,Guilford County,320 Lindley Road,27410,0,Western Guilford Middle School
+1003,Southern Elementary,Guilford County Schools,Greensboro,NC,Guilford County,5720 Drake Road,27406,0,Southern Elementary School
+1004,Pleasant Garden Elementary,Guilford County Schools,Pleasant Garden,NC,Guilford County,4833 Pleasant Garden Road,27313,0,Pleasant Garden Elementary School
+1005,Colfax Elementary,Guilford County Schools,Colfax,NC,Guilford County,9112 West Market Street,27235,0,Colfax Elementary School
+1006,Otis L Hairston Sr Middle,Guilford County Schools,Greensboro,NC,Guilford County,3911 Naco Rd,27401,0,Otis L Hairston Sr Middle School
+1007,Scale School,Guilford County Schools,Greensboro,NC,Guilford County,116 Pisgah Church Road,27455,0,Scale School
+1008,Doris Henderson Newcomers Sch,Guilford County Schools,Greensboro,NC,Guilford County,411 Friendway Road,27410,0,Doris Henderson Newcomers School
+1009,Mendenhall Middle,Guilford County Schools,Greensboro,NC,Guilford County,205 Willoughby Boulevard,27408,1,Mendenhall Middle School
+1010,Claxton Elementary,Guilford County Schools,Greensboro,NC,Guilford County,3720 Pinetop Road,27410,0,Claxton Elementary School
+1011,Triangle Lake Montessori Elem,Guilford County Schools,High Point,NC,Guilford County,2401 Triangle Lake Road,27260,0,Triangle Lake Montessori Elem
+1012,Swann Middle School,Guilford County Schools,Greensboro,NC,Guilford County,811 Cypress Street,27405,0,Swann Middle School
+1013,Northern Guilford Elementary,Guilford County Schools,Greensboro,NC,Guilford County,3801 NC Highway 150 East,27455,0,Northern Guilford Elementary School
+1014,Monticello-Brown Summit Elem,Guilford County Schools,Browns Summit,NC,Guilford County,5006 NC Highway 150 East,27214,0,Monticello-Brown Summit Elem
+1015,Northwest Guilford Middle,Guilford County Schools,Greensboro,NC,Guilford County,5300 Northwest School Road,27409,0,Northwest Guilford Middle School
+1016,Eastern Guilford High,Guilford County Schools,Gibsonville,NC,Guilford County,415 Peeden Drive,27249,0,Eastern Guilford High School
+1017,Gateway Education Center,Guilford County Schools,Greensboro,NC,Guilford County,3205 East Wendover Aveune,27405,0,Gateway Education Center
+1018,Southwest Guilford High,Guilford County Schools,High Point,NC,Guilford County,4364 Barrow Road,27265,0,Southwest Guilford High School
+1019,Florence Elementary,Guilford County Schools,High Point,NC,Guilford County,7605 Florence School Road,27265,0,Florence Elementary School
+1020,Northwest Guilford High,Guilford County Schools,Greensboro,NC,Guilford County,5240 Northwest School Road,27409,1,Northwest Guilford High School
+1021,Allen Jay Middle - A Preparatory Academy,Guilford County Schools,High Point,NC,Guilford County,1201 East Fairfield Rd,27263,0,Allen Jay Middle - A Preparatory Academy
+1022,Nathanael Greene Elementary,Guilford County Schools,Liberty,NC,Guilford County,2717 NC Highway 62 East,27298,0,Nathanael Greene Elementary School
+1023,Uncg Early/Middle College,Guilford County Schools,Greensboro,NC,Guilford County,1408 Walker Avenue,27412,0,Uncg Early/Middle College
+1024,T Wingate Andrews High,Guilford County Schools,High Point,NC,Guilford County,1920 McGuinn Drive,27265,0,T Wingate Andrews High School
+1025,Gillespie Park Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1900 Martin Luther King Jr Dri,27406,0,Gillespie Park Elementary School
+1026,Philip J Weaver Ed Center,Guilford County Schools,Greensboro,NC,Guilford County,300 South Spring Street,27401,1,Philip J Weaver Ed Center
+1027,Hunter Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1305 Merritt Drive,27407,0,Hunter Elementary School
+1028,General Greene Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1501 Benjamin Parkway,27408,0,General Greene Elementary School
+1029,Haynes Inman Education Center,Guilford County Schools,Jamestown,NC,Guilford County,200 Haynes Road,27282,0,Haynes Inman Education Center
+1030,Bluford Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1901 Tuscaloosa Street,27401,0,Bluford Elementary School
+1031,Peeler Open Elementary,Guilford County Schools,Greensboro,NC,Guilford County,2200 Randall Street,27401,0,Peeler Open Elementary School
+1032,Johnson Street Global Studies,Guilford County Schools,High Point,NC,Guilford County,1601 Johnson Street,27262,0,Johnson Street Global Studies
+1033,Sedgefield Elementary,Guilford County Schools,Greensboro,NC,Guilford County,2905 Groometown Road,27407,0,Sedgefield Elementary School
+1034,Parkview Village Elementary,Guilford County Schools,High Point,NC,Guilford County,325 Gordon Street,27260,0,Parkview Village Elementary School
+1035,Jamestown Elementary,Guilford County Schools,Jamestown,NC,Guilford County,108 Potter Drive,27282,0,Jamestown Elementary School
+1036,Middle College At Gtcc-High Point,Guilford County Schools,High Point,NC,Guilford County,901 South Main Street,27260,0,Middle College At Gtcc-High Point
+1037,James Y Joyner Elementary,Guilford County Schools,Greensboro,NC,Guilford County,3300 Normandy Road,27408,0,James Y Joyner Elementary School
+1038,Irving Park Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1310 Sunset Drive,27408,0,Irving Park Elementary School
+1039,Bessemer Elementary,Guilford County Schools,Greensboro,NC,Guilford County,918 Huffine Mill Road,27405,0,Bessemer Elementary School
+1040,Madison Elementary,Guilford County Schools,Mcleansville,NC,Guilford County,3600 Hines Chapel Road,27301,0,Madison Elementary School
+1041,C Joyner Greene Education Center,Guilford County Schools,Jamestown,NC,Guilford County,604 East Main Street,27282,0,C Joyner Greene Education Center
+1042,Clara J Peck Elementary,Guilford County Schools,Greensboro,NC,Guilford County,1601 West Florida Street,27403,0,Clara J Peck Elementary School
+1043,Guilford Elementary,Guilford County Schools,Greensboro,NC,Guilford County,920 Stage Coach Trail,27410,0,Guilford Elementary School
+1044,Southeast Guilford Middle,Guilford County Schools,Greensboro,NC,Guilford County,4825 Woody Mill Road,27406,0,Southeast Guilford Middle School
+1045,Pruette Scale Academy,Guilford County Schools,High Point,NC,Guilford County,900 English Road,27262,0,Pruette Scale Academy
+1046,Academy At Smith,Guilford County Schools,Greensboro,NC,Guilford County,2225 South Holden Road,27407,0,Academy At Smith
+1047,Morehead Elementary,Guilford County Schools,Greensboro,NC,Guilford County,4630 Tower Road,27410,0,Morehead Elementary School
+1048,Jamestown Middle,Guilford County Schools,Jamestown,NC,Guilford County,301 Haynes Road,27282,1,Jamestown Middle School
+1049,Hampton Elem Univ Partnership,Guilford County Schools,Greensboro,NC,Guilford County,2301 Trade Street,27401,0,Hampton Elem Univ Partnership
+1050,Reedy Fork Elementary,Guilford County Schools,Greensboro,NC,Guilford County,4571 Reedy Fork Parkway,27405,0,Reedy Fork Elementary School
+1051,Kirkman Park Elementary,Guilford County Schools,High Point,NC,Guilford County,1101 North Centennial Street,27262,0,Kirkman Park Elementary School
+1052,Stem Early College @ Nc A&T Su,Guilford County Schools,Greensboro,NC,Guilford County,402 Laurel Street,27411,0,Stem Early College @ Nc A&T Su
+1053,Southern Guilford High,Guilford County Schools,Greensboro,NC,Guilford County,5700 Drake Road,27406,0,Southern Guilford High School
+1054,Ep Pearce Elementary,Guilford County Schools,Greensboro,NC,Guilford County,2006 Pleasant Ridge Road,27410,0,Ep Pearce Elementary School
+1055,Ronald E. Mcnair Elementary,Guilford County Schools,Browns Summit,NC,Guilford County,4603 Yanceyville Road,27214,0,Ronald E. Mcnair Elementary School
+1056,Brown Summit Middle,Guilford County Schools,Browns Summit,NC,Guilford County,4720 NC Highway 150 East,27214,0,Brown Summit Middle School
+1057,Mcleansville Elementary,Guilford County Schools,Mcleansville,NC,Guilford County,5315 Frieden Church Rd,27301,0,Mcleansville Elementary School
+1058,Brightwood Elementary,Guilford County Schools,Greensboro,NC,Guilford County,2001 Brightwood School Road,27405,0,Brightwood Elementary School
+1059,Northeast Guilford Middle,Guilford County Schools,Mcleansville,NC,Guilford County,6720 McLeansville Road,27301,0,Northeast Guilford Middle School
+1060,Pilot Elementary,Guilford County Schools,Greensboro,NC,Guilford County,4701 Chimney Springs Drive,27407,0,Pilot Elementary School
+1061,Middle College At Nc A&T,Guilford County Schools,Greensboro,NC,Guilford County,1601 East Market Street,27411,0,Middle College At Nc A&T
+1062,Ferndale Middle,Guilford County Schools,High Point,NC,Guilford County,701 Ferndale Boulevard,27262,0,Ferndale Middle School
+1063,Waldo C Falkener Sr Elementary,Guilford County Schools,Greensboro,NC,Guilford County,3931 Naco Road,27401,0,Waldo C Falkener Sr Elementary School
+1064,Welborn Middle,Guilford County Schools,High Point,NC,Guilford County,1710 McGuinn Drive,27265,0,Welborn Middle School
+1065,Oak Ridge Elementary,Guilford County Schools,Oak Ridge,NC,Guilford County,2050 Oak Ridge Road,27310,0,Oak Ridge Elementary School
+1066,Middle College At Gtcc-Greensboro,Guilford County Schools,Greensboro,NC,Guilford County,3505 East Wendover Avenue,27405,0,Middle College At Gtcc-Greensboro
+1067,Eastern Guilford Middle,Guilford County Schools,Gibsonville,NC,Guilford County,435 Peeden Drive,27249,0,Eastern Guilford Middle School
+1068,Cyrus P Frazier Elementary,Guilford County Schools,Greensboro,NC,Guilford County,4215 Galway Drive,27406,0,Cyrus P Frazier Elementary School
+1069,Alamance Elementary,Guilford County Schools,Greensboro,NC,Guilford County,3600 Williams Dairy Road,27406,0,Alamance Elementary School
+1070,Nitschmann Ms,Bethlehem Area Sd,Bethlehem,PA,Lehigh County,1002 W. Union Blvd,18018,0,Nitschmann Middle School
+1071,Freemansburg El Sch,Bethlehem Area Sd,Freemansburg,PA,Northampton County,501 Monroe St,18017,0,Freemansburg Elementary School
+1072,Miller Heights El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,3605 Allen St,18020,0,Miller Heights Elementary School
+1073,Donegan El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,1210 East 4th St,18015,0,Donegan Elementary School
+1074,Liberty Hs,Bethlehem Area Sd,Bethlehem,PA,Northampton County,1115 Linden St,18018,1,Liberty High School
+1075,Farmersville El Sch,Bethlehem Area Sd,Easton,PA,Northampton County,7036 Wm Penn Highway,18045,0,Farmersville Elementary School
+1076,Thomas Jefferson El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,404 E North St,18018,1,Thomas Jefferson Elementary School
+1077,Fountain Hill El Sch,Bethlehem Area Sd,Bethlehem,PA,Lehigh County,1330 Church St,18015,1,Fountain Hill Elementary School
+1078,East Hills Ms,Bethlehem Area Sd,Bethlehem,PA,Northampton County,2005 Chester Rd,18017,1,East Hills Middle School
+1079,Clearview El Sch,Bethlehem Area Sd,Bethlehem,PA,Lehigh County,2121 Abington Rd,18018,0,Clearview Elementary School
+1080,James Buchanan El Sch,Bethlehem Area Sd,Bethlehem,PA,Lehigh County,1621 Catasauqua Road,18017,0,James Buchanan Elementary School
+1081,Governor Wolf El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,1920 Butztown Rd,18017,0,Governor Wolf Elementary School
+1082,Northeast Ms,Bethlehem Area Sd,Bethlehem,PA,Northampton County,1170 Fernwood St,18018,0,Northeast Middle School
+1083,William Penn El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,1002 Main St,18018,0,William Penn Elementary School
+1084,Broughal Ms,Bethlehem Area Sd,Bethlehem,PA,Northampton County,114 West Morton Street,18015,1,Broughal Middle School
+1085,Lincoln El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,1260 Gresham St,18017,0,Lincoln Elementary School
+1086,Freedom Hs,Bethlehem Area Sd,Bethlehem,PA,Northampton County,3149 Chester Ave,18020,1,Freedom High School
+1087,Spring Garden El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,901 North Blvd,18017,0,Spring Garden Elementary School
+1088,Calypso El Sch,Bethlehem Area Sd,Bethlehem,PA,Lehigh County,1021 Calypso Ave,18018,0,Calypso Elementary School
+1089,Hanover El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,3890 Jacksonville Rd,18017,0,Hanover Elementary School
+1090,Marvine El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,1425 Livingston St,18017,0,Marvine Elementary School
+1091,Asa Packer El Sch,Bethlehem Area Sd,Bethlehem,PA,Northampton County,1650 Kenwood Dr,18017,0,Asa Packer Elementary School
+1092,Quest High School,Fremont Public School District,Fremont,MI,Newaygo County,350 CEDAR ST,49412,1,Quest High School
+1093,Fremont Middle School,Fremont Public School District,Fremont,MI,Newaygo County,500 WOODROW ST,49412,1,Fremont Middle School
+1094,Fremont High School,Fremont Public School District,Fremont,MI,Newaygo County,5421 S Warner Ave,49412,1,Fremont High School
+1095,Pathfinder Elementary School,Fremont Public School District,Fremont,MI,Newaygo County,109 WEST 44TH ST,49412,1,Pathfinder Elementary School
+1096,Daisy Brook Elementary School,Fremont Public School District,Fremont,MI,Newaygo County,502 NORTH DIVISION AVE,49412,1,Daisy Brook Elementary School
+1097,Fairmont Heights High,Prince George'S County Public Schools,Landover,MD,Prince George'S County,6501 Columbia Park Rd,20785,0,Fairmont Heights High School
+1098,Parkdale High,Prince George'S County Public Schools,Riverdale,MD,Prince George'S County,6001 Good Luck Rd,20737,0,Parkdale High School
+1099,Rosa L. Parks Elementary,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,6111 Ager Rd,20782,0,Rosa L. Parks Elementary School
+1100,Panorama Elementary,Prince George'S County Public Schools,Temple Hills,MD,Prince George'S County,2002 Callaway St,20748,0,Panorama Elementary School
+1101,Thomas S. Stone Elementary,Prince George'S County Public Schools,Mt Rainier,MD,Prince George'S County,4500 34th St,20712,0,Thomas S. Stone Elementary School
+1102,Deerfield Run Elementary,Prince George'S County Public Schools,Laurel,MD,Prince George'S County,13000 Laurel-Bowie Rd,20708,0,Deerfield Run Elementary School
+1103,Thomas G. Pullen School,Prince George'S County Public Schools,Landover,MD,Prince George'S County,700 Brightseat Rd,20785,0,Thomas G. Pullen School
+1104,Avalon Elementary,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,7302 Webster Lane,20744,0,Avalon Elementary School
+1105,Gwynn Park High,Prince George'S County Public Schools,Brandywine,MD,Prince George'S County,13800 Brandywine Rd,20613,0,Gwynn Park High School
+1106,Walker Mill Middle,Prince George'S County Public Schools,Capitol Heights,MD,Prince George'S County,800 Karen Blvd,20743,0,Walker Mill Middle School
+1107,Kettering Middle,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,65 Herrington Dr,20774,0,Kettering Middle School
+1108,Highland Park Elementary,Prince George'S County Public Schools,Landover,MD,Prince George'S County,6501 Lowland Dr,20785,0,Highland Park Elementary School
+1109,Berwyn Heights Elementary,Prince George'S County Public Schools,Berwyn Heights,MD,Prince George'S County,6200 Pontiac St,20740,0,Berwyn Heights Elementary School
+1110,Charles Carroll Middle,Prince George'S County Public Schools,New Carrollton,MD,Prince George'S County,6130 Lamont Dr,20784,0,Charles Carroll Middle School
+1111,Chapel Forge Early Childhood Center,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,12711 Milan Way,20715,0,Chapel Forge Early Childhood Center
+1112,Prekindergarten Offsites,Prince George'S County Public Schools,Oxon Hill,MD,Prince George'S County,1616 Owens Road,20745,0,Prekindergarten Offsites
+1113,Hillcrest Heights Elementary,Prince George'S County Public Schools,Temple Hills,MD,Prince George'S County,4305 22nd Place,20748,0,Hillcrest Heights Elementary School
+1114,Martin Luther King Jr. Middle,Prince George'S County Public Schools,Beltsville,MD,Prince George'S County,4545 Ammendale Rd,20705,0,Martin Luther King Jr. Middle School
+1115,Barnaby Manor Elementary,Prince George'S County Public Schools,Oxon Hill,MD,Prince George'S County,2411 Owens Rd,20745,0,Barnaby Manor Elementary School
+1116,Brandywine Elementary,Prince George'S County Public Schools,Brandywine,MD,Prince George'S County,14101 Brandywine Rd,20613,0,Brandywine Elementary School
+1117,Potomac Landing Elementary,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,12500 Fort Washington Rd,20744,0,Potomac Landing Elementary School
+1118,Hyattsville Elementary,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,5311 43rd Ave,20781,0,Hyattsville Elementary School
+1119,Waldon Woods Elementary,Prince George'S County Public Schools,Clinton,MD,Prince George'S County,10301 Thrift Rd,20735,0,Waldon Woods Elementary School
+1120,Drew Freeman Middle,Prince George'S County Public Schools,Suitland,MD,Prince George'S County,2600 Brooks Dr,20746,0,Drew Freeman Middle School
+1121,Carole Highlands Elementary,Prince George'S County Public Schools,Takoma Park,MD,Prince George'S County,1610 Hannon St,20912,0,Carole Highlands Elementary School
+1122,Flintstone Elementary,Prince George'S County Public Schools,Oxon Hill,MD,Prince George'S County,800 Comanche Dr,20745,0,Flintstone Elementary School
+1123,Charles Herbert Flowers High,Prince George'S County Public Schools,Springdale,MD,Prince George'S County,10001 Ardwick-Ardmore Rd,20774,0,Charles Herbert Flowers High School
+1124,Phyllis E. Williams Elementary,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,9601 Prince Pl,20774,0,Phyllis E. Williams Elementary School
+1125,Laurel High,Prince George'S County Public Schools,Laurel,MD,Prince George'S County,8000 Cherry Ln,20707,0,Laurel High School
+1126,Kenmoor Early Childhood Center,Prince George'S County Public Schools,Landover,MD,Prince George'S County,3211 82nd Ave,20785,0,Kenmoor Early Childhood Center
+1127,Seabrook Elementary,Prince George'S County Public Schools,Seabrook,MD,Prince George'S County,6001 Seabrook Rd,20706,0,Seabrook Elementary School
+1128,Magnolia Elementary,Prince George'S County Public Schools,Lanham,MD,Prince George'S County,8400 Nightingale Dr,20706,0,Magnolia Elementary School
+1129,Samuel Chase Elementary,Prince George'S County Public Schools,Temple Hills,MD,Prince George'S County,5700 Fisher Rd,20748,0,Samuel Chase Elementary School
+1130,William Schmidt Environmental Center,Prince George'S County Public Schools,Brandywine,MD,Prince George'S County,18501 Aquasco Rd,20613,0,William Schmidt Environmental Center
+1131,Riverdale Elementary,Prince George'S County Public Schools,Riverdale,MD,Prince George'S County,5006 Riverdale Rd,20737,0,Riverdale Elementary School
+1132,Tall Oaks High,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,2112 Church Rd,20721,0,Tall Oaks High School
+1133,Marlton Elementary,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,8506 Old Colony Dr S,20772,0,Marlton Elementary School
+1134,Dora Kennedy French Immersion,Prince George'S County Public Schools,Seabrook,MD,Prince George'S County,8950 Edmonston Rd,20706,0,Dora Kennedy French Immersion
+1135,Doswell E. Brooks Elementary,Prince George'S County Public Schools,Capital Heights,MD,Prince George'S County,1301 Brooke Rd,20743,0,Doswell E. Brooks Elementary School
+1136,Hollywood Elementary,Prince George'S County Public Schools,College Park,MD,Prince George'S County,9811 49th Ave,20740,0,Hollywood Elementary School
+1137,John Hanson Montessori,Prince George'S County Public Schools,Oxon Hill,MD,Prince George'S County,6360 Oxon Hill Rd,20745,0,John Hanson Montessori
+1138,Catherine T. Reed Elementary,Prince George'S County Public Schools,Lanham,MD,Prince George'S County,9501 Greenbelt Rd,20706,0,Catherine T. Reed Elementary School
+1139,Kenmoor Middle,Prince George'S County Public Schools,Landover,MD,Prince George'S County,2500 Kenmoor Dr,20785,0,Kenmoor Middle School
+1140,Princeton Elementary,Prince George'S County Public Schools,Suitland,MD,Prince George'S County,6101 Baxter Dr,20746,0,Princeton Elementary School
+1141,Benjamin D. Foulois Academy,Prince George'S County Public Schools,Morningside,MD,Prince George'S County,4601 Beauford Rd,20746,0,Benjamin D. Foulois Academy
+1142,Dr. Henry A. Wise Jr. High,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,12650 Brooke Lane,20772,0,Dr. Henry A. Wise Jr. High School
+1143,Carmody Hills Elementary,Prince George'S County Public Schools,Capitol Heights,MD,Prince George'S County,401 Jadeleaf Ave,20743,0,Carmody Hills Elementary School
+1144,Barack Obama Elementary,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,12700 Brooke Ln,20772,0,Barack Obama Elementary School
+1145,Glenn Dale Elementary,Prince George'S County Public Schools,Glenn Dale,MD,Prince George'S County,6700 Glenn Dale Rd,20769,0,Glenn Dale Elementary School
+1146,Eleanor Roosevelt High,Prince George'S County Public Schools,Greenbelt,MD,Prince George'S County,7601 Hanover Pkwy,20770,0,Eleanor Roosevelt High School
+1147,Frances Fuchs Early Childhood Center,Prince George'S County Public Schools,Beltsville,MD,Prince George'S County,11011 Cherry Hill Road,20705,0,Frances Fuchs Early Childhood Center
+1148,Kenilworth Elementary,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,12520 Kembridge Dr,20715,0,Kenilworth Elementary School
+1149,Scotchtown Hills Elementary,Prince George'S County Public Schools,Laurel,MD,Prince George'S County,15950 Dorset Rd,20707,0,Scotchtown Hills Elementary School
+1150,Clinton Grove Elementary,Prince George'S County Public Schools,Clinton,MD,Prince George'S County,9420 Temple Hill Rd,20735,0,Clinton Grove Elementary School
+1151,Overlook Elementary,Prince George'S County Public Schools,Temple Hills,MD,Prince George'S County,3298 Curtis Dr,20748,0,Overlook Elementary School
+1152,Lake Arbor Elementary,Prince George'S County Public Schools,Mitchellville,MD,Prince George'S County,10205 Lake Arbor Way,20721,0,Lake Arbor Elementary School
+1153,Greenbelt Middle,Prince George'S County Public Schools,Greenbelt,MD,Prince George'S County,6301 Breezewood Dr,20770,0,Greenbelt Middle School
+1154,Woodridge Elementary,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,5001 Flintridge Dr,20784,0,Woodridge Elementary School
+1155,Dwight D. Eisenhower Middle,Prince George'S County Public Schools,Laurel,MD,Prince George'S County,13725 Briarwood Dr,20708,0,Dwight D. Eisenhower Middle School
+1156,Patuxent Elementary,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,4410 Bishopmill Dr,20772,0,Patuxent Elementary School
+1157,Bladensburg High,Prince George'S County Public Schools,Bladensburg,MD,Prince George'S County,4200 57th Ave,20710,0,Bladensburg High School
+1158,Paint Branch Elementary,Prince George'S County Public Schools,College Park,MD,Prince George'S County,5101 Pierce Ave,20740,0,Paint Branch Elementary School
+1159,Academy Of Health Sciences At Pgcc,Prince George'S County Public Schools,Largo,MD,Prince George'S County,301 Largo Rd,20774,1,Academy Of Health Sciences At Pgcc
+1160,District Heights Elementary,Prince George'S County Public Schools,District Heights,MD,Prince George'S County,2200 County Rd,20747,0,District Heights Elementary School
+1161,Annapolis Road Academy,Prince George'S County Public Schools,Forestville,MD,Prince George'S County,7001 Beltz Drive,20747,0,Annapolis Road Academy
+1162,Largo High,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,505 Largo Rd,20774,0,Largo High School
+1163,Columbia Park Elementary,Prince George'S County Public Schools,Landover,MD,Prince George'S County,1901 Kent Village Dr,20785,0,Columbia Park Elementary School
+1164,Samuel P. Massie Academy,Prince George'S County Public Schools,Forestville,MD,Prince George'S County,3301 Regency Pkwy,20747,0,Samuel P. Massie Academy
+1165,Croom High,Prince George'S County Public Schools,Cheltenham,MD,Prince George'S County,9400 Surratts Road,20623,0,Croom High School
+1166,Cooper Lane Elementary,Prince George'S County Public Schools,Landover Hills,MD,Prince George'S County,3817 Cooper Ln,20784,0,Cooper Lane Elementary School
+1167,William Paca Elementary,Prince George'S County Public Schools,Landover,MD,Prince George'S County,7801 Sherriff Rd,20785,0,William Paca Elementary School
+1168,Stephen Decatur Middle,Prince George'S County Public Schools,Clinton,MD,Prince George'S County,8200 Pinewood Dr,20735,0,Stephen Decatur Middle School
+1169,Glenridge Elementary,Prince George'S County Public Schools,Landover Hills,MD,Prince George'S County,7200 Gallatin St,20784,0,Glenridge Elementary School
+1170,Thomas Johnson Middle,Prince George'S County Public Schools,Lanham,MD,Prince George'S County,5401 Barker Pl,20706,1,Thomas Johnson Middle School
+1171,Rogers Heights Elementary,Prince George'S County Public Schools,Bladensburg,MD,Prince George'S County,4301 58th Ave,20710,0,Rogers Heights Elementary School
+1172,Tanglewood Regional Center,Prince George'S County Public Schools,Clinton,MD,Prince George'S County,8333 Woodyard Rd,20735,0,Tanglewood Regional Center
+1173,Surrattsville High,Prince George'S County Public Schools,Clinton,MD,Prince George'S County,6101 Garden Dr,20735,0,Surrattsville High School
+1174,James H. Harrison Elementary,Prince George'S County Public Schools,Laurel,MD,Prince George'S County,13200 Larchdale Rd,20708,0,James H. Harrison Elementary School
+1175,Apple Grove Elementary,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,7400 Bellefield Ave,20744,0,Apple Grove Elementary School
+1176,Central High,Prince George'S County Public Schools,Capitol Heights,MD,Prince George'S County,200 Cabin Branch Rd,20743,1,Central High School
+1177,Cool Spring Elementary,Prince George'S County Public Schools,Adelphi,MD,Prince George'S County,8910 Riggs Rd,20783,0,Cool Spring Elementary School
+1178,Rose Valley Elementary,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,9800 Jacqueline Dr,20744,0,Rose Valley Elementary School
+1179,Beacon Heights Elementary,Prince George'S County Public Schools,Riverdale,MD,Prince George'S County,6929 Furman Pkwy,20737,0,Beacon Heights Elementary School
+1180,Friendly High,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,10000 Allentown Rd,20744,0,Friendly High School
+1181,Benjamin Stoddert Middle,Prince George'S County Public Schools,Temple Hills,MD,Prince George'S County,2501 Olson St,20748,0,Benjamin Stoddert Middle School
+1182,Robert R. Gray Elementary,Prince George'S County Public Schools,Capital Heights,MD,Prince George'S County,4949 Addison Rd,20743,0,Robert R. Gray Elementary School
+1183,Arrowhead Elementary,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,2300 Sansbury Rd,20772,0,Arrowhead Elementary School
+1184,Montpelier Elementary,Prince George'S County Public Schools,Laurel,MD,Prince George'S County,9200 Muirkirk Rd,20708,0,Montpelier Elementary School
+1185,Dodge Park Elementary,Prince George'S County Public Schools,Landover,MD,Prince George'S County,3401 Hubbard Rd,20785,0,Dodge Park Elementary School
+1186,Robert Frost Elementary,Prince George'S County Public Schools,New Carrollton,MD,Prince George'S County,6419 85th Ave,20784,0,Robert Frost Elementary School
+1187,Robert Goddard Montessori,Prince George'S County Public Schools,Seabrook,MD,Prince George'S County,9850 Good Luck Rd,20706,0,Robert Goddard Montessori
+1188,Glassmanor Elementary,Prince George'S County Public Schools,Oxon Hill,MD,Prince George'S County,1011 Marcy Ave,20745,0,Glassmanor Elementary School
+1189,Heather Hills Elementary,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,12605 Heming Ln,20716,0,Heather Hills Elementary School
+1190,Benjamin Tasker Middle School,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,4901 Collington Rd,20715,0,Benjamin Tasker Middle School
+1191,Fort Washington Forest Elementary,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,1300 Fillmore Rd,20744,0,Fort Washington Forest Elementary School
+1192,Chillum Elementary,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,1420 Chillum St,20782,0,Chillum Elementary School
+1193,James Mchenry Elementary,Prince George'S County Public Schools,Lanham,MD,Prince George'S County,8909 Mchenry Ln,20706,0,James Mchenry Elementary School
+1194,Whitehall Elementary,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,3901 Woodhaven Ln,20715,0,Whitehall Elementary School
+1195,William Wirt Middle,Prince George'S County Public Schools,Riverdale,MD,Prince George'S County,6200 Tuckerman St,20737,0,William Wirt Middle School
+1196,Hyattsville Middle,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,6001 42nd Ave,20781,1,Hyattsville Middle School
+1197,Buck Lodge Middle,Prince George'S County Public Schools,Adelphi,MD,Prince George'S County,2611 Buck Lodge Rd,20783,0,Buck Lodge Middle School
+1198,Indian Queen Elementary,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,9551 Fort Foote Rd,20744,0,Indian Queen Elementary School
+1199,Ernest Everett Just Middle,Prince George'S County Public Schools,Mitchellville,MD,Prince George'S County,1300 Campus Way N,20721,0,Ernest Everett Just Middle School
+1200,Calverton Elementary,Prince George'S County Public Schools,Beltsville,MD,Prince George'S County,3400 Beltsville Rd,20705,0,Calverton Elementary School
+1201,Community Based Classrooms,Prince George'S County Public Schools,Bladensburg,MD,Prince George'S County,5150 Annapolis Rd,20710,0,Community Based Classrooms
+1202,Bradbury Heights Elementary,Prince George'S County Public Schools,Capital Heights,MD,Prince George'S County,1401 Glacier Ave,20743,0,Bradbury Heights Elementary School
+1203,Bowie High,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,15200 Annapolis Rd,20715,0,Bowie High School
+1204,Kettering Elementary,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,11000 Layton St,20774,0,Kettering Elementary School
+1205,Beltsville Academy,Prince George'S County Public Schools,Beltsville,MD,Prince George'S County,4300 Wicomico Ave,20705,0,Beltsville Academy
+1206,Concord Elementary,Prince George'S County Public Schools,District Heights,MD,Prince George'S County,2004 Concord Ln,20747,0,Concord Elementary School
+1207,Baden Elementary,Prince George'S County Public Schools,Brandywine,MD,Prince George'S County,13601 Baden-Westwood Rd,20613,1,Baden Elementary School
+1208,Laurel Elementary,Prince George'S County Public Schools,Laurel,MD,Prince George'S County,516 Montgomery St,20707,0,Laurel Elementary School
+1209,Ardmore Elementary,Prince George'S County Public Schools,Springdale,MD,Prince George'S County,9301 Ardwick Ardmore Road,20774,0,Ardmore Elementary School
+1210,Longfields Elementary,Prince George'S County Public Schools,Forestville,MD,Prince George'S County,3300 Newkirk Ave,20747,0,Longfields Elementary School
+1211,Allenwood Elementary,Prince George'S County Public Schools,Temple Hills,MD,Prince George'S County,6300 Harley Ln,20748,0,Allenwood Elementary School
+1212,Cherokee Lane Elementary,Prince George'S County Public Schools,Adelphi,MD,Prince George'S County,9000 25th Ave,20783,0,Cherokee Lane Elementary School
+1213,Bond Mill Elementary,Prince George'S County Public Schools,Laurel,MD,Prince George'S County,16001 Sherwood Ave,20707,0,Bond Mill Elementary School
+1214,Howard B. Owens Science Center,Prince George'S County Public Schools,Lanham,MD,Prince George'S County,9601 Greenblet Rd,20706,0,Howard B. Owens Science Center
+1215,Judge Sylvania W. Woods Sr. Elementary,Prince George'S County Public Schools,Glenarden,MD,Prince George'S County,3000 Church St,20706,0,Judge Sylvania W. Woods Sr. Elementary School
+1216,Melwood Elementary,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,7100 Woodyard Rd,20772,0,Melwood Elementary School
+1217,Greenbelt Elementary,Prince George'S County Public Schools,Greenbelt,MD,Prince George'S County,66 Ridge Rd,20770,0,Greenbelt Elementary School
+1218,"Mary Harris ""Mother"" Jones Elementary",Prince George'S County Public Schools,Adelphi,MD,Prince George'S County,2405 Tecumseh St,20783,0,"Mary Harris ""Mother"" Jones Elementary School"
+1219,Perrywood Elementary,Prince George'S County Public Schools,Largo,MD,Prince George'S County,501 Watkins Park Dr,20774,0,Perrywood Elementary School
+1220,Tayac Elementary,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,8600 Allentown Rd,20744,0,Tayac Elementary School
+1221,Maya Angelou French Immersion,Prince George'S County Public Schools,Temple Hills,MD,Prince George'S County,2000 Callaway St,20748,0,Maya Angelou French Immersion
+1222,Vansville Elementary,Prince George'S County Public Schools,Beltsville,MD,Prince George'S County,6813 Ammendale Rd,20705,0,Vansville Elementary School
+1223,Cora L. Rice Elementary,Prince George'S County Public Schools,Landover,MD,Prince George'S County,950 Nalley Rd,20785,0,Cora L. Rice Elementary School
+1224,Duval High,Prince George'S County Public Schools,Lanham,MD,Prince George'S County,9880 Good Luck Rd,20706,0,Duval High School
+1225,Judith P. Hoyer Montessori,Prince George'S County Public Schools,Landover,MD,Prince George'S County,929 Hill Rd,20785,0,Judith P. Hoyer Montessori
+1226,James Madison Middle,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,7300 Woodyard Rd,20772,0,James Madison Middle School
+1227,C. Elizabeth Rieg Regional Center,Prince George'S County Public Schools,Mitchellville,MD,Prince George'S County,15542 Peach Walker Dr,20716,0,C. Elizabeth Rieg Regional Center
+1228,James Ryder Randall Elementary,Prince George'S County Public Schools,Clinton,MD,Prince George'S County,5410 Kirby Rd,20735,0,James Ryder Randall Elementary School
+1229,Fort Foote Elementary,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,8300 Oxon Hill Rd,20744,0,Fort Foote Elementary School
+1230,Francis Scott Key Elementary,Prince George'S County Public Schools,District Heights,MD,Prince George'S County,2301 Scott Key Dr,20747,0,Francis Scott Key Elementary School
+1231,Margaret Brent Regional Center,Prince George'S County Public Schools,New Carrollton,MD,Prince George'S County,5816 Lamont Ter,20784,0,Margaret Brent Regional Center
+1232,Isaac J. Gourdine Middle,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,8700 Allentown Rd,20744,0,Isaac J. Gourdine Middle School
+1233,Northwestern Evening/Saturday High,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,7000 Adelphi Road,20782,0,Northwestern Evening/Saturday High School
+1234,Forest Heights Elementary,Prince George'S County Public Schools,Oxon Hill,MD,Prince George'S County,200 Talbert Dr,20745,0,Forest Heights Elementary School
+1235,Crossland High,Prince George'S County Public Schools,Temple Hills,MD,Prince George'S County,6901 Temple Hill Road,20748,0,Crossland High School
+1236,Lewisdale Elementary,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,2400 Banning Pl,20783,0,Lewisdale Elementary School
+1237,John H. Bayne Elementary,Prince George'S County Public Schools,Capitol Heights,MD,Prince George'S County,7010 Walker Mill Rd,20743,0,John H. Bayne Elementary School
+1238,Adelphi Elementary,Prince George'S County Public Schools,Adelphi,MD,Prince George'S County,8820 Riggs Rd,20783,0,Adelphi Elementary School
+1239,Lamont Elementary,Prince George'S County Public Schools,New Carrollton,MD,Prince George'S County,7101 Good Luck Rd,20784,0,Lamont Elementary School
+1240,Gaywood Elementary,Prince George'S County Public Schools,Seabrook,MD,Prince George'S County,6701 97th Ave,20706,0,Gaywood Elementary School
+1241,Oaklands Elementary,Prince George'S County Public Schools,Laurel,MD,Prince George'S County,13710 Laurel Bowie Rd,20708,0,Oaklands Elementary School
+1242,Mattaponi Elementary,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,11701 Duley Station Rd,20772,0,Mattaponi Elementary School
+1243,Nicholas Orem Middle,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,6100 Editors Park Dr,20782,0,Nicholas Orem Middle School
+1244,William Beanes Elementary,Prince George'S County Public Schools,Suitland,MD,Prince George'S County,5108 Dianna Dr,20746,0,William Beanes Elementary School
+1245,Oxon Hill Elementary,Prince George'S County Public Schools,Oxon Hill,MD,Prince George'S County,7701 Livingston Rd,20745,0,Oxon Hill Elementary School
+1246,Crossland Evening/Saturday High,Prince George'S County Public Schools,Temple Hills,MD,Prince George'S County,6901 Temple Hill Rd,20748,0,Crossland Evening/Saturday High School
+1247,Potomac High,Prince George'S County Public Schools,Oxon Hill,MD,Prince George'S County,5211 Boydell Ave,20745,0,Potomac High School
+1248,Ridgecrest Elementary,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,6120 Riggs Rd,20783,0,Ridgecrest Elementary School
+1249,Cesar Chavez Elementary,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,6609 Riggs Rd,20782,0,Cesar Chavez Elementary School
+1250,Rockledge Elementary,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,7701 Laurel Bowie Rd,20715,0,Rockledge Elementary School
+1251,Samuel Ogle Middle,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,4111 Chelmont Ln,20715,0,Samuel Ogle Middle School
+1252,Suitland High,Prince George'S County Public Schools,Forestville,MD,Prince George'S County,5200 Silver Hill Rd,20747,0,Suitland High School
+1253,Tulip Grove Elementary,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,3501 Moylan Dr,20715,0,Tulip Grove Elementary School
+1254,University Park Elementary,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,4315 Underwood St,20782,0,University Park Elementary School
+1255,Oxon Hill High,Prince George'S County Public Schools,Oxon Hill,MD,Prince George'S County,6701 Leyte Dr,20745,0,Oxon Hill High School
+1256,Woodmore Elementary,Prince George'S County Public Schools,Mitchellville,MD,Prince George'S County,12500 Woodmore Rd,20721,0,Woodmore Elementary School
+1257,G. James Gholson Middle,Prince George'S County Public Schools,Landover,MD,Prince George'S County,900 Nalley Rd,20785,0,G. James Gholson Middle School
+1258,Green Valley Academy At Edgar Allan Poe,Prince George'S County Public Schools,Suitland,MD,Prince George'S County,2001 Shadyside Avenue,20746,0,Green Valley Academy At Edgar Allan Poe
+1259,Gladys Noon Spellman Elementary,Prince George'S County Public Schools,Cheverly,MD,Prince George'S County,3324 64th Ave,20785,0,Gladys Noon Spellman Elementary School
+1260,International High School @ Langley Park,Prince George'S County Public Schools,Bladensburg,MD,Prince George'S County,5150 annapolis Rd,20710,0,International High School @ Langley Park
+1261,International High School @ Largo,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,505 Largo Rd,20772,0,International High School @ Largo
+1262,Edward M. Felegy Es,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,6110 Editors Park Dr,20782,0,Edward M. Felegy Elementary School
+1263,Seat Pleasant Elementary,Prince George'S County Public Schools,Capital Heights,MD,Prince George'S County,6411 G St,20743,0,Seat Pleasant Elementary School
+1264,Frederick Douglass High,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,8000 Croom Rd,20772,0,Frederick Douglass High School
+1265,Oxon Hill Middle,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,9570 Fort Foote Rd,20744,0,Oxon Hill Middle School
+1266,Thurgood Marshall Middle School,Prince George'S County Public Schools,Temple Hills,MD,Prince George'S County,4909 Brinkley Rd,20748,0,Thurgood Marshall Middle School
+1267,H. W. Wheatley Early Childhood Center,Prince George'S County Public Schools,Capitol Heights,MD,Prince George'S County,8801 Ritchie Dr,20743,0,H. W. Wheatley Early Childhood Center
+1268,Langley Park/Mccormick Elementary,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,8201 15th Ave,20783,0,Langley Park/Mccormick Elementary School
+1269,Suitland Elementary,Prince George'S County Public Schools,Suitland,MD,Prince George'S County,4650 Homer Ave,20746,0,Suitland Elementary School
+1270,Port Towns Elementary,Prince George'S County Public Schools,Bladensburg,MD,Prince George'S County,4351 58th Ave,20710,0,Port Towns Elementary School
+1271,William W. Hall Academy,Prince George'S County Public Schools,Capitol Heights,MD,Prince George'S County,5200 Marlboro Pk,20743,0,William W. Hall Academy
+1272,Capitol Heights Elementary,Prince George'S County Public Schools,Capitol Heights,MD,Prince George'S County,601 Suffolk Ave,20743,0,Capitol Heights Elementary School
+1273,Yorktown Elementary,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,7301 Race Track Rd,20715,0,Yorktown Elementary School
+1274,Templeton Elementary,Prince George'S County Public Schools,Riverdale,MD,Prince George'S County,6001 Carters Ln,20737,0,Templeton Elementary School
+1275,Bladensburg Elementary,Prince George'S County Public Schools,Bladensburg,MD,Prince George'S County,4915 Annapolis Rd,20710,0,Bladensburg Elementary School
+1276,High Bridge Elementary,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,7011 High Bridge Rd,20720,0,High Bridge Elementary School
+1277,Andrew Jackson Academy,Prince George'S County Public Schools,Forestville,MD,Prince George'S County,3500 Regency Pkwy,20747,0,Andrew Jackson Academy
+1278,Glenarden Woods Elementary,Prince George'S County Public Schools,Lanham,MD,Prince George'S County,7801 Glenarden Parkway,20706,1,Glenarden Woods Elementary School
+1279,Gwynn Park Middle,Prince George'S County Public Schools,Brandywine,MD,Prince George'S County,8000 Dyson Rd,20613,0,Gwynn Park Middle School
+1280,Francis T. Evans Elementary,Prince George'S County Public Schools,Clinton,MD,Prince George'S County,6720 Old Alexandria Ferry Rd,20735,0,Francis T. Evans Elementary School
+1281,North Forestville Elementary,Prince George'S County Public Schools,Forestville,MD,Prince George'S County,2311 Ritchie Rd,20747,0,North Forestville Elementary School
+1282,Valley View Elementary,Prince George'S County Public Schools,Oxon Hill,MD,Prince George'S County,5500 Danby Ave,20745,0,Valley View Elementary School
+1283,Accokeek Academy,Prince George'S County Public Schools,Accokeek,MD,Prince George'S County,14400 Berry Rd,20607,0,Accokeek Academy
+1284,Carrollton Elementary,Prince George'S County Public Schools,New Carrollton,MD,Prince George'S County,8300 Quintana St,20784,0,Carrollton Elementary School
+1285,Mt Rainier Elementary,Prince George'S County Public Schools,Mt Rainier,MD,Prince George'S County,4011 32nd St,20712,0,Mt Rainier Elementary School
+1286,Springhill Lake Elementary,Prince George'S County Public Schools,Greenbelt,MD,Prince George'S County,6060 Springhill Dr,20770,0,Springhill Lake Elementary School
+1287,Northview Elementary,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,3700 Northview Drive,20716,0,Northview Elementary School
+1288,Pointer Ridge Elementary,Prince George'S County Public Schools,Bowie,MD,Prince George'S County,1110 Parkington Ln,20716,0,Pointer Ridge Elementary School
+1289,J. Frank Dent Elementary,Prince George'S County Public Schools,Fort Washington,MD,Prince George'S County,2700 Corning Ave,20744,0,J. Frank Dent Elementary School
+1290,High Point High,Prince George'S County Public Schools,Beltsville,MD,Prince George'S County,3601 Powder Mill Rd,20705,0,High Point High School
+1291,Kingsford Elementary,Prince George'S County Public Schools,Mitchellville,MD,Prince George'S County,1401 Enterprise Rd,20721,0,Kingsford Elementary School
+1292,James E. Duckworth Regional Center,Prince George'S County Public Schools,Beltsville,MD,Prince George'S County,11201 Evans Trl,20705,0,James E. Duckworth Regional Center
+1293,Northwestern High,Prince George'S County Public Schools,Hyattsville,MD,Prince George'S County,7000 Adelphi Rd,20782,0,Northwestern High School
+1294,Rosaryville Elementary,Prince George'S County Public Schools,Upper Marlboro,MD,Prince George'S County,9925 Rosaryville Rd,20772,0,Rosaryville Elementary School
+1295,Park Avenue Elementary,Yuba City Unified,Yuba City,CA,Sutter County,100 Morton St.,95991,0,Park Avenue Elementary School
+1296,Yuba City Special Education Preschool,Yuba City Unified,Yuba City,CA,Sutter County,1799 Camino de Flores,95993,0,Yuba City Special Education Preschool
+1297,Butte Vista Elementary,Yuba City Unified,Yuba City,CA,Sutter County,2195 Blevin Rd.,95993,0,Butte Vista Elementary School
+1298,Riverbend Elementary,Yuba City Unified,Yuba City,CA,Sutter County,301 Stewart Rd.,95991,0,Riverbend Elementary School
+1299,April Lane Elementary,Yuba City Unified,Yuba City,CA,Sutter County,800 April Ln.,95991,0,April Lane Elementary School
+1300,Barry Elementary,Yuba City Unified,Yuba City,CA,Sutter County,1255 Barry Rd.,95991,1,Barry Elementary School
+1301,Central Gaither Elementary,Yuba City Unified,Yuba City,CA,Sutter County,8403 Bailey Rd.,95993,0,Central Gaither Elementary School
+1302,Albert Powell Continuation,Yuba City Unified,Yuba City,CA,Sutter County,1875 Clark Ave.,95991,1,Albert Powell Continuation
+1303,King Avenue Elementary,Yuba City Unified,Yuba City,CA,Sutter County,630 King Ave.,95991,1,King Avenue Elementary School
+1304,Gray Avenue Middle,Yuba City Unified,Yuba City,CA,Sutter County,808 Gray Ave.,95991,1,Gray Avenue Middle School
+1305,Lincoln Elementary,Yuba City Unified,Yuba City,CA,Sutter County,1582 Lincoln Rd.,95993,0,Lincoln Elementary School
+1306,Yuba City High,Yuba City Unified,Yuba City,CA,Sutter County,850 B St.,95991,1,Yuba City High School
+1307,Bridge Street Elementary,Yuba City Unified,Yuba City,CA,Sutter County,500 Bridge St.,95991,0,Bridge Street Elementary School
+1308,Tierra Buena Elementary,Yuba City Unified,Yuba City,CA,Sutter County,1794 Villa Ave.,95993,0,Tierra Buena Elementary School
+1309,Lincrest Elementary,Yuba City Unified,Yuba City,CA,Sutter County,1400 Phillips Rd.,95991,0,Lincrest Elementary School
+1310,Andros Karperos,Yuba City Unified,Yuba City,CA,Sutter County,1700 Camino de Flores,95993,0,Andros Karperos
+1311,River Valley High,Yuba City Unified,Yuba City,CA,Sutter County,801 El Margarita Rd.,95993,0,River Valley High School
+1312,Yuba City Independence Academy,Yuba City Unified,Yuba City,CA,Sutter County,984 B St.,95991,0,Yuba City Independence Academy
+1313,Pcm High School,Pcm Comm School District,Monroe,IA,Jasper County,400 East Highway 163,50170,1,Pcm High School
+1314,Monroe Elementary School,Pcm Comm School District,Monroe,IA,Jasper County,400 N Jasper,50170,1,Monroe Elementary School
+1315,Prairie City Elementary School,Pcm Comm School District,Prairie City,IA,Jasper County,309 East Plainsmen Road,50228,1,Prairie City Elementary School
+1316,Pcm Middle School,Pcm Comm School District,Prairie City,IA,Jasper County,407 Plainsmen Rd,50228,1,Pcm Middle School
+1317,Eastside Elementary,Eastside Union Elementary,Lancaster,CA,Los Angeles County,6742 E. Ave. H,93535,0,Eastside Elementary School
+1318,Gifford C. Cole Middle,Eastside Union Elementary,Lancaster,CA,Los Angeles County,3126 E. Ave. I,93535,1,Gifford C. Cole Middle School
+1319,Enterprise Elementary,Eastside Union Elementary,Lancaster,CA,Los Angeles County,3730 E. Ave. J-4,93535,0,Enterprise Elementary School
+1320,Eastside Academy/Transitional Learning Center,Eastside Union Elementary,Lancaster,CA,Los Angeles County,44958 30th St. E.,93535,1,Eastside Academy/Transitional Learning Center
+1321,Columbia Elementary,Eastside Union Elementary,Lancaster,CA,Los Angeles County,2640 E. Ave. J-4,93535,0,Columbia Elementary School
+1322,Tierra Bonita Elementary,Eastside Union Elementary,Lancaster,CA,Los Angeles County,44820 N. 27th St. E.,93535,1,Tierra Bonita Elementary School
+1323,Galva Elem School,Galva Cusd 224,Galva,IL,Henry County,224 Morgan Rd,61434,1,Galva Elem School
+1324,Galva Jr-Sr High School,Galva Cusd 224,Galva,IL,Henry County,224 Morgan Rd,61434,1,Galva Jr-Sr High School
+1325,Mcdaniel Learning Center,Laurel County,London,KY,Laurel County,275 South Laurel Rd.,40744,0,Mcdaniel Learning Center
+1326,Bush Elementary School,Laurel County,London,KY,Laurel County,1832 E Laurel Rd,40741,1,Bush Elementary School
+1327,Colony Elementary School,Laurel County,London,KY,Laurel County,3656 Somerset Road,40741,0,Colony Elementary School
+1328,Wyan-Pine Grove Elementary,Laurel County,London,KY,Laurel County,2330 KEAVY ROAD,40744,0,Wyan-Pine Grove Elementary School
+1329,Sublimity Elementary School,Laurel County,London,KY,Laurel County,900 Sublimity School Rd,40744,0,Sublimity Elementary School
+1330,Hunter Hills Elementary School,Laurel County,Corbin,KY,Laurel County,8325 S US 25,40701,0,Hunter Hills Elementary School
+1331,North Laurel High School,Laurel County,London,KY,Laurel County,1300 East Hal Rogers Parkway,40741,1,North Laurel High School
+1332,Cold Hill Elementary School,Laurel County,London,KY,Laurel County,4012 W Laurel Rd,40741,0,Cold Hill Elementary School
+1333,Laurel County Day Treatment,Laurel County,London,KY,Laurel County,65 Marydell Rd,40741,0,Laurel County Day Treatment
+1334,North Laurel Middle School,Laurel County,London,KY,Laurel County,101 Johnson Rd,40741,1,North Laurel Middle School
+1335,Keavy Elementary School,Laurel County,Keavy,KY,Laurel County,598 W Hwy 312,40737,0,Keavy Elementary School
+1336,Camp Ground Elementary School,Laurel County,London,KY,Laurel County,6800 Barbourville Rd,40744,0,Camp Ground Elementary School
+1337,Laurel County Virtual Academy,Laurel County,London,KY,Laurel County,718 N. Main Street,40741,0,Laurel County Virtual Academy
+1338,Johnson Elementary School,Laurel County,London,KY,Laurel County,1781 McWhorter Rd,40741,1,Johnson Elementary School
+1339,South Laurel High School,Laurel County,London,KY,Laurel County,201 South Laurel Rd,40744,1,South Laurel High School
+1340,London Elementary School,Laurel County,London,KY,Laurel County,600 N Main St,40741,0,London Elementary School
+1341,South Laurel Middle School,Laurel County,London,KY,Laurel County,223 S Laurel Rd,40744,1,South Laurel Middle School
+1342,Laurel Co Schools Center For Innovation,Laurel County,London,KY,Laurel County,1100 East Fourth Street,40741,0,Laurel Co Schools Center For Innovation
+1343,Hazel Green Elementary School,Laurel County,East Bernstadt,KY,Laurel County,2515 Hwy 1394,40729,0,Hazel Green Elementary School
+1344,Goldenview Colony School - 04,Mccook Central School District 43-7,Salem,SD,Mccook County,25473 438th Ave,57058,1,Goldenview Colony School - 04
+1345,Mccook Central Middle School - 03,Mccook Central School District 43-7,Salem,SD,Mccook County,200 E Essex,57058,1,Mccook Central Middle School - 03
+1346,Mccook Central Elementary - 02,Mccook Central School District 43-7,Salem,SD,Mccook County,200 E Essex,57058,1,Mccook Central Elementary - 02
+1347,Mccook Central High School - 01,Mccook Central School District 43-7,Salem,SD,Mccook County,200 E Essex,57058,1,Mccook Central High School - 01
+1348,Okay Es,Okay,Okay,OK,Wagoner County,8611 N  49th Street East,74446,1,Okay Elementary School
+1349,Okay Hs,Okay,Okay,OK,Wagoner County,8611 N  49th Street East,74446,1,Okay High School
+1350,Westville Es,Westville,Westville,OK,Adair County,500 W Chincapin,74965,1,Westville Elementary School
+1351,Westville Jhs,Westville,Westville,OK,Adair County,500 W Chincapin,74965,1,Westville Junior High School
+1352,Westville Hs,Westville,Westville,OK,Adair County,500 W Chincapin,74965,1,Westville High School
+1353,Simons Middle School,Fleming County,Flemingsburg,KY,Fleming County,242 W Water St,41041,1,Simons Middle School
+1354,Hillsboro Elementary School,Fleming County,Hillsboro,KY,Fleming County,7348 Hillsboro Rd,41049,1,Hillsboro Elementary School
+1355,Flemingsburg Elementary School,Fleming County,Flemingsburg,KY,Fleming County,245 W Water St,41041,0,Flemingsburg Elementary School
+1356,E P Ward Elementary School,Fleming County,Wallingford,KY,Fleming County,12811 Morehead Rd,41093,0,E P Ward Elementary School
+1357,Ewing Elementary School,Fleming County,Ewing,KY,Fleming County,5651 Elizaville Rd.,41039,1,Ewing Elementary School
+1358,Fleming County High School,Fleming County,Flemingsburg,KY,Fleming County,1658 Elizaville Rd,41041,1,Fleming County High School
+1359,Caledonia Elem.,Valley R-Vi,Caledonia,MO,Washington County,1 VIKING DR,63631,1,Caledonia Elem.
+1360,Belgrade Elem.,Valley R-Vi,Caledonia,MO,Washington County,#2 Viking Drive,63631,0,Belgrade Elem.
+1361,Valley High,Valley R-Vi,Caledonia,MO,Washington County,1 VIKING DR,63631,1,Valley High School
+1362,Westside Park Elementary,Adelanto Elementary,Adelanto,CA,San Bernardino County,18270 Casaba Rd.,92301,0,Westside Park Elementary School
+1363,Columbia Middle,Adelanto Elementary,Adelanto,CA,San Bernardino County,14409 Aster St.,92301,0,Columbia Middle School
+1364,West Creek Elementary,Adelanto Elementary,Victorville,CA,San Bernardino County,15763 Colbalt Rd.,92395,0,West Creek Elementary School
+1365,Donald F. Bradach Elementary,Adelanto Elementary,Adelanto,CA,San Bernardino County,15550 Bellflower Rd.,92301,0,Donald F. Bradach Elementary School
+1366,Adelanto Elementary,Adelanto Elementary,Adelanto,CA,San Bernardino County,17931 Jonathan St.,92301,1,Adelanto Elementary School
+1367,Melva Davis Academy Of Excellence,Adelanto Elementary,Victorville,CA,San Bernardino County,15831 Diamond Rd.,92394,1,Melva Davis Academy Of Excellence
+1368,El Mirage,Adelanto Elementary,Adelanto,CA,San Bernardino County,19250 St. Anthony Ave.,92301,0,Elementary Mirage
+1369,George Visual And Performing Arts Magnet And Middle,Adelanto Elementary,Adelanto,CA,San Bernardino County,10650 Bartlett Ave.,92301,0,George Visual And Performing Arts Magnet And Middle School
+1370,Mesa Linda Middle,Adelanto Elementary,Victorville,CA,San Bernardino County,13001 Mesa Linda Rd.,92392,1,Mesa Linda Middle School
+1371,Gus Franklin Jr. School,Adelanto Elementary,Victorville,CA,San Bernardino County,13125 Hopland St.,92395,0,Gus Franklin Jr. School
+1372,Victoria Magathan Elementary,Adelanto Elementary,Adelanto,CA,San Bernardino County,11411 Holly Rd.,92301,0,Victoria Magathan Elementary School
+1373,Eagle Ranch Elementary,Adelanto Elementary,Adelanto,CA,San Bernardino County,12545 Eagle Ranch Pkwy.,92301,1,Eagle Ranch Elementary School
+1374,Morgan Kincaid Preparatory,Adelanto Elementary,Victorville,CA,San Bernardino County,13257 Mesa Linda Ave.,92392,0,Morgan Kincaid Preparatory
+1375,Theodore Vick Elementary,Adelanto Elementary,Adelanto,CA,San Bernardino County,10575 Seneca,92301,0,Theodore Vick Elementary School
